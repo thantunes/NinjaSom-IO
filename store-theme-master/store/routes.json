@@ -1,0 +1,33 @@
+{
+  "store.custom#about-us": {
+    "path": "/about-us"
+  },
+  "store.custom#faq": {
+    "path": "/duvidas-frequentes"
+  },
+  "store.custom#contact-us": {
+    "path": "/contact-us"
+  },
+  "store.custom#quem-somos": {
+    "path": "/quem-somos"
+  },
+  "store.custom#formas-de-pagamento": {
+    "path": "/formas-de-pagamento"
+  },
+  "store.custom#politica-de-privacidade": {
+    "path": "/politica-de-privacidade"
+  },
+  "store.custom#trocas-e-devolucoes": {
+    "path": "/trocas-e-devolucoes"
+  },
+  "store.custom#prazo-de-entrega": {
+    "path": "/prazo-de-entrega"
+  },
+  "store.custom#nossas-lojas": {
+    "path": "/nossas-lojas"
+  },
+  "store.custom#promocoes":{
+    "path": "/promocoes"
+  }
+
+}
