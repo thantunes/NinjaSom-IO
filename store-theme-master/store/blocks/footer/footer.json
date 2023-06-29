@@ -5,7 +5,7 @@
   "footer-layout.desktop": {
     "children": [
       "flex-layout.row#footer-1-desktop",
-  
+    
       "flex-layout.row#footer-3-desktop"
     ]
   },
@@ -24,18 +24,41 @@
   },
 
 
+
+
+
   "flex-layout.col#footer-logotipo": {
-    "children": ["image#logo-footer","rich-text#logo-footer"],
+    "children": ["image#logo-footer","rich-text#logo-footer","flex-layout.col#whatsappflutuante"],
     "props": {
       "blockClass": "logo-footer"
     }
   },
 
 
+  "flex-layout.col#whatsappflutuante": {
+    "children": ["image#whatsappflutuante"],
+    "props": {
+      "blockClass": "botao-whatsapp-flutuante"
+    }
+  },
+
+
+
   "image#logo-footer": {
     "props": {
       "src": "/arquivos/logotipo-io.png"
     
+    }
+  },
+
+  "image#whatsappflutuante": {
+    "props": {
+      "src": "/arquivos/whats-icon.png",
+      "blockClass": "whatsapp-flutuante",
+      "link": {
+        "url": "https://whts.co/ninjasom",
+        "newTab":"true"
+      }
     }
   },
 
