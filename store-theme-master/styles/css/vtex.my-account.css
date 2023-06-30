@@ -247,7 +247,7 @@ thiago
 :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news)
 :global(.vtex-flex-layout-0-x-flexCol){background-color:transparent!important;}
 :global(.vtex-rich-text-0-x-paragraph--endereco-footer){font-family: 'Montserrat',sans-serif;color: #fff;font-size: 10px;max-width: 323px;}
-:global(.vtex-rich-text-0-x-paragraph--titulo-footer){font-family: 'Alumni Sans'; font-size: 20px;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 1.5rem;font-weight: 600;}
+:global(.vtex-rich-text-0-x-paragraph--titulo-footer){font-family: 'Alumni Sans'; font-size: 18px!important;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 1.5rem;font-weight: 600;}
 :global(.vtex-flex-layout-0-x-flexRowContent--menu-row-footer)
 :global(.vtex-flex-layout-0-x-stretchChildrenWidth):nth-child(1){width: 45%!important;padding-right: 59px; margin-top: 78px;}
 :global(.vtex-flex-layout-0-x-flexColChild--logo-footer){margin:auto;}
@@ -255,8 +255,8 @@ thiago
 :global(.vtex-menu-2-x-styledLinkContent){font-size: 16px;font-weight: 400;}
 :global(.vtex-rich-text-0-x-paragraph--texto-footer),
 :global(.vtex-rich-text-0-x-link--texto-footer){font-family: 'Montserrat',sans-serif; font-style: normal;font-weight: 500;color: #fff;font-size: 16px;padding: 0px;margin: 0px;font-size: 16px;font-weight: 400;text-decoration:none;}
-:global(.vtex-rich-text-0-x-paragraph--titulo-footer-atendimento) {font-family: 'Alumni Sans';font-size: 18px;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 0;font-weight: 600;}
-:global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos) {font-family: 'Alumni Sans';font-size: 18px;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 0;font-weight: 600;margin-top:20px;}
+:global(.vtex-rich-text-0-x-paragraph--titulo-footer-atendimento) {font-family: 'Alumni Sans';font-size: 18px!important;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 0;font-weight: 600;}
+:global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos) {font-family: 'Alumni Sans';font-size: 18px!important;padding: 0px;margin: 0px;color: #fff;text-align: center;margin-left: 0;font-weight: 600;margin-top:20px;}
 :global(.vtex-flex-layout-0-x-flexRowContent--menu-row-footer)
 :global(.vtex-flex-layout-0-x-flexRowContent--redes-sociais-footer)
 :global(.vtex-flex-layout-0-x-stretchChildrenWidth){width: auto!important;padding-right: 15px!important;padding-left: 0!important;margin-top: 0!important;}
@@ -707,7 +707,24 @@ thiago
 
       :global(.vtex-rich-text-0-x-wrapper--fonte-nossas-lojas-internas){padding:30px;}
 
+
+      :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc){max-width: 230px;
+         display: block;
+         margin: auto;
+         padding-top: 5px;
+         padding-right: 34px;}
+
+         :global(.vtex-rich-text-0-x-strong--nossas-lojas-estacionamento-sjc){font-size: 15px;}
+         :global(.vtex-rich-text-0-x-paragraph--nossas-lojas-estacionamento-sjc){font-size: 12px;}
+
+         
+
+
 @media screen and (max-width: 992px) {
+
+   :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc-mobile){padding-top: 25px;}
+   :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc){display:none;}
+
    :global(.vtex-flex-layout-0-x-flexRowContent--main-header-mobile){    background-color: #010449;}
    :global(.vtex-store-drawer-0-x-menuIcon){color: #fff;}
    :global(.vtex-login-2-x-label){display:none;}
@@ -849,6 +866,8 @@ thiago
    :global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos){margin-top:0px!important;}
    :global(.vtex-flex-layout-0-x-flexCol--blocos-footer-mobile-feito-por){    background-color: #fff;}
 
+   :global(.vtex-menu-2-x-menuConteinerNav--bloco-nossas-lojas-megamenu){background-color:#fff!important;}
+
    :global(.vtex-flex-layout-0-x-flexCol--blocos-footer-mobile-feito-por)
    :global(.vtex-flex-layout-0-x-flexColChild){float:left;}
 
@@ -910,7 +929,7 @@ thiago
 :global(.vtex-flex-layout-0-x-flexRow--formas-de-pagamento-conteudo){    padding: 30px;}
 
 :global(.vtex-rich-text-0-x-paragraph--titulo-footer-pagamentos){    font-size: 16px;}
-:global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos){    font-size: 16px;}
+:global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos){    font-size: 16px!important;}
 
 :global(#menu-item-category-home-promocoes) 
 :global(.vtex-menu-2-x-styledLinkContent::before){display:none;}
@@ -954,7 +973,7 @@ thiago
 }
 @media screen and (min-width: 993px) {
 :global(.vtex-slider-layout-0-x-sliderLayoutContainer--carousel-home-categorias){display:none;}
-
+:global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc-mobile){display:none;}
 }
 
 
