@@ -17,7 +17,7 @@
     },
 
     "flex-layout.col#nossas-lojas-bh-banner-1":{
-      "children": ["rich-text#nossas-lojas-abc-banner-title"],
+      "children": ["rich-text#nossas-lojas-bh-banner-title"],
       "props":{
         "blockClass": "nossas-lojas-banner-title"
       }
