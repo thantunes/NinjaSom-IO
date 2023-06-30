@@ -52,6 +52,9 @@
   },
   "store.custom#nossas-lojas-sjc":{
     "path": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-sao-jose-dos-campos"
-  }
+  },
+  "store.custom#nossas-lojas-bh":{ 
+    "path": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-belo-horizonte"
+}
 
 }
