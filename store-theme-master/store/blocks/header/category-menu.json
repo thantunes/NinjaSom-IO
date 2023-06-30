@@ -2943,9 +2943,32 @@
         "tagTitle": "Nossas Lojas",
         "text": "Nossas Lojas"
       }
-    }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#lojas"]
   },
 
+  "vtex.menu@2.x:submenu#lojas": {
+    "children": [
+      "vtex.menu@2.x:menu#submenulojas"
+      
+    ]
+  },
+  "vtex.menu@2.x:menu#submenulojas": {
+    "props": {
+      "orientation": "vertical",
+      "blockClass": "bloco-nossas-lojas-megamenu"
+    },
+    "children": [
+      "menu-item#nossas-lojas-matriz",
+      "menu-item#nossas-lojas-santa-efigenia",
+      "menu-item#nossas-lojas-ninja-pro-audio",
+      "menu-item#nossas-lojas-pinheiros",
+       "menu-item#nossas-lojas-santo-andre",
+      "menu-item#nossas-lojas-campinas",
+      "menu-item#nossas-lojas-poa",
+      "menu-item#nossas-lojas-bh"
+    ]
+  },
 
 
 
@@ -3513,6 +3536,139 @@
         "noFollow": false,
         "tagTitle": "Ver todos",
         "text": "Ver todos"
+      }
+    }
+  },
+
+
+  "menu-item#nossas-lojas-matriz": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-som-e-instrumentos-rua-santa-efigenia-sp ",
+        "noFollow": false,
+        "tagTitle": "Matriz - SP",
+        "text": "Matriz - SP"
+      }
+    }
+  },
+
+  "menu-item#nossas-lojas-santa-efigenia": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-som-e-instrumentos-rua-santa-efigenia-sp ",
+        "noFollow": false,
+        "tagTitle": "Santa Ifigênia - SP",
+        "text": "Santa Ifigênia - SP"
+      }
+    }
+  },
+
+  "menu-item#nossas-lojas-ninja-pro-audio": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-som-profissional-instrumentos-musicais-sp",
+        "noFollow": false,
+        "tagTitle": "Ninja Pro Áudio",
+        "text": "Ninja Pro Áudio"
+      }
+    }
+  },
+
+  "menu-item#nossas-lojas-pinheiros": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-instrumentos-musicais-teodoro-sampaio-sp",
+        "noFollow": false,
+        "tagTitle": "Pinheiros",
+        "text": "Pinheiros"
+      }
+    }
+  },
+
+
+  "menu-item#nossas-lojas-santo-andre": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-instrumentos-musicais-e-audio-no-abc-sp",
+        "noFollow": false,
+        "tagTitle": "Santo André - ABC",
+        "text": "Santo André - ABC"
+      }
+    }
+  },
+
+
+  "menu-item#nossas-lojas-campinas": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-instrumentos-e-audio-pro-em-campinas-sp",
+        "noFollow": false,
+        "tagTitle": "Campinas",
+        "text": "Campinas"
+      }
+    }
+  },
+
+
+  "menu-item#nossas-lojas-poa": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-poa",
+        "noFollow": false,
+        "tagTitle": "Porto Alegre",
+        "text": "Porto Alegre"
+      }
+    }
+  },
+
+
+  "menu-item#nossas-lojas-bh": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-belo-horizonte",
+        "noFollow": false,
+        "tagTitle": "Belo Horizonte",
+        "text": "Belo Horizonte"
       }
     }
   }
