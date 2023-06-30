@@ -52,7 +52,7 @@
     },
 
     "flex-layout.row#nnossas-lojas-sjc-bloco1": {
-      "children": ["image#nossas-lojas-sjc", "flex-layout.col#text-nossas-sjc-lojas"],
+      "children": ["flex-layout.col#image-nossas-lojas7", "flex-layout.col#text-nossas-sjc-lojas"],
       "props":{
         "blockClass": "nossas-lojas-topo"
       }
@@ -69,7 +69,9 @@
 
         "rich-text#nossas-lojas-sjc-whatsapp",
         "rich-text#nossas-lojas-sjc-0-800",
-        "rich-text#nossas-lojas-sjc-email"
+        "rich-text#nossas-lojas-sjc-email",
+        "image#logo-shopping-sjc-mobile",
+        "rich-text#conveniosjc"
       
       ],
       "props": {
