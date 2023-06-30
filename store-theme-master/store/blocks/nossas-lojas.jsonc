@@ -601,7 +601,7 @@
     },
 
     "flex-layout.row#nnossas-lojas-bloco7": {
-      "children": ["image#nossas-lojas7", "flex-layout.col#text-nossas-lojas7"],
+      "children": ["flex-layout.col#image-nossas-lojas7", "flex-layout.col#text-nossas-lojas7"],
       "props":{
         "blockClass": "nossas-lojas-topo"
       }
@@ -615,13 +615,26 @@
         "rich-text#nossas-lojas-end-como-chegar7",
         "rich-text#nossas-lojas-whatsapp7",
         "rich-text#nossas-lojas-0-8007",
-        "rich-text#nossas-lojas-email7"
+        "rich-text#nossas-lojas-email7",
+        "image#logo-shopping-sjc-mobile",
+        "rich-text#conveniosjc"
       
       ],
       "props": {
         "preventVerticalStretch": true
       }
     },
+
+
+    "flex-layout.col#image-nossas-lojas7": {
+      "children": ["image#nossas-lojas7","image#logo-shopping-sjc"]
+
+    },
+
+
+
+
+
     "rich-text#nossas-lojas-title7": {
       "props": {
         "text": "#### SÃO JOSE DOS CAMPOS",
@@ -675,6 +688,32 @@
         "blockClass": "nossas-lojas-email"
       }
     },
+
+    "image#logo-shopping-sjc": {
+      "props": {
+        "src": "/arquivos/logo-shopping-sjc.png",
+        "maxWidth": "230px",
+        "blockClass": "nossas-lojas-logo-estacionamento-sjc"
+      }
+    },
+
+    "image#logo-shopping-sjc-mobile": {
+      "props": {
+        "src": "/arquivos/logo-shopping-sjc.png",
+        "maxWidth": "230px",
+        "blockClass": "nossas-lojas-logo-estacionamento-sjc-mobile"
+      }
+    },
+
+    "rich-text#conveniosjc": {
+      "props": {
+        "text": "**Convênio com o estacionamento do Mont Mall Shopping** \n Rua Rubião Junior número 290 - Centro",
+        "blockClass": "nossas-lojas-estacionamento-sjc"
+      }
+    },
+
+
+
 
     "image#nossas-lojas7": {
       "props": {
