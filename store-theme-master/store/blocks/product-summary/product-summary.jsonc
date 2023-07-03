@@ -6,7 +6,8 @@
       "flex-layout.col#productRating",
       "product-summary-space",
       "product-list-price#summary",
-      "flex-layout.row#selling-price-savings",
+      "Price-discount-Component-Summary",
+      // "flex-layout.row#selling-price-savings",//esse aq
       "product-installments#summary",
       "add-to-cart-button"
     ]

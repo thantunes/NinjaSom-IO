@@ -1,0 +1,8 @@
+{
+    "Price-discount-Component":{
+        "component":"PriceDiscount"
+    },
+    "Price-discount-Component-Summary":{
+        "component":"PriceDiscountSummary"
+    }
+}
