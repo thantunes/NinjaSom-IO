@@ -417,7 +417,9 @@ thiago
    :global(.vtex-product-price-1-x-savings){    background-color: #000;
       color: #fff;
       padding-left: 13px;
-      font-size: 12px;}
+      font-size: 12px;
+      display: none;
+   }
 
       :global(.render-route-store-product)
       :global(.vtex-product-price-1-x-savings)
