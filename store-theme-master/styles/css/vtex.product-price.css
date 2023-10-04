@@ -84,9 +84,9 @@
 }
 
 .sellingPrice::after {
-  content:"  À vista";
-  font-size: 12px;
-  display: block;
-  bottom: 7px;
-  position: relative;
+  content:"  À vista" !important;
+  font-size: 12px !important;
+  display: block !important;
+  bottom: 7px !important;
+  position: relative !important;
 }

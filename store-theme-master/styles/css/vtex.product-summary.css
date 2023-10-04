@@ -1,4 +1,5 @@
-.skuSelectorContainer--quickview .skuSelectorItemImage .frameAround, .skuSelectorContainer--quickview .skuSelectorItemImage .skuSelectorInternalBox {
+.skuSelectorContainer--quickview .skuSelectorItemImage .frameAround,
+.skuSelectorContainer--quickview .skuSelectorItemImage .skuSelectorInternalBox {
   border-radius: 50%;
 }
 
@@ -39,4 +40,12 @@
 
 .image {
   border-radius: 0.25rem;
+}
+
+@media (max-width:768px) {
+  .clearLink :global(.vtex-product-price-1-x-sellingPrice) {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
 }
