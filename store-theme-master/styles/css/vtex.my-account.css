@@ -227,7 +227,7 @@ thiago
 :global(.vtex-menu-2-x-styledLinkContent){color:#fff!important;}
 :global(.vtex-store-footer-2-x-footerLayout)
 :global(.vtex-store-components-3-x-container){    max-width: 1255px;}
-:global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news){background-color: #044FBF;position: relative;padding-top: 30px;padding-bottom: 30px;margin-top: 140px;}
+:global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news){background-color: #044FBF;position: relative;padding-top: 30px;padding-bottom: 30px;margin-top: 180px;}
 :global(.vtex-flex-layout-0-x-flexRowContent--bloco-nova-news){ background-color: transparent!important;   max-width: 1000px;margin: auto;padding-left: 70px;}
 :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news)::before { content: ""; background-image: url(/arquivos/musico-newsletter-vtex-io.png);background-size: cover;background-repeat: no-repeat;background-position: bottom left;display: block; position: absolute; width: 380px; height: 349px;bottom: 0;z-index: 99999;left: 0;}
 :global(.vtex-rich-text-0-x-strong--texto-newsletter){font-family: 'Montserrat',sans-serif;font-size: 30px; color: #fff; font-weight: 400;}
@@ -459,9 +459,9 @@ thiago
 :global(.vtex-stack-layout-0-x-stackItem--product){min-height: inherit!important;}
 
 :global(.vtex-product-price-1-x-sellingPrice)::after {
-   content:"  à vista";
+   content:"  À vista";
    font-size: 12px;
- 
+   display: block;
 }
 
 :global(.vtex-flex-layout-0-x-flexRowContent--bloco-compre-por-departamento-megamenu){background-color:#fff;}

@@ -4,5 +4,8 @@
     },
     "Price-discount-Component-Summary":{
         "component":"PriceDiscountSummary"
+    },
+    "PDPCollection-Component":{
+        "component":"productCollection"
     }
 }

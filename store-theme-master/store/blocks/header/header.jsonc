@@ -155,7 +155,7 @@
       "vtex.menu@2.x:menu#instrumentos-de-percussao-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-sopro-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-teclas-mobile",
-      
+      "vtex.menu@2.x:menu#som-ambiente-mobile",
      // "menu-item#category-apparel",
       "menu-item#category-home",
       "menu-item#category-nossas-lojas"
@@ -313,6 +313,56 @@
       "menu-item#category-audio-phantom-power",
       "menu-item#category-audio-processadores-de-sinal",
       "menu-item#audiovertodosmobile"
+    ]
+  },
+
+
+
+  "vtex.menu@2.x:menu#som-ambiente-mobile": {
+    "props": {
+      "orientation": "vertical",
+      "blockClass":"menu-audio-mobile"
+    },
+    "children": [
+     
+      "menu-item#som-ambiente-mobile"
+    ]
+  },
+
+
+
+  "menu-item#som-ambiente-mobile": {
+    "props": {
+      "itemProps": {
+        "tagTitle": "Som Ambiente",
+        "text": "Som Ambiente"
+      }
+    },
+    "blocks": ["vtex.menu@2.x:submenu.accordion#som-ambiente-mobile"]
+  },
+  "vtex.menu@2.x:submenu.accordion#som-ambiente-mobile": {
+    "children": ["vtex.menu@2.x:menu#ssom-ambiente-mobile"]
+  },
+
+  "vtex.menu@2.x:menu#ssom-ambiente-mobile": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-principal-som-ambiente",
+      "menu-item#category-principal-som-auto-falantes",
+      "menu-item#category-principal-som-ambiente-amplificadores",
+      "menu-item#category-principal-som-ambiente-base-de-microfones",
+      "menu-item#category-principal-som-ambiente-cabos",
+      "menu-item#category-principal-som-ambiente-caixas-acusticas",
+      "menu-item#category-principal-som-ambiente-cornetas",
+      "menu-item#category-principal-som-ambiente-megafones",
+      "menu-item#category-principal-som-ambiente-microfones",
+      "menu-item#category-principal-som-ambiente-potenciometros",
+      "menu-item#category-principal-som-ambiente-pre-amplificadores",
+      "menu-item#category-principal-som-ambiente-seletores",
+      "menu-item#category-principal-som-ambiente-suportes",
+      "menu-item#category-principal-som-transformadores"
     ]
   },
 

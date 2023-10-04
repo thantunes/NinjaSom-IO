@@ -9,9 +9,12 @@ const PriceDisc = () => {
 
     console.log('Esse aq', product, skuSelector)
     const ValCalc = (productPrice - (productPrice * 0.08)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
+    const ValCalcRoland = (productPrice - (productPrice * 0.05)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
+    const SellerId = product?.items[0]?.sellers[1]?.sellerId == undefined ? "" : product.items[0]?.sellers[1]?.sellerId
     const [DomLoad, setDomLoad] = useState(true)
     useEffect(() => {
         const linkShelf = product.link
+
         setTimeout(() => {
             if (document.readyState == 'complete') {
                 console.log('document', document)
@@ -24,10 +27,13 @@ const PriceDisc = () => {
     })
     function CommertialRule() {
         if (productPrice > 100) {
-           return  <span style={{ display: DomLoad ? 'flex' : 'none', flexDirection: 'row', alignItems: 'baseline', gap: '5px', justifyContent: 'center' }} className='vtex-product-price-1-x-sellingPrice'><span style={{ fontSize: '24px', fontWeight: '700', lineHeight: '28px', color: '#010449', fontStyle: 'normal', fontFamily: '"Montserrat",sans-serif' }}>{ValCalc}</span></span>
+            if (SellerId == undefined ? "" : SellerId == "Roland") {
+                return <span style={{ display: DomLoad ? 'flex' : 'none', flexDirection: 'row', alignItems: 'baseline', gap: '5px', justifyContent: 'center' }} className='vtex-product-price-1-x-sellingPrice'><span style={{ fontSize: '24px', fontWeight: '700', lineHeight: '28px', color: '#010449', fontStyle: 'normal', fontFamily: '"Montserrat",sans-serif' }}>{ValCalcRoland.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</span></span>
+            } else {
+                return <span style={{ display: DomLoad ? 'flex' : 'none', flexDirection: 'row', alignItems: 'baseline', gap: '5px', justifyContent: 'center' }} className='vtex-product-price-1-x-sellingPrice'><span style={{ fontSize: '24px', fontWeight: '700', lineHeight: '28px', color: '#010449', fontStyle: 'normal', fontFamily: '"Montserrat",sans-serif' }}>{ValCalc}</span></span>
+            }
         } else {
-           return  <span style={{ display: DomLoad ? 'flex':'none' , flexDirection: 'row', alignItems: 'baseline', gap: '5px', justifyContent: 'center' }} className='vtex-product-price-1-x-sellingPrice'><span style={{ fontSize: '24px', fontWeight: '700', lineHeight: '28px', color: '#010449', fontStyle: 'normal', fontFamily: '"Montserrat",sans-serif' }}>{productPrice.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</span></span>
-
+            return <span style={{ display: DomLoad ? 'flex' : 'none', flexDirection: 'row', alignItems: 'baseline', gap: '5px', justifyContent: 'center' }} className='vtex-product-price-1-x-sellingPrice'><span style={{ fontSize: '24px', fontWeight: '700', lineHeight: '28px', color: '#010449', fontStyle: 'normal', fontFamily: '"Montserrat",sans-serif' }}>{productPrice.toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })}</span></span>
         }
     }
     return (

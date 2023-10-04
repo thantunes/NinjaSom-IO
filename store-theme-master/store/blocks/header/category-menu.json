@@ -712,8 +712,6 @@
 
     ]
   },
-
-
   "menu-item#category-principal-som-ambiente": {
     "props": {
       "id": "menu-item-principal-som-ambiente",
