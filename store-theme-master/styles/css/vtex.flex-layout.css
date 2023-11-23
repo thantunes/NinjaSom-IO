@@ -4,13 +4,21 @@
 }
 
 @media screen and (min-width: 40em) {
+
   .flexRowContent--menu-link,
   .flexRowContent--main-header {
     padding: 0 1rem;
   }
 }
 
+@media screen and (min-width: 1025px) {
+  .flexRow--product-AVA{
+    margin-bottom:420px ;
+  }
+}
+
 @media screen and (min-width: 80rem) {
+
   .flexRowContent--menu-link,
   .flexRowContent--main-header {
     padding: 0 0.25rem;

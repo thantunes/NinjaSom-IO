@@ -114,7 +114,7 @@
 
 thiago
 */
-:global(.vtex-sticky-layout-0-x-wrapper--sticky-header-menu){    z-index: 1;}
+:global(.vtex-sticky-layout-0-x-wrapper--sticky-header-menu){    z-index: 99999999;}
 
 :global(.vtex-sticky-layout-0-x-container.vtex-sticky-layout-0-x-container--sticky-header-menu.z-999.fixed.left-0.right-0){    top: 64px!important;background-color: #f0f0f0;}
 
@@ -308,7 +308,7 @@ thiago
 :global(.vtex-product-price-1-x-installmentValue)
 :global(.vtex-product-price-1-x-currencyContainer) {font-family: 'Roboto';font-style: normal;font-weight: 500; font-size: 16px!important; line-height: 19px;color: #525252; margin-left: 0px;}
 :global(.vtex-search-result-3-x-buttonShowMore){padding-bottom: 20px;}
-:global(.vtex-store-components-3-x-shippingContainer){padding: 0px 30px;}
+:global(.vtex-store-components-3-x-shippingContainer){padding: 60px 30px; padding-bottom: 100px;}
 :global(.vtex-product-identifier-0-x-product-identifier--productReference){margin-top: 12px;display: block;margin-left: 30px;}
 :global(.vtex-flex-layout-0-x-flexRowContent--productSpecification){background-color:#fff;}
 :global(.vtex-product-specifications-1-x-groupName){font-size:0px!important;}
@@ -391,7 +391,7 @@ thiago
    :global(.vtex-flex-layout-0-x-flexCol--botao-whatsapp-flutuante){position: fixed;
       bottom: 25px;
       right: 25px;
-      z-index: 99999999;
+      z-index: 9999;
       display: block;
       width: 55px;
       height: 55px;}
@@ -459,9 +459,9 @@ thiago
 :global(.vtex-stack-layout-0-x-stackItem--product){min-height: inherit!important;}
 
 :global(.vtex-product-price-1-x-sellingPrice)::after {
-   content:"  À vista";
+   content:"  à vista";
    font-size: 12px;
-   display: block;
+ 
 }
 
 :global(.vtex-flex-layout-0-x-flexRowContent--bloco-compre-por-departamento-megamenu){background-color:#fff;}
@@ -977,5 +977,4 @@ thiago
 :global(.vtex-slider-layout-0-x-sliderLayoutContainer--carousel-home-categorias){display:none;}
 :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc-mobile){display:none;}
 }
-
 

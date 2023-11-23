@@ -1,6 +1,8 @@
 {
   "store.search": {
-    "blocks": ["search-result-layout"],
+    "blocks": [
+      "search-result-layout"
+    ],
     "props": {
       "context": {
         "skusFilter": "ALL",
@@ -8,9 +10,10 @@
       }
     }
   },
-
   "store.search#brand": {
-    "blocks": ["search-result-layout"],
+    "blocks": [
+      "search-result-layout"
+    ],
     "props": {
       "context": {
         "orderByField": "OrderByReleaseDateDESC",
@@ -21,9 +24,10 @@
       }
     }
   },
-
   "store.search#department": {
-    "blocks": ["search-result-layout"],
+    "blocks": [
+      "search-result-layout"
+    ],
     "props": {
       "context": {
         "skusFilter": "ALL",
@@ -32,9 +36,10 @@
       }
     }
   },
-
   "store.search#category": {
-    "blocks": ["search-result-layout"],
+    "blocks": [
+      "search-result-layout"
+    ],
     "props": {
       "context": {
         "skusFilter": "ALL",
@@ -43,9 +48,10 @@
       }
     }
   },
-
   "store.search#subcategory": {
-    "blocks": ["search-result-layout"],
+    "blocks": [
+      "search-result-layout"
+    ],
     "props": {
       "context": {
         "skusFilter": "ALL",
@@ -54,7 +60,6 @@
       }
     }
   },
-
   "search-result-layout": {
     "blocks": [
       "search-result-layout.desktop",
@@ -62,7 +67,6 @@
       "search-not-found-layout"
     ]
   },
-
   "search-result-layout.desktop": {
     "children": [
       "flex-layout.row#searchbread",
@@ -79,24 +83,89 @@
     }
   },
   "flex-layout.row#searchbread": {
-    "children": ["breadcrumb.search"],
+    "children": [
+      "breadcrumb.search"
+    ],
     "props": {
-      "preserveLayoutOnMobile":true,
+      "preserveLayoutOnMobile": true,
       "fullWidth": true
     }
   },
   "flex-layout.row#searchtitle": {
-    "children": ["search-title.v2"]
+    "children": [
+      "search-title.v2"
+    ]
   },
   "flex-layout.row#result": {
-    "children": ["flex-layout.col#filter", "flex-layout.col#content"],
+    "children": [
+      "flex-layout.col#filter",
+      "flex-layout.col#content"
+    ],
     "props": {
       "preventHorizontalStretch": true,
       "fullWidth": true
     }
   },
+  "filter-navigator.v3": {
+    "props": {
+      "facetOrdering": [
+        {
+          "key": "brand",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "cor",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-1",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-2",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-3",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-4",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-5",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-6",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "category-7",
+          "orderBy": "name",
+          "order": "ASC"
+        },
+        {
+          "key": "tipo",
+          "orderBy": "name",
+          "order": "ASC"
+        }
+      ]
+    }
+  },
   "flex-layout.col#filter": {
-    "children": ["filter-navigator.v3"],
+    "children": [
+      "filter-navigator.v3"
+    ],
     "props": {
       "blockClass": "filterCol"
     }
@@ -114,10 +183,16 @@
     }
   },
   "flex-layout.row#searchinfo": {
-    "children": ["flex-layout.col#productCount", "flex-layout.row#orderByAndSwitcher"]
+    "children": [
+      "flex-layout.col#productCount",
+      "flex-layout.row#orderByAndSwitcher"
+    ]
   },
   "flex-layout.row#orderByAndSwitcher": {
-    "children": ["order-by.v2", "gallery-layout-switcher"],
+    "children": [
+      "order-by.v2",
+      "gallery-layout-switcher"
+    ],
     "props": {
       "horizontalAlign": "right",
       "preventHorizontalStretch": true,
@@ -126,7 +201,9 @@
     }
   },
   "flex-layout.col#productCount": {
-    "children": ["total-products.v2"],
+    "children": [
+      "total-products.v2"
+    ],
     "props": {
       "blockClass": "productCountCol"
     }
@@ -135,13 +212,17 @@
     "props": {
       "marginBottom": 3
     },
-    "children": ["search-fetch-previous"]
+    "children": [
+      "search-fetch-previous"
+    ]
   },
   "flex-layout.row#fetchmore": {
     "props": {
       "marginTop": 3
     },
-    "children": ["search-fetch-more"]
+    "children": [
+      "search-fetch-more"
+    ]
   },
   "search-fetch-previous": {
     "props": {
@@ -154,16 +235,18 @@
     }
   },
   "flex-layout.row#products": {
-    "children": ["search-content"]
+    "children": [
+      "search-content"
+    ]
   },
   "search-content": {
-    "blocks": ["gallery", "not-found"]
+    "blocks": [
+      "gallery",
+      "not-found"
+    ]
   },
-
   "search-result-layout.mobile": {
     "children": [
-     
-
       "search-title.v2",
       "flex-layout.row#searchinfomobile",
       "flex-layout.row#searchbread",
@@ -182,12 +265,13 @@
     }
   },
   "flex-layout.row#contentmobile": {
-    "children": ["search-content"],
+    "children": [
+      "search-content"
+    ],
     "props": {
       "preserveLayoutOnMobile": true
     }
   },
-
   "flex-layout.row#searchinfomobile": {
     "children": [
       "flex-layout.col#orderByMobile",
@@ -200,50 +284,57 @@
       "colJustify": "around"
     }
   },
-
   "flex-layout.col#orderByMobile": {
-    "children": ["order-by.v2"],
+    "children": [
+      "order-by.v2"
+    ],
     "props": {
       "blockClass": "orderByMobileCol"
     }
   },
-
   "flex-layout.row#productCountMobile": {
-    "children": ["total-products.v2"],
+    "children": [
+      "total-products.v2"
+    ],
     "props": {
       "blockClass": "productCountMobileRow"
     }
   },
-
   "flex-layout.col#filterMobile": {
-    "children": ["filter-navigator.v3"],
+    "children": [
+      "filter-navigator.v3"
+    ],
     "props": {
       "blockClass": "filterMobileCol"
     }
   },
   "flex-layout.col#switcherMobile": {
-    "children": ["gallery-layout-switcher"],
+    "children": [
+      "gallery-layout-switcher"
+    ],
     "props": {
       "verticalAlign": "middle"
     }
   },
   "search-not-found-layout": {
-    "children": ["flex-layout.row#searchbread", "flex-layout.row#notfound"]
+    "children": [
+      "flex-layout.row#searchbread",
+      "flex-layout.row#notfound"
+    ]
   },
-
   "flex-layout.row#notfound": {
-    "children": ["not-found"],
+    "children": [
+      "not-found"
+    ],
     "props": {
       "fullWidth": true
     }
   },
-
   "breadcrumb": {
     "props": {
       "showOnMobile": true
     }
   },
-
   "gallery": {
     "props": {
       "layouts": [
@@ -319,8 +410,6 @@
       "blockClass": "layout-option"
     }
   },
-
-
   "search-banner#one": {
     "props": {
       "area": "one",
@@ -329,28 +418,21 @@
     }
   },
   "flex-layout.row#banner-one": {
-    "children": ["search-banner#one"]
-  },
-
-
-
-  "flex-layout.row#banner-two-three":{
-
     "children": [
-    "flex-layout.col#banner-two",
-    "flex-layout.col#banner-three"
+      "search-banner#one"
     ]
-
   },
-
-  "flex-layout.col#banner-two":{
-
+  "flex-layout.row#banner-two-three": {
+    "children": [
+      "flex-layout.col#banner-two",
+      "flex-layout.col#banner-three"
+    ]
+  },
+  "flex-layout.col#banner-two": {
     "children": [
       "search-banner#two"
     ]
-
   },
-
   "search-banner#two": {
     "props": {
       "area": "two",
@@ -359,18 +441,15 @@
     }
   },
   "flex-layout.row#banner-two": {
-    "children": ["search-banner#two"]
+    "children": [
+      "search-banner#two"
+    ]
   },
-
-
-  "flex-layout.col#banner-three":{
-
+  "flex-layout.col#banner-three": {
     "children": [
       "search-banner#three"
     ]
-
   },
-
   "search-banner#three": {
     "props": {
       "area": "three",
@@ -379,10 +458,10 @@
     }
   },
   "flex-layout.row#banner-three": {
-    "children": ["search-banner#three"]
+    "children": [
+      "search-banner#three"
+    ]
   },
-
-
   "search-banner#four": {
     "props": {
       "area": "four",
@@ -391,10 +470,8 @@
     }
   },
   "flex-layout.row#banner-four": {
-    "children": ["search-banner#four"]
+    "children": [
+      "search-banner#four"
+    ]
   }
-
-
-
-
 }

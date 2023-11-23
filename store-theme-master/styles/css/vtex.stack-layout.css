@@ -8,3 +8,23 @@
   top: 0;
   left: auto;
 }
+
+.stackContainer--product .stackItem--first {
+  z-index: 4 !important;
+  position: absolute;
+  left: calc(100% - 76px);
+  right: 0px;
+}
+
+.stackContainer--product :global(.vtex-product-highlights-2-x-productHighlightWrapper--collection) {
+  left: unset;
+  right: 0px !important;
+}
+
+.stackContainer--product {
+  padding-bottom: 25px;
+}
+
+.stackItem--product {
+  padding-bottom: 25px;
+}

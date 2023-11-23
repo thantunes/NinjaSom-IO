@@ -2,10 +2,10 @@
     "Price-discount-Component":{
         "component":"PriceDiscount"
     },
+    "ProductBadge":{
+        "component":"ProductHigh"
+    },
     "Price-discount-Component-Summary":{
         "component":"PriceDiscountSummary"
-    },
-    "PDPCollection-Component":{
-        "component":"productCollection"
     }
 }
