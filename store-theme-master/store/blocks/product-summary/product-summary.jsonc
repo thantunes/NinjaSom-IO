@@ -79,7 +79,7 @@
       "product-price-savings#summary"
     ]
   },
-  "product-installments#summary": {
+  "product-installments#summary":{
     "props": {
       "blockClass": "summary"
     }

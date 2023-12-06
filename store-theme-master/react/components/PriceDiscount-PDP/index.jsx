@@ -5,7 +5,10 @@ import { useProduct } from 'vtex.product-context'
 const PriceDisc = () => {
 
     const { product } = useProduct()
-    const productPrice = product.items[0].sellers[0].commertialOffer.Price
+    const SellerID = product.items[0].sellers.filter(seller => seller.sellerDefault)
+    console.log({SellerID})
+    console.log({price: SellerID[0].commertialOffer.Price})
+    const productPrice = SellerID[0].commertialOffer.Price
     const ValCalcRoland = (productPrice - (productPrice * 0.05)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
     const ValCalc = (productPrice - (productPrice * 0.08)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
     console.log('Este é o produto', product)

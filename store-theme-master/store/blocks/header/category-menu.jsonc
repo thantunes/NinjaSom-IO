@@ -7,8 +7,6 @@
       "menu-item#compre-por-departamento",
       "menu-item#category-audio-profissional",
       "menu-item#category-instrumentos",
-    
-     
       "menu-item#category-home",
       "menu-item#category-nossas-lojas"
     ]
@@ -2192,21 +2190,6 @@
     ]
   },
 
-  "menu-item#category-principal-estudio": {
-    "props": {
-      "id": "menu-item-category-estudio",
-      "type": "custom",
-      "iconId": null,
-      "highlight": false,
-      "itemProps": {
-        "type": "internal",
-        "href": "/estudio",
-        "noFollow": false,
-        "tagTitle": "Estúdio",
-        "text": "Estúdio"
-      }
-    }
-  },
 
   "menu-item#category-estudio-acessorios": {
     "props": {

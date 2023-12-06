@@ -308,7 +308,7 @@ thiago
 :global(.vtex-product-price-1-x-installmentValue)
 :global(.vtex-product-price-1-x-currencyContainer) {font-family: 'Roboto';font-style: normal;font-weight: 500; font-size: 16px!important; line-height: 19px;color: #525252; margin-left: 0px;}
 :global(.vtex-search-result-3-x-buttonShowMore){padding-bottom: 20px;}
-:global(.vtex-store-components-3-x-shippingContainer){padding: 60px 30px; padding-bottom: 100px;}
+:global(.vtex-store-components-3-x-shippingContainer){padding: 60px 30px; padding-bottom: 10px;}
 :global(.vtex-product-identifier-0-x-product-identifier--productReference){margin-top: 12px;display: block;margin-left: 30px;}
 :global(.vtex-flex-layout-0-x-flexRowContent--productSpecification){background-color:#fff;}
 :global(.vtex-product-specifications-1-x-groupName){font-size:0px!important;}
@@ -463,6 +463,7 @@ thiago
    font-size: 12px;
  
 }
+:global(.vtex-product-price-1-x-sellingPrice)
 
 :global(.vtex-flex-layout-0-x-flexRowContent--bloco-compre-por-departamento-megamenu){background-color:#fff;}
 
@@ -762,11 +763,11 @@ thiago
    :global(.vtex-product-summary-2-x-brandName){font-size: 12px!important;line-height: 16px; min-height: 60px}
    :global(.vtex-product-price-1-x-sellingPriceValue--summary){font-size: 20px!important;}
    :global(.render-route-store-search-departament)
-   :global(.vtex-product-price-1-x-sellingPrice::after){display:none;}
+   /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
    :global(.render-route-store-search-category)
-   :global(.vtex-product-price-1-x-sellingPrice::after){display:none;}
+   /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
    :global(.render-route-store-home)
-   :global(.vtex-product-price-1-x-sellingPrice::after){display:none;}
+   /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
    :global(.vtex-product-price-1-x-installments--summary){font-size:0px!important;}
    :global(.vtex-product-price-1-x-installmentsNumber){font-size: 14px;}
    :global(.vtex-product-price-1-x-installmentsNumber::after){content: "x de";font-size: 14px;}
@@ -807,7 +808,7 @@ thiago
    :global(.vtex-input-prefix__group){border:none;}
    :global(span.c-muted-2.fw5.flex.items-center.t-body.bg-base.vtex-input__suffix.br2.bl-0.br--right.pr5.pl4){border-radius:0px;}
    :global(.render-route-store-search-subcategory)
-   :global(.vtex-product-price-1-x-sellingPrice::after){display:none;}
+   /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
    :global(.vtex-search-result-3-x-totalProducts--layout){display:none;}
    :global(.vtex-search-result-3-x-galleryItem.vtex-search-result-3-x-galleryItem--normal.vtex-search-result-3-x-galleryItem--grid.pa4) {    padding: 5px;}
    :global(.vtex-product-price-1-x-listPrice--summary){display:none;}
@@ -966,7 +967,7 @@ thiago
    margin: auto;}
 
    :global(.vtex-search-result-3-x-orderByButton){    margin-top: 0px;}
-   :global(.vtex-product-price-1-x-sellingPrice::after){display:none;}
+   /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
 
    :global(.vtex-search-result-3-x-galleryTitle--layout) {
       text-align: center;

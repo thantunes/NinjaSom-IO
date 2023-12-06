@@ -1,9 +1,15 @@
 {
   "header": {
-    "blocks": ["header-layout.desktop", "header-layout.mobile"]
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
   },
   "header.full": {
-    "blocks": ["header-layout.desktop", "header-layout.mobile"]
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
   },
   "header-layout.desktop": {
     "children": [
@@ -13,14 +19,14 @@
       "sticky-layout#5-desktop"
     ]
   },
-
   "flex-layout.row#1-desktop": {
-    "children": ["telemarketing"],
+    "children": [
+      "telemarketing"
+    ],
     "props": {
       "fullWidth": true
     }
   },
-  
   "flex-layout.row#3-desktop": {
     "props": {
       "blockClass": "menu-link",
@@ -38,7 +44,6 @@
       "width": "grow"
     }
   },
-
   "search-bar": {
     "props": {
       "width": "grow"
@@ -48,7 +53,9 @@
     "props": {
       "blockClass": "sticky-header"
     },
-    "children": ["flex-layout.row#4-desktop"]
+    "children": [
+      "flex-layout.row#4-desktop"
+    ]
   },
   "flex-layout.row#4-desktop": {
     "props": {
@@ -61,7 +68,6 @@
     },
     "children": [
       "flex-layout.col#logo-desktop",
-     
       "flex-layout.col#spacer",
       "search-bar",
       "flex-layout.col#spacer",
@@ -70,14 +76,14 @@
       "minicart.v2"
     ]
   },
-
   "sticky-layout#5-desktop": {
     "props": {
       "blockClass": "sticky-header-menu"
     },
-    "children": ["flex-layout.row#5-desktop"]
+    "children": [
+      "flex-layout.row#5-desktop"
+    ]
   },
-
   "flex-layout.row#5-desktop": {
     "props": {
       "blockClass": "main-header-menu",
@@ -88,26 +94,24 @@
       "fullWidth": true
     },
     "children": [
-    
       "flex-layout.col#category-menu"
-  
     ]
   },
-
-
-
-
   "flex-layout.col#logo-desktop": {
     "props": {
       "verticalAlign": "middle"
     },
-    "children": ["logo#desktop"]
+    "children": [
+      "logo#desktop"
+    ]
   },
   "flex-layout.col#category-menu": {
     "props": {
       "verticalAlign": "middle"
     },
-    "children": ["vtex.menu@2.x:menu#category-menu"]
+    "children": [
+      "vtex.menu@2.x:menu#category-menu"
+    ]
   },
   "logo#desktop": {
     "props": {
@@ -119,10 +123,15 @@
     }
   },
   "header-layout.mobile": {
-    "children": ["sticky-layout#1-mobile"]
+    "children": [
+      "sticky-layout#1-mobile"
+    ]
   },
   "sticky-layout#1-mobile": {
-    "children": ["flex-layout.row#1-mobile", "search-bar"]
+    "children": [
+      "flex-layout.row#1-mobile",
+      "search-bar"
+    ]
   },
   "flex-layout.row#1-mobile": {
     "children": [
@@ -140,23 +149,23 @@
     }
   },
   "drawer": {
-    "children": ["menu#drawer"]
+    "children": [
+      "menu#drawer"
+    ]
   },
-
   "menu#drawer": {
     "children": [
       "rich-text#menumobile",
-    
       "vtex.menu@2.x:menu#todas-categorias-mobile",
+      "vtex.menu@2.x:menu#Home-Theater",
       "vtex.menu@2.x:menu#audio-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-cordas-mobile",
       "vtex.menu@2.x:menu#estudio-mobile",
-
       "vtex.menu@2.x:menu#instrumentos-de-percussao-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-sopro-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-teclas-mobile",
       "vtex.menu@2.x:menu#som-ambiente-mobile",
-     // "menu-item#category-apparel",
+      // "menu-item#category-apparel",
       "menu-item#category-home",
       "menu-item#category-nossas-lojas"
     ],
@@ -164,16 +173,12 @@
       "orientation": "vertical"
     }
   },
-
   "rich-text#menumobile": {
     "props": {
       "text": "Menu",
       "blockClass": "titulo-menu-mobile"
     }
   },
-
-
-
   "logo#mobile": {
     "props": {
       "title": "Logo",
@@ -183,35 +188,31 @@
       "height": "17"
     }
   },
-
-
-
   "vtex.menu@2.x:menu#todas-categorias-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-todas-categorias-mobile"
+      "blockClass": "menu-todas-categorias-mobile"
     },
     "children": [
-     
       "menu-item#todas-categorias-mobile"
     ]
   },
-
-
-
   "menu-item#todas-categorias-mobile": {
     "props": {
       "itemProps": {
-        "tagTitle": "Todas Categorias",
+        "tagTitle": "Todas Categorias teste",
         "text": "Todas Categorias"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#todas-categorias"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#todas-categorias"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#todas-categorias": {
-    "children": ["vtex.menu@2.x:menu#footer-todas-categorias-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-todas-categorias-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-todas-categorias-mobile": {
     "props": {
       "orientation": "vertical"
@@ -227,59 +228,17 @@
       "menu-item#category-geral-home-teclas",
       "menu-item#category-geral-home-video",
       "menu-item#category-geral-home-promocoes"
-   
-
     ]
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "vtex.menu@2.x:menu#audio-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-audio-mobile"
+      "blockClass": "menu-audio-mobile"
     },
     "children": [
-     
       "menu-item#audio-mobile"
     ]
   },
-
-
-
   "menu-item#audio-mobile": {
     "props": {
       "itemProps": {
@@ -287,12 +246,15 @@
         "text": "Áudio"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#audio"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#audio"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#audio": {
-    "children": ["vtex.menu@2.x:menu#footer-audio-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-audio-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-audio-mobile": {
     "props": {
       "orientation": "vertical"
@@ -315,22 +277,15 @@
       "menu-item#audiovertodosmobile"
     ]
   },
-
-
-
   "vtex.menu@2.x:menu#som-ambiente-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-audio-mobile"
+      "blockClass": "menu-audio-mobile"
     },
     "children": [
-     
       "menu-item#som-ambiente-mobile"
     ]
   },
-
-
-
   "menu-item#som-ambiente-mobile": {
     "props": {
       "itemProps": {
@@ -338,12 +293,15 @@
         "text": "Som Ambiente"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#som-ambiente-mobile"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#som-ambiente-mobile"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#som-ambiente-mobile": {
-    "children": ["vtex.menu@2.x:menu#ssom-ambiente-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#ssom-ambiente-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#ssom-ambiente-mobile": {
     "props": {
       "orientation": "vertical"
@@ -365,24 +323,15 @@
       "menu-item#category-principal-som-transformadores"
     ]
   },
-
-
-
-
-
   "vtex.menu@2.x:menu#instrumentos-de-cordas-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-instrumentos-de-cordas-mobile"
+      "blockClass": "menu-instrumentos-de-cordas-mobile"
     },
     "children": [
-     
       "menu-item#instrumentos-cordas-mobile"
     ]
   },
-
-
-
   "menu-item#instrumentos-cordas-mobile": {
     "props": {
       "itemProps": {
@@ -390,12 +339,15 @@
         "text": "Cordas"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#instrumentos-de-cordas"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#instrumentos-de-cordas"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#instrumentos-de-cordas": {
-    "children": ["vtex.menu@2.x:menu#footer-instrumentos-de-cordas-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-instrumentos-de-cordas-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-instrumentos-de-cordas-mobile": {
     "props": {
       "orientation": "vertical"
@@ -420,29 +372,17 @@
       "menu-item#category-instrumentos-cordas-violoes",
       "menu-item#category-instrumentos-cordas-violoncelos",
       "menu-item#cordasvertodosmobile"
-
-
     ]
   },
-
-
-
-
-
-  
   "vtex.menu@2.x:menu#instrumentos-de-percussao-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-instrumentos-de-percussao-mobile"
+      "blockClass": "menu-instrumentos-de-percussao-mobile"
     },
     "children": [
-     
       "menu-item#instrumentos-percussao-mobile"
     ]
   },
-
-
-
   "menu-item#instrumentos-percussao-mobile": {
     "props": {
       "itemProps": {
@@ -450,12 +390,15 @@
         "text": "Percussão"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#instrumentos-de-percussao"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#instrumentos-de-percussao"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#instrumentos-de-percussao": {
-    "children": ["vtex.menu@2.x:menu#footer-instrumentos-de-percussao-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-instrumentos-de-percussao-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-instrumentos-de-percussao-mobile": {
     "props": {
       "orientation": "vertical"
@@ -499,27 +442,17 @@
       "menu-item#category-instrumentos-percussao-washboard",
       "menu-item#category-instrumentos-percussao-zabumba",
       "menu-item#percussaosvertodosmobile"
-
-
     ]
   },
-
-
-
-
   "vtex.menu@2.x:menu#instrumentos-de-sopro-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-instrumentos-de-sopro-mobile"
+      "blockClass": "menu-instrumentos-de-sopro-mobile"
     },
     "children": [
-     
       "menu-item#instrumentos-sopro-mobile"
     ]
   },
-
-
-
   "menu-item#instrumentos-sopro-mobile": {
     "props": {
       "itemProps": {
@@ -527,12 +460,15 @@
         "text": "Sopro"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#instrumentos-de-sopro"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#instrumentos-de-sopro"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#instrumentos-de-sopro": {
-    "children": ["vtex.menu@2.x:menu#footer-instrumentos-de-sopro-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-instrumentos-de-sopro-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-instrumentos-de-sopro-mobile": {
     "props": {
       "orientation": "vertical"
@@ -550,27 +486,17 @@
       "menu-item#category-instrumentos-sopro-trombones",
       "menu-item#category-instrumentos-sopro-trompetes",
       "menu-item#soprosvertodosmobile"
-
-
     ]
   },
-
-
-
-
   "vtex.menu@2.x:menu#instrumentos-de-teclas-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-instrumentos-de-teclas-mobile"
+      "blockClass": "menu-instrumentos-de-teclas-mobile"
     },
     "children": [
-     
       "menu-item#instrumentos-teclas-mobile"
     ]
   },
-
-
-
   "menu-item#instrumentos-teclas-mobile": {
     "props": {
       "itemProps": {
@@ -578,12 +504,15 @@
         "text": "Teclas"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#instrumentos-de-teclas"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#instrumentos-de-teclas"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#instrumentos-de-teclas": {
-    "children": ["vtex.menu@2.x:menu#footer-instrumentos-de-teclas-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-instrumentos-de-teclas-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-instrumentos-de-teclas-mobile": {
     "props": {
       "orientation": "vertical"
@@ -598,27 +527,26 @@
       "menu-item#category-instrumentos-teclas-sintetizadores",
       "menu-item#category-instrumentos-teclados",
       "menu-item#teclasvertodosmobile"
-
-
     ]
   },
-
-
-
-  
+  "vtex.menu@2.x:menu#Home-Theater": {
+    "props": {
+      "orientation": "vertical",
+      "blockClass": "menu-Home-Theater"
+    },
+    "children": [
+      "menu-item#Home-Theater"
+    ]
+  },
   "vtex.menu@2.x:menu#estudio-mobile": {
     "props": {
       "orientation": "vertical",
-      "blockClass":"menu-estudio-mobile"
+      "blockClass": "menu-estudio-mobile"
     },
     "children": [
-     
       "menu-item#estudio-mobile"
     ]
   },
-
-
-
   "menu-item#estudio-mobile": {
     "props": {
       "itemProps": {
@@ -626,12 +554,31 @@
         "text": "Estúdio"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu.accordion#estudio"]
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#estudio"
+    ]
+  },
+  "menu-item#Home-Theater": {
+    "props": {
+      "itemProps": {
+        "tagTitle": "Home Theater",
+        "text": "Home Theater"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu.accordion#Home-Theater"
+    ]
+  },
+  "vtex.menu@2.x:submenu.accordion#Home-Theater": {
+    "children": [
+      "vtex.menu@2.x:menu#category-home-theater"
+    ]
   },
   "vtex.menu@2.x:submenu.accordion#estudio": {
-    "children": ["vtex.menu@2.x:menu#footer-estudio-mobile"]
+    "children": [
+      "vtex.menu@2.x:menu#footer-estudio-mobile"
+    ]
   },
-
   "vtex.menu@2.x:menu#footer-estudio-mobile": {
     "props": {
       "orientation": "vertical"
@@ -652,14 +599,6 @@
       "menu-item#category-estudio-subwoofers",
       "menu-item#category-estudio-vara-de-boom",
       "menu-item#estudiovertodosmobile"
-
-
     ]
   }
-
-
-
-
-
-
 }

@@ -11,9 +11,10 @@
 
 .stackContainer--product .stackItem--first {
   z-index: 4 !important;
-  position: absolute;
+  position: relative;
   left: calc(100% - 76px);
   right: 0px;
+  width: fit-content;
 }
 
 .stackContainer--product :global(.vtex-product-highlights-2-x-productHighlightWrapper--collection) {
@@ -26,5 +27,5 @@
 }
 
 .stackItem--product {
-  padding-bottom: 25px;
+  padding-bottom: 120px;
 }
