@@ -1,0 +1,89 @@
+{
+    "store.custom#TemplateCadaLoja": {
+        "blocks": [
+            "flex-layout.row#NsTitle",
+            "flex-layout.row#NS-Image",
+            "flex-layout.row#NS-desc"
+        ]
+    },
+
+
+    "flex-layout.row#NS-desc":{
+        "children":["rich-text#NS-Desc", "rich-text#NS-End","rich-text#NS-Conta"],
+        "props":{
+            "blockClass":["Ns-Container", "NS-Desc"]
+        }
+    },
+    "flex-layout.row#NS-Image":{
+        "children":["image#BannerLoja"],
+        "props":{
+            "blockClass":["Ns-Container", "NS-ImageContainer"]
+        }
+    },
+
+    "rich-text#NS-Desc":{
+        "title":"Descrrição da loja",
+        "props":{
+            "text":"PlaceHolder"
+        }
+    },
+
+    "rich-text#NS-End":{
+        "title":"Endereço da loja",
+        "props":{
+            "text":"PlaceHolder",
+            "blockClass":"NS-End"
+        }
+    },
+
+    "rich-text#NS-Conta":{
+        "title":"Contato da loja",
+        "props":{
+            "text":"PlaceHolder",
+            "blockClass":"NS-Conta"
+        }
+    },
+
+    "image#BannerLoja": {
+        "title": "Banner da Loja",
+        "props": {
+            "src": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/0208ee68-435e-43c0-add8-e74a046b1651___140ab59e2ccaf3efc03258fdd4976620.png",
+            "blockClass":"BannerLoja"
+        }
+    },
+    "flex-layout.col#NsTitle": {
+        "children": [
+            "rich-text#PageTitle",
+            "rich-text#SubTitulo"
+        ]
+    },
+    "flex-layout.row#NsTitle": {
+        "title": "Titulo",
+        "children": [
+            "flex-layout.col#NsTitle"
+        ],
+        "props":{
+            "blockClass":["Ns-Container", "NS-TitleContainer"]
+        }
+    },
+    "rich-text#PageTitle": {
+        "title": "Titulo da pagina",
+        "props": {
+            "text": "# PlaceHolder",
+            "blockClass": [
+                "NS-Title"
+            ],
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#SubTitulo": {
+        "title": "SubTitulo da pagina",
+        "props": {
+            "text": "# PlaceHolder",
+            "blockClass": [
+                "NS-SubTitle"
+            ],
+            "textAlignment": "CENTER"
+        }
+    }
+}

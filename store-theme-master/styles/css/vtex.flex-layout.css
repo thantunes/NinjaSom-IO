@@ -104,3 +104,9 @@
 .flexRow--addToCartRow {
   padding-bottom: 1rem;
 }
+
+@media(min-width:768px){
+  .flexColChild--bloco-produtos-lado-direito:last-child{
+    margin-top: 150px;
+  }
+}

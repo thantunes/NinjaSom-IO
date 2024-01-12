@@ -1,0 +1,76 @@
+{
+    "Data": [
+        {
+            "ProductId": 13443,
+            "SkuId": 13618,
+            "SubCollectionId": 25,
+            "Position": 1,
+            "ProductName": "Caixa Ativa 12\" 2100W Bi-Amplificada Com FiRPHASE ART-912A - RCF",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/177417"
+        },
+        {
+            "ProductId": 11251,
+            "SkuId": 11460,
+            "SubCollectionId": 25,
+            "Position": 2,
+            "ProductName": "Microfone Vocal Dinâmico Cardioide SM-58 LC - Shure",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/170738"
+        },
+        {
+            "ProductId": 16981,
+            "SkuId": 17216,
+            "SubCollectionId": 25,
+            "Position": 3,
+            "ProductName": "Mesa de Som Digital Compacta 22 Canais TouchMix 16 - QSC",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188339"
+        },
+        {
+            "ProductId": 15900,
+            "SkuId": 16081,
+            "SubCollectionId": 25,
+            "Position": 4,
+            "ProductName": "Caixa Ativa 15\" 1100W DXR15 MKII - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185656"
+        },
+        {
+            "ProductId": 15816,
+            "SkuId": 15997,
+            "SubCollectionId": 25,
+            "Position": 5,
+            "ProductName": "Amplificador de Potência Digital 4 Canais 2000W XPA-4500 110V - NXA",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185140"
+        },
+        {
+            "ProductId": 16759,
+            "SkuId": 16988,
+            "SubCollectionId": 25,
+            "Position": 6,
+            "ProductName": "Caixa Ativa 15\" 2 Vias 1300W EON715 NA 110V - JBL",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187907"
+        },
+        {
+            "ProductId": 15819,
+            "SkuId": 16014,
+            "SubCollectionId": 25,
+            "Position": 7,
+            "ProductName": "Mesa de Som 24 Canais 6 Auxiliares Com BT / EFX e USB MGX-2446 USB - Soundcast",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185257"
+        },
+        {
+            "ProductId": 12058,
+            "SkuId": 12266,
+            "SubCollectionId": 25,
+            "Position": 8,
+            "ProductName": "Caixa Ativa Bi-Amplificada 12\" 1600W Com Bluetooth HDP-12 DSP - Soundcast",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187829"
+        },
+        {
+            "ProductId": 15809,
+            "SkuId": 15990,
+            "SubCollectionId": 25,
+            "Position": 9,
+            "ProductName": "Mesa De Som Digital TF5 - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185113"
+        }
+    ]
+}

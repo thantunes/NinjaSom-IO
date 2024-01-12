@@ -157,10 +157,10 @@
     "children": [
       "rich-text#menumobile",
       "vtex.menu@2.x:menu#todas-categorias-mobile",
-      "vtex.menu@2.x:menu#Home-Theater",
       "vtex.menu@2.x:menu#audio-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-cordas-mobile",
       "vtex.menu@2.x:menu#estudio-mobile",
+      "vtex.menu@2.x:menu#Home-Theater",
       "vtex.menu@2.x:menu#instrumentos-de-percussao-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-sopro-mobile",
       "vtex.menu@2.x:menu#instrumentos-de-teclas-mobile",

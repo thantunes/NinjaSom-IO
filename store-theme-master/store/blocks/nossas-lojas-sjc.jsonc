@@ -3,7 +3,6 @@
       "blocks": [
         "flex-layout.row#nossas-lojas-sjc-banner", 
         "flex-layout.row#nossas-lojas-sjc-bloco",
-       
         "flex-layout.row#nossas-lojas-sjc-bloco6"
       
       ]

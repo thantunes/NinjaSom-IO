@@ -69,15 +69,19 @@
   .newsletter .container {
     padding: 140px;
   }
+
   .label {
-     font-size: 40px;
+    font-size: 40px;
   }
+
   .infoCardContainer--info-card-home .infoCardTextContainer {
     width: 30%;
   }
+
   .infoCardContainer--info-card-home .infoCardImageContainer {
     width: 70%;
   }
+
   .imageElement--storePrint {
     margin-bottom: 0px;
     max-height: 600px;
@@ -113,5 +117,67 @@
 }
 
 
-:global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome) {    max-width: 938px;
-  margin: auto;}
+:global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome) {
+  max-width: 938px;
+  margin: auto;
+}
+
+
+.shippingContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.shippingContainer :global(.vtex-input__label) {
+  display: none;
+}
+
+.shippingContainer :global(.vtex-address-form__postalCode-forgottenURL) {
+  display: none;
+}
+
+.shippingContainer :global(.vtex-address-form__postalCode) {
+  padding-bottom: 0px;
+}
+
+.shippingContainer :global(.vtex-button) {
+  width: 70px;
+  height: 37px;
+  border: none;
+  margin-top: 20px;
+}
+.shippingContainer :global(.vtex-input-prefix__group) {
+  width: 368px;
+  height: 37px;
+}
+.shippingContainer :global(.vtex-input__error ) {
+  display: none;
+}
+.shippingTable{
+  border: none;
+}
+.shippingContainer :global(.vtex-button__label) {
+  font-size: 0px;
+}
+
+.shippingContainer :global(.vtex-button__label)::after {
+  content: "CEP";
+  color: #FFF;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.shippingContainer :global(.vtex-input__label){
+  display: block !important;
+}
+.shippingTableCell{
+  padding: 20px 0px;
+  border: 1px solid #A3A3A3;
+  border-left: none;
+  border-right: none;
+}
+.shippingTableRow:not(:first-child) .shippingTableCell{
+  border-top: none;
+}
