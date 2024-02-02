@@ -1,7 +1,7 @@
 {
   "vendor": "ninjasom",
   "name": "theme",
-  "version": "5.1.38",
+  "version": "5.1.39",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -67,7 +67,9 @@
     "vtex.css-handles": "1.x",
     "vtex.store-newsletter": "1.x",
     "vtex.product-context": "0.x",
-    "vtex.product-list-context": "0.x"
+    "vtex.product-list-context": "0.x",
+    "vtex.iframe": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
+

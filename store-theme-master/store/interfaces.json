@@ -10,5 +10,8 @@
     },
     "NossasLojas-Component":{
         "component":"NossasLojas-Component"
+    },
+    "WWU-form-Component":{
+        "component":"formwwu"
     }
 }

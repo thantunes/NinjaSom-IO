@@ -61,5 +61,11 @@
   },
   "store.custom#TemplateCadaLoja":{
     "path":"/template/CadaLoja"
+  },
+  "store.custom#trabalheconosco":{
+    "path":"/trabalhe-conosco"
+  },
+  "store.custom#TemplateNossasLojas":{
+    "path":"/template/trabalhe-conosco"
   }
 }
