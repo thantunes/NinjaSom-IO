@@ -456,7 +456,7 @@ thiago
 :global(.vtex-flex-layout-0-x-flexRow--productSpecification)
 :global(.vtex-product-specifications-1-x-specificationValue){padding-bottom: 0px;}
 
-:global(.vtex-stack-layout-0-x-stackItem--product){min-height: inherit!important;}
+:global(.vtex-stack-layout-0-x-stackItem--product){min-height: inherit!important;    padding-bottom: initial!important;}
 
 :global(.vtex-product-price-1-x-sellingPrice)::after {
    content:"  à vista";
@@ -722,8 +722,30 @@ thiago
 
          
 
+         :global(.vtex-store-components-3-x-subscriberContainer)
+         :global(.vtex-button__label){    color: #fff;}
+
 
 @media screen and (max-width: 992px) {
+
+   :global(.vtex-flex-layout-0-x-flexCol--info-availability){    padding: 0px 10px;}
+
+   :global(.vtex-flex-layout-0-x-flexCol--info-availability)
+   :global(.vtex-store-components-3-x-productNameContainer){    margin-top: 190px;    padding-left: 0px!important;
+      padding-right: 0px!important;}
+
+   :global(.vtex-store-components-3-x-shippingContainer) 
+   :global(.vtex-input-prefix__group) {
+      width: 100%!important;
+      height: 37px;
+  }
+
+  :global(.vtex-flex-layout-0-x-flexColChild--productSpecificationValue) iframe {    width: 100%;}
+
+  :global(.vtex-flex-layout-0-x-flexCol--bloco-produtos-lado-direito) {
+   padding-top: 190px;
+}
+
 
    :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc-mobile){padding-top: 25px;}
    :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc){display:none;}
