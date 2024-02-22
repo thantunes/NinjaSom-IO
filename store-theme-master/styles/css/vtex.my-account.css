@@ -15,6 +15,10 @@
 */
 /*alteração de fonte*/
 
+:global(.vtex-flex-layout-0-x-flexColChild--nossas-lojas-new)
+:global(.vtex-store-components-3-x-imageElement){    margin: auto;
+   display: block;}
+
 :global(.vtex-rich-text-0-x-link--infocardhomelink) {
    text-decoration: none;
    color: #000;
@@ -726,7 +730,13 @@ thiago
          :global(.vtex-button__label){    color: #fff;}
 
 
+         @media screen and (min-width: 992px) {
+            :global(.vtex-flex-layout-0-x-flexColChild--nossas-lojas-new-mobile){display:none;}
+         }
+
 @media screen and (max-width: 992px) {
+
+   :global(.vtex-flex-layout-0-x-flexColChild--nossas-lojas-new){display:none;}
 
    :global(.vtex-flex-layout-0-x-flexCol--info-availability){    padding: 0px 10px;}
 
