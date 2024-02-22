@@ -29,3 +29,16 @@
   padding-right: .5rem;
   min-height: 550px;
 }
+.sliderLayoutContainer--SliderCadaLoja{
+  width: 1044px;
+  margin: 20px auto;
+}
+.caretIcon--SliderCadaLoja{
+  display: none;
+}
+.sliderRightArrow{
+  transform: rotate(0deg) !important;
+}
+.sliderTrack--SliderCadaLoja{
+  gap: 15px;
+}

@@ -166,9 +166,9 @@ thiago
 :global(.vtex-slider-layout-0-x-slide--shelf)
 :global(.b--action-primary) {background-color: #009E06;border: none; border-radius: 0px;max-width: 90%;margin: auto;}
 :global(.vtex-add-to-cart-button-0-x-buttonText){    font-family: 'Roboto',sans-serif; font-size: 14px;letter-spacing: 2px;}
-:global(.vtex-slider-layout-0-x-sliderLeftArrow){background-image: url(/arquivos/palheta-icon.png)!important;width: 41px;height: 36px; background-repeat: no-repeat!important;margin-left: 30px;;}
+:global(.vtex-slider-layout-0-x-sliderLeftArrow){background-image: url(/arquivos/palheta-hover-icon.png)!important;width: 41px;height: 36px; background-repeat: no-repeat!important;margin-left: 30px;transform: rotate(180deg);}
 :global(.vtex-slider-layout-0-x-sliderLeftArrow):hover{background-image: url(/arquivos/palheta-hover-icon.png)!important;transform: rotate(180deg);}
-:global(.vtex-slider-layout-0-x-sliderRightArrow){    background-image: url(/arquivos/palheta-icon.png)!important;width: 41px; height: 36px;background-repeat: no-repeat!important;margin-right: 30px;transform: rotate(180deg);}
+:global(.vtex-slider-layout-0-x-sliderRightArrow){    background-image: url(/arquivos/palheta-hover-icon.png)!important;width: 41px; height: 36px;background-repeat: no-repeat!important;margin-right: 30px;transform: rotate(180deg);}
 :global(.vtex-slider-layout-0-x-sliderRightArrow):hover{background-image: url(/arquivos/palheta-hover-icon.png)!important;transform: rotate(0deg);}
 :global(.vtex-slider-layout-0-x-caretIcon--shelf),
 :global(.vtex-slider-layout-0-x-caretIcon--carousel),

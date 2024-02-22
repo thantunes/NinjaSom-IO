@@ -2,21 +2,76 @@
     "store.custom#TemplateCadaLoja": {
         "blocks": [
             "flex-layout.row#BannerCadaLoja",
-            "flex-layout.row#NS-desc"
+            "flex-layout.row#NS-desc",
+            "list-context.image-list#CadaLojaImages"
         ]
     },
+    "list-context.image-list#CadaLojaImages": {
+        "children": [
+            "slider-layout#CadaLojaImages-images"
+        ],
+        "props": {
+            "preload": true,
+            "height":"auto",
+            "width":"260px",
+            "images": [
+                {
+                    "loading": "eager",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/88e64a2a-a56c-4f0f-9854-0cae31932423___27923de313cdde9c7faf6c63f5550e9d.png",
+                    "description": "something something"
+                },
+                {
+                    "loading": "lazy",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/9bf5031d-b28a-4e0c-97bf-2e8853045c33___5dceaf233e88217fbb28e49b5d2b957a.png",
+                    "description": "something something"
+                },
+                {
+                    "loading": "lazy",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/4c9f39b6-76e5-4aa0-bb5f-c0e2ceaa4719___31e1a6042f94fffedaa0d4cca1b26371.png",
+                    "description": "something something"
+                },
+                {
+                    "loading": "lazy",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/9f608476-fe00-4929-8757-4efb0a184491___8327b75d74b2551e57e8bf8ea39bb6a6.png",
+                    "description": "something something"
+                },
+                {
+                    "loading": "lazy",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/4c9f39b6-76e5-4aa0-bb5f-c0e2ceaa4719___31e1a6042f94fffedaa0d4cca1b26371.png",
+                    "description": "something something"
+                },
+                {
+                    "loading": "lazy",
+                    "image": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/4c9f39b6-76e5-4aa0-bb5f-c0e2ceaa4719___31e1a6042f94fffedaa0d4cca1b26371.png",
+                    "description": "something something"
+                }
+            ]
+        }
+    },
+    "slider-layout#CadaLojaImages-images": {
+        "props": {
+          "itemsPerPage": {
+            "desktop": 4,
+            "tablet": 1,
+            "phone": 1
+          },
+          "blockClass":"SliderCadaLoja",
+          "gap":"15px",
+          "infinite": true
+        }
+      },
     "flex-layout.row#NS-desc-cont-end": {
         "children": [
             "flex-layout.col#NS-desc"
         ]
     },
-    "flex-layout.row#BannerCadaLoja":{
-        "children":[
+    "flex-layout.row#BannerCadaLoja": {
+        "children": [
             "flex-layout.row#NsTitle",
             "flex-layout.row#NS-Image"
         ],
-        "props":{
-            "blockClass":"BannerLoja-Container"
+        "props": {
+            "blockClass": "BannerLoja-Container"
         }
     },
     "flex-layout.col#NS-desc": {
@@ -113,13 +168,11 @@
             "textAlignment": "CENTER"
         }
     },
-
-    "iframe#map":{
-        "props":{
-            "src":"https://maps.google.com/maps?q=university%20of%20san%20francisco&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed",
-            "width":"300px",
-            "height":"300px"
+    "iframe#map": {
+        "props": {
+            "src": "https://maps.google.com/maps?q=university%20of%20san%20francisco&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed",
+            "width": "300px",
+            "height": "300px"
         }
     }
 }
-
