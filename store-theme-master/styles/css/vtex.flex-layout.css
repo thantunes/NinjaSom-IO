@@ -104,3 +104,61 @@
 .flexRow--addToCartRow {
   padding-bottom: 1rem;
 }
+.flexRowContent--TrabalheConoscoF{
+  max-width:1044px;
+  margin: 40px auto;
+  background-color: #fff;
+}
+.flexRowContent--TrabalheConoscoF .stretchChildrenWidth:first-child{
+  width: fit-content !important;
+  margin-right: 45px;
+}
+.flexRowContent--TrabalheConoscoS{
+  max-width:1044px;
+  margin: 40px auto;
+  margin-top: 0px;
+  background-color: #fff;
+}
+.flexRowContent--TrabalheConoscoS .stretchChildrenWidth:first-child{
+  width: fit-content !important;
+  margin-right: 45px;
+}
+.flexRowContent--BannerLoja-Container{
+  max-width: 1044px;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth{
+  width: 100% !important;
+}
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth:first-child{
+  position: absolute;
+  z-index: 99999999 !important;
+}
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth:last-child{
+  z-index: 9 !important;
+}
+.flexRow--NS-ImageContainer{
+  width: 1044px;
+}
+.flexRow--NS-ImageContainer .stretchChildrenWidth{
+  position: relative !important;
+}
+.flexRow--BannerLoja-Container :global(.vtex-store-components-3-x-container) {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+/* .flexRowContent--BannerLoja-Container .flexRow--NS-TitleContainer{
+  position: absolute;
+} */
+.flexRowContent--NS-TitleContainer .stretchChildrenWidth {
+  position: relative !important;
+}
+@media(min-width:768px){
+  .flexColChild--bloco-produtos-lado-direito:last-child{
+    margin-top: 150px;
+  }
+}
