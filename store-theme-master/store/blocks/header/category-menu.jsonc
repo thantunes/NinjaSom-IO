@@ -2948,7 +2948,8 @@
       "menu-item#nossas-lojas-campinas",
       "menu-item#nossas-lojas-poa",
       "menu-item#nossas-lojas-sj",
-      "menu-item#nossas-lojas-bh"
+      "menu-item#nossas-lojas-bh",
+      "menu-item#nossas-lojas-nssom"
     ]
   },
 
@@ -3651,6 +3652,24 @@
         "noFollow": false,
         "tagTitle": "Belo Horizonte",
         "text": "Belo Horizonte"
+      }
+    }
+  },
+
+
+
+  "menu-item#nossas-lojas-nssom": {
+    "props": {
+      "id": "menu-item-category-audio-nssom",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/",
+        "noFollow": false,
+        "tagTitle": "NS Som",
+        "text": "NS Som"
       }
     }
   },
