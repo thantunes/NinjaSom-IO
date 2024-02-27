@@ -1011,3 +1011,74 @@ thiago
 :global(.vtex-store-components-3-x-imageElement--nossas-lojas-logo-estacionamento-sjc-mobile){display:none;}
 }
 
+
+
+:global(.render-route-store-custom-trabalheconosco)
+:global(.vtex-flex-layout-0-x-flexColChild--containerWWU){margin: auto;}
+
+:global(.render-route-store-custom-trabalheconosco)
+:global(.vtex-rich-text-0-x-heading-level-4){
+   font-size: 24px;
+   color: #000;
+
+}
+
+:global(.render-route-store-custom-trabalheconosco)
+:global(.vtex-rich-text-0-x-headingLevel2--TrabalheConoscoS){
+
+   color: #010449;
+   font-size: 60px;
+   font-weight: bold;
+   margin-top: 0px;
+   margin-bottom: 20px;
+}
+:global(.render-route-store-custom-trabalheconosco)
+:global(.vtex-rich-text-0-x-container--TrabalheConoscoS){    margin-top: 35px!important;}
+
+:global(.render-route-store-custom-trabalheconosco)
+:global(.Form-wwu){height: auto!important;}
+
+:global(.render-route-store-custom-trabalheconosco)
+:global(.vtex-rich-text-0-x-heading--TrabalheConoscoF){    margin-bottom: 15px;}
+
+
+:global(.vtex-flex-layout-0-x-flexRowContent--NS-Desc) {    padding: 10px 0px!important;}
+
+
+:global(.vtex-flex-layout-0-x-flexRow--NS-ImageContainer) {
+   max-width: inherit!important;
+}
+
+:global(.vtex-flex-layout-0-x-flexRowContent--BannerLoja-Container){  max-width: inherit!important;}
+
+
+
+:global(.ninjasom-theme-5-x-NJ-Card){min-height: 500px}
+
+:global(.ninjasom-theme-5-x-NJ-Card)
+:global(.ninjasom-theme-5-x-paragraph)
+:global(.ninjasom-theme-5-x-image){
+   margin-bottom: -5px;
+
+}
+
+
+@media screen and (max-width: 992px) {
+   :global(.render-route-store-custom-trabalheconosco)
+   :global(.InputFile-parent) {width: auto!important;}
+
+   :global(.render-route-store-custom-trabalheconosco)
+   :global(.vtex-rich-text-0-x-headingLevel2--TrabalheConoscoS) {font-size: 34px!important;}
+
+   :global(.render-route-store-custom-trabalheconosco)
+   :global(.vtex-rich-text-0-x-container--TrabalheConoscoS){width: auto!important;}
+
+
+   :global(.render-route-store-custom-trabalheconosco)
+   :global(.Form-wwu){width: auto!important;}
+
+   :global(.render-route-store-custom-trabalheconosco)
+   :global(.vtex-rich-text-0-x-container--TrabalheConoscoF) {    width: auto;
+      margin: 20px;}
+
+}
