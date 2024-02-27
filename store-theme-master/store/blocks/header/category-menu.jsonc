@@ -2949,7 +2949,8 @@
       "menu-item#nossas-lojas-poa",
       "menu-item#nossas-lojas-sj",
       "menu-item#nossas-lojas-bh",
-      "menu-item#nossas-lojas-nssom"
+      "menu-item#nossas-lojas-nssom",
+      "menu-item#nossas-lojas-santos"
     ]
   },
 
@@ -3666,10 +3667,28 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/nossas-lojas/",
+        "href": "/nossas-lojas/ns-som",
         "noFollow": false,
         "tagTitle": "NS Som",
         "text": "NS Som"
+      }
+    }
+  },
+
+
+
+  "menu-item#nossas-lojas-santos": {
+    "props": {
+      "id": "menu-item-category-audio-santos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/santos",
+        "noFollow": false,
+        "tagTitle": "Santos",
+        "text": "Santos"
       }
     }
   },
