@@ -2,6 +2,7 @@
     "store.custom#TemplateCadaLoja": {
         "blocks": [
             "flex-layout.row#BannerCadaLoja",
+            "flex-layout.row#BannerCadaLojaMobile",
             "flex-layout.row#NS-desc",
             "list-context.image-list#CadaLojaImages"
         ]
@@ -74,6 +75,18 @@
             "blockClass": "BannerLoja-Container"
         }
     },
+
+
+    "flex-layout.row#BannerCadaLojaMobile": {
+        "children": [
+            "flex-layout.row#NS-Image-mobile"
+        ],
+        "props": {
+            "blockClass": "BannerLojaMobile-Container"
+        }
+    },
+
+
     "flex-layout.col#NS-desc": {
         "children": [
             "rich-text#NS-End",
@@ -103,6 +116,21 @@
             ]
         }
     },
+
+
+    "flex-layout.row#NS-Image-mobile": {
+        "children": [
+            "image#BannerLoja-mobile"
+        ],
+        "props": {
+            "blockClass": [
+                "NS-ImageContainer-mobile"
+            ]
+        }
+    },
+
+
+
     "rich-text#NS-Desc": {
         "title": "Descrrição da loja",
         "props": {
@@ -128,6 +156,14 @@
         "props": {
             "src": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/0208ee68-435e-43c0-add8-e74a046b1651___140ab59e2ccaf3efc03258fdd4976620.png",
             "blockClass": "BannerLoja"
+        }
+    },
+
+    "image#BannerLoja-mobile": {
+        "title": "Banner da Loja",
+        "props": {
+            "src": "https://ninjasom.vtexassets.com/assets/vtex.file-manager-graphql/images/b4f3d5c2-e45b-4668-a4ea-b581b45a456a___16b38caf50dafd9fa5b7d2db6741d0b9.jpg",
+            "blockClass": "BannerLojaMobile"
         }
     },
     "flex-layout.col#NsTitle": {
