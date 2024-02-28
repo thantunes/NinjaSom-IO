@@ -74,9 +74,11 @@
    opacity: 0.8;
 }
 
-:global(.a.vtex-rich-text-0-x-link.vtex-rich-text-0-x-link--NS-Conta) {
-   color: #000;
+:global(a.vtex-rich-text-0-x-link.vtex-rich-text-0-x-link--NS-Conta) {
+   color: #000!important;
 }
+
+
 
 /*:global(.vtex-product-summary-2-x-brandName){    font-weight: 600;color: #000!important;font-family: 'Alumni Sans';font-style: normal; font-weight: 500!important;font-size: 24px!important; line-height: 29px; text-align: center;    display: block;    padding: 0px 10px;}*/
 /*alteração de fonte*/
@@ -110,6 +112,10 @@
 }
 
 
+:global(.ninjasom-theme-5-x-NJ-Container) a {
+   text-decoration: none;
+   color: #000!important;
+}
 
 :global(.vtex-flex-layout-0-x-flexRowContent--menu-link)
 :global(.vtex-menu-2-x-styledLinkContent){color:#fff!important;}
@@ -739,6 +745,17 @@ thiago
          }
 
 @media screen and (max-width: 992px) {
+
+
+
+
+   :global(.pr0-ns.pb0.pb0-ns.items-stretch.vtex-flex-layout-0-x-stretchChildrenWidth.flex)
+   {
+      margin: auto;
+     
+      
+   
+   }
 
    :global(.vtex-flex-layout-0-x-flexRowContent--NS-Desc .vtex-flex-layout-0-x-stretchChildrenWidth) {    padding: 10px 0px;}
 
