@@ -1222,7 +1222,7 @@
             "SubCollectionId": 26,
             "Position": 153,
             "ProductName": "Guitarra  Les Paul LPS230 BK - Strinberg",
-            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188673"
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/190132"
         },
         {
             "ProductId": 15695,
@@ -1879,6 +1879,14 @@
             "Position": 235,
             "ProductName": "Mesa de Som Para Streaming / Gaming ao Vivo ZG01 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185087"
+        },
+        {
+            "ProductId": 11416,
+            "SkuId": 11625,
+            "SubCollectionId": 26,
+            "Position": 236,
+            "ProductName": "Microfone Sem Fio UHF UD-7099 - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/171100"
         }
     ]
 }
