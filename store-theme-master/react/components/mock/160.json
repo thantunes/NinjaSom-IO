@@ -1,6 +1,7 @@
 {
     "Data": [
-        {
+	
+	  {
             "ProductId": 16762,
             "SkuId": 16991,
             "SubCollectionId": 26,
@@ -80,11 +81,19 @@
             "ProductName": "Bateria Eletrônica V-Drums TD07 KX - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184879"
         },
+		 {
+            "ProductId": 2178,
+            "SkuId": 2178,
+            "SubCollectionId": 26,
+            "Position": 11,
+            "ProductName": "Caixa Ativa 15\" 2-Vias Bi-Amplificada 465W RMS DBR-15 - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/190483"
+        },
         {
             "ProductId": 14202,
             "SkuId": 14378,
             "SubCollectionId": 26,
-            "Position": 11,
+            "Position": 12,
             "ProductName": "Bateria Eletrônica V-Drums Série V-Compact TD17 KV - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178982"
         },
@@ -92,7 +101,7 @@
             "ProductId": 15617,
             "SkuId": 15796,
             "SubCollectionId": 26,
-            "Position": 12,
+            "Position": 13,
             "ProductName": "Bateria Eletrônica V-Drums Série V-Compact TD17 KV - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184452"
         },
@@ -100,7 +109,7 @@
             "ProductId": 15952,
             "SkuId": 16134,
             "SubCollectionId": 26,
-            "Position": 13,
+            "Position": 14,
             "ProductName": "Pedaleira Para Performer Vocal VE20 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185861"
         },
@@ -108,7 +117,7 @@
             "ProductId": 16973,
             "SkuId": 17208,
             "SubCollectionId": 26,
-            "Position": 14,
+            "Position": 15,
             "ProductName": "Monitor de Áudio Ativo 6\" 2 Vias 306P MKII - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188311"
         },
@@ -116,7 +125,7 @@
             "ProductId": 16969,
             "SkuId": 17204,
             "SubCollectionId": 26,
-            "Position": 15,
+            "Position": 16,
             "ProductName": "Monitor de Áudio Ativo 8\" 2 Vias 308P MKII - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188295"
         },
@@ -124,7 +133,7 @@
             "ProductId": 15788,
             "SkuId": 15969,
             "SubCollectionId": 26,
-            "Position": 16,
+            "Position": 17,
             "ProductName": "Microfone USB de Live Streaming AG01 B/Y - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185076"
         },
@@ -132,7 +141,7 @@
             "ProductId": 15781,
             "SkuId": 15962,
             "SubCollectionId": 26,
-            "Position": 17,
+            "Position": 18,
             "ProductName": "Microfone USB de Live Streaming AG01 W - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185060"
         },
@@ -140,7 +149,7 @@
             "ProductId": 16286,
             "SkuId": 16468,
             "SubCollectionId": 26,
-            "Position": 18,
+            "Position": 19,
             "ProductName": "Kit Professor Auxiliar de Voz BC270 - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186732"
         },
@@ -148,15 +157,15 @@
             "ProductId": 16268,
             "SkuId": 16450,
             "SubCollectionId": 26,
-            "Position": 19,
+            "Position": 20,
             "ProductName": "Sistema Duplo de Microfones Sem Fio UHF BR7000 CLI - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186695"
         },
-        {
+		 {
             "ProductId": 16386,
             "SkuId": 16569,
             "SubCollectionId": 26,
-            "Position": 20,
+            "Position": 21,
             "ProductName": "Monitor de Áudio Amplificado Multifunções Portátil CM30 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186942"
         },
@@ -164,7 +173,7 @@
             "ProductId": 16970,
             "SkuId": 17205,
             "SubCollectionId": 26,
-            "Position": 21,
+            "Position": 22,
             "ProductName": "Caixa Acústica Control 1 Pro BK - Jbl",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188300"
         },
@@ -172,7 +181,7 @@
             "ProductId": 16967,
             "SkuId": 17202,
             "SubCollectionId": 26,
-            "Position": 22,
+            "Position": 23,
             "ProductName": "Microfone de Bumbo Dinâmico Profissional D112 MkII - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188290"
         },
@@ -180,7 +189,7 @@
             "ProductId": 16968,
             "SkuId": 17203,
             "SubCollectionId": 26,
-            "Position": 23,
+            "Position": 24,
             "ProductName": "Microfone Com Fio Vocal D5 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188292"
         },
@@ -188,7 +197,7 @@
             "ProductId": 16972,
             "SkuId": 17207,
             "SubCollectionId": 26,
-            "Position": 24,
+            "Position": 25,
             "ProductName": "Microfone Profissional Vocal AKG D7 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188307"
         },
@@ -196,7 +205,7 @@
             "ProductId": 14161,
             "SkuId": 14337,
             "SubCollectionId": 26,
-            "Position": 25,
+            "Position": 26,
             "ProductName": "Caixa Ativa 15\" 2-Vias Bi-Amplificada 1000W DBR15 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178856"
         },
@@ -204,7 +213,7 @@
             "ProductId": 15671,
             "SkuId": 15851,
             "SubCollectionId": 26,
-            "Position": 26,
+            "Position": 27,
             "ProductName": "Caixa Ativa 15\" 2-Vias Bi-Amplificada 1000W DBR15 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184682"
         },
@@ -212,7 +221,7 @@
             "ProductId": 15254,
             "SkuId": 17198,
             "SubCollectionId": 26,
-            "Position": 27,
+            "Position": 28,
             "ProductName": "Kit de Microfones Para Bateria Drum Set Session I - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188272"
         },
@@ -220,7 +229,7 @@
             "ProductId": 15972,
             "SkuId": 16154,
             "SubCollectionId": 26,
-            "Position": 28,
+            "Position": 29,
             "ProductName": "Caixa Ativa 10\" 1100W DXR10 MKII - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185934"
         },
@@ -228,15 +237,15 @@
             "ProductId": 15900,
             "SkuId": 16081,
             "SubCollectionId": 26,
-            "Position": 29,
+            "Position": 30,
             "ProductName": "Caixa Ativa 15\" 1100W DXR15 MKII - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185656"
         },
-        {
+		 {
             "ProductId": 15902,
             "SkuId": 16083,
             "SubCollectionId": 26,
-            "Position": 30,
+            "Position": 31,
             "ProductName": "Caixa Ativa 8\" 1100W DXR8 MKII - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185663"
         },
@@ -244,7 +253,7 @@
             "ProductId": 16173,
             "SkuId": 16356,
             "SubCollectionId": 26,
-            "Position": 31,
+            "Position": 32,
             "ProductName": "Caixa Ativa 12\" Bi-Amplificada 2000W DZR12 WH - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186450"
         },
@@ -252,7 +261,7 @@
             "ProductId": 16759,
             "SkuId": 16988,
             "SubCollectionId": 26,
-            "Position": 32,
+            "Position": 33,
             "ProductName": "Caixa Ativa 15\" 2 Vias 1300W EON715 NA 110V - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187907"
         },
@@ -260,7 +269,7 @@
             "ProductId": 15602,
             "SkuId": 15781,
             "SubCollectionId": 26,
-            "Position": 33,
+            "Position": 34,
             "ProductName": "Monitor de Referência HS5 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184397"
         },
@@ -268,7 +277,7 @@
             "ProductId": 14179,
             "SkuId": 14355,
             "SubCollectionId": 26,
-            "Position": 34,
+            "Position": 35,
             "ProductName": "Monitor De Referência HS7 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178906"
         },
@@ -276,7 +285,7 @@
             "ProductId": 15608,
             "SkuId": 15787,
             "SubCollectionId": 26,
-            "Position": 35,
+            "Position": 36,
             "ProductName": "Monitor De Referência HS7 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184423"
         },
@@ -284,7 +293,7 @@
             "ProductId": 16974,
             "SkuId": 17209,
             "SubCollectionId": 26,
-            "Position": 36,
+            "Position": 37,
             "ProductName": "Fone de Ouvido Monitor Fechado K182 - Akg",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188318"
         },
@@ -292,7 +301,7 @@
             "ProductId": 16184,
             "SkuId": 16367,
             "SubCollectionId": 26,
-            "Position": 37,
+            "Position": 38,
             "ProductName": "Fone de Ouvido Profissional Dobrável Over-Ear Fechado K275 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186481"
         },
@@ -300,7 +309,7 @@
             "ProductId": 15762,
             "SkuId": 15943,
             "SubCollectionId": 26,
-            "Position": 38,
+            "Position": 39,
             "ProductName": "Fone de Ouvido Profissional K371 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184994"
         },
@@ -308,15 +317,15 @@
             "ProductId": 16975,
             "SkuId": 17210,
             "SubCollectionId": 26,
-            "Position": 39,
+            "Position": 40,
             "ProductName": "Fone de Ouvido Profissional Bluetooth K371 BT - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188319"
         },
-        {
+		 {
             "ProductId": 15761,
             "SkuId": 15942,
             "SubCollectionId": 26,
-            "Position": 40,
+            "Position": 41,
             "ProductName": "Fone de Ouvido K52 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184988"
         },
@@ -324,7 +333,7 @@
             "ProductId": 15263,
             "SkuId": 15437,
             "SubCollectionId": 26,
-            "Position": 41,
+            "Position": 42,
             "ProductName": "Fone de Ouvido K52 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183078"
         },
@@ -332,7 +341,7 @@
             "ProductId": 15452,
             "SkuId": 15627,
             "SubCollectionId": 26,
-            "Position": 42,
+            "Position": 43,
             "ProductName": "Fone de Ouvido de Alto Desempenho K-52 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183712"
         },
@@ -340,7 +349,7 @@
             "ProductId": 15248,
             "SkuId": 15422,
             "SubCollectionId": 26,
-            "Position": 43,
+            "Position": 44,
             "ProductName": "Microfone Sem Fio Duplo De Cabeça KRD200DH - Karsect",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183042"
         },
@@ -348,7 +357,7 @@
             "ProductId": 15708,
             "SkuId": 15888,
             "SubCollectionId": 26,
-            "Position": 44,
+            "Position": 45,
             "ProductName": "Microfone Sem Fio Duplo Multi Frequências UHF KRD200DM - Karsect",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184799"
         },
@@ -356,7 +365,7 @@
             "ProductId": 15941,
             "SkuId": 16123,
             "SubCollectionId": 26,
-            "Position": 45,
+            "Position": 46,
             "ProductName": "Amplificador Combo Para Guitarra Katana KTN-MINI - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185827"
         },
@@ -364,7 +373,7 @@
             "ProductId": 15933,
             "SkuId": 16115,
             "SubCollectionId": 26,
-            "Position": 46,
+            "Position": 47,
             "ProductName": "Amplificador Combo Para Guitarra KTN100 MK2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185799"
         },
@@ -372,7 +381,7 @@
             "ProductId": 15690,
             "SkuId": 15870,
             "SubCollectionId": 26,
-            "Position": 47,
+            "Position": 48,
             "ProductName": "Amplificador Combo Para Guitarra KATANA KTN50 MKII - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184745"
         },
@@ -380,7 +389,7 @@
             "ProductId": 15969,
             "SkuId": 16151,
             "SubCollectionId": 26,
-            "Position": 48,
+            "Position": 49,
             "ProductName": "Amplificador Para Guitarra KATANA100/212 MkII - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185926"
         },
@@ -388,15 +397,15 @@
             "ProductId": 16270,
             "SkuId": 16452,
             "SubCollectionId": 26,
-            "Position": 49,
+            "Position": 50,
             "ProductName": "Microfone Gooseneck Com Base MSF460 B - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186702"
         },
-        {
+		{
             "ProductId": 14611,
             "SkuId": 14789,
             "SubCollectionId": 26,
-            "Position": 50,
+            "Position": 51,
             "ProductName": "Monitor de Áudio MSP3A - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/179646"
         },
@@ -404,7 +413,7 @@
             "ProductId": 15454,
             "SkuId": 15629,
             "SubCollectionId": 26,
-            "Position": 51,
+            "Position": 52,
             "ProductName": "Monitor de Estúdio Ativo MSP-3A - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183721"
         },
@@ -412,7 +421,7 @@
             "ProductId": 15616,
             "SkuId": 15795,
             "SubCollectionId": 26,
-            "Position": 52,
+            "Position": 53,
             "ProductName": "Monitor de Áudio MSP3A - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184450"
         },
@@ -420,7 +429,7 @@
             "ProductId": 17116,
             "SkuId": 17370,
             "SubCollectionId": 26,
-            "Position": 53,
+            "Position": 54,
             "ProductName": "Caixa Acústica Torre 3 Vias NS555 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188662"
         },
@@ -428,7 +437,7 @@
             "ProductId": 17112,
             "SkuId": 17364,
             "SubCollectionId": 26,
-            "Position": 54,
+            "Position": 55,
             "ProductName": "Caixa Acústica Torre NS777 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188650"
         },
@@ -436,7 +445,7 @@
             "ProductId": 17110,
             "SkuId": 17362,
             "SubCollectionId": 26,
-            "Position": 55,
+            "Position": 56,
             "ProductName": "Caixa Acústica NS C444 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188647"
         },
@@ -444,7 +453,7 @@
             "ProductId": 17114,
             "SkuId": 17368,
             "SubCollectionId": 26,
-            "Position": 56,
+            "Position": 57,
             "ProductName": "Kit de Caixas Acústicas NSP51 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188659"
         },
@@ -452,7 +461,7 @@
             "ProductId": 15756,
             "SkuId": 15936,
             "SubCollectionId": 26,
-            "Position": 57,
+            "Position": 58,
             "ProductName": "Subwoofer Para Home Theater 8\" NS SW050 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184966"
         },
@@ -460,7 +469,7 @@
             "ProductId": 15236,
             "SkuId": 15410,
             "SubCollectionId": 26,
-            "Position": 58,
+            "Position": 59,
             "ProductName": "Subwoofer para Home Theater 8\" NS-SW050BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183019"
         },
@@ -468,15 +477,15 @@
             "ProductId": 10966,
             "SkuId": 11175,
             "SubCollectionId": 26,
-            "Position": 59,
+            "Position": 60,
             "ProductName": "Subwoofer Compacto Para Home Theater NS-SW050 WN - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/170317"
         },
-        {
+		 {
             "ProductId": 15757,
             "SkuId": 15937,
             "SubCollectionId": 26,
-            "Position": 60,
+            "Position": 61,
             "ProductName": "Subwoofer Para Home Theater 10\" NS-SW100 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184967"
         },
@@ -484,7 +493,7 @@
             "ProductId": 15230,
             "SkuId": 15404,
             "SubCollectionId": 26,
-            "Position": 61,
+            "Position": 62,
             "ProductName": "Subwoofer Para Home Theater 10\" NS-SW100BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183003"
         },
@@ -492,7 +501,7 @@
             "ProductId": 16956,
             "SkuId": 17190,
             "SubCollectionId": 26,
-            "Position": 62,
+            "Position": 63,
             "ProductName": "Microfone Condensador Cardioide de Estúdio P220 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188256"
         },
@@ -500,7 +509,7 @@
             "ProductId": 16955,
             "SkuId": 17189,
             "SubCollectionId": 26,
-            "Position": 63,
+            "Position": 64,
             "ProductName": "Microfone Condensador Multi Padrões de Estúdio P420 - AKG",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188255"
         },
@@ -508,7 +517,7 @@
             "ProductId": 15940,
             "SkuId": 16122,
             "SubCollectionId": 26,
-            "Position": 64,
+            "Position": 65,
             "ProductName": "Monitor Pessoal PM200 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185825"
         },
@@ -516,7 +525,7 @@
             "ProductId": 15716,
             "SkuId": 15896,
             "SubCollectionId": 26,
-            "Position": 65,
+            "Position": 66,
             "ProductName": "Caixa Acústica Ativa 12\" BT/USB/SD PS1201 - Staner",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184820"
         },
@@ -524,7 +533,7 @@
             "ProductId": 15704,
             "SkuId": 15884,
             "SubCollectionId": 26,
-            "Position": 66,
+            "Position": 67,
             "ProductName": "Fonte Bivolt 110 ou 220 Volts  PSA120 ZS - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184785"
         },
@@ -532,7 +541,7 @@
             "ProductId": 17015,
             "SkuId": 17254,
             "SubCollectionId": 26,
-            "Position": 67,
+            "Position": 68,
             "ProductName": "Monitor de Áudio Bluetooth 42W RMS Bivolt Preto R1280DB - Edifier",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188443"
         },
@@ -540,7 +549,7 @@
             "ProductId": 17016,
             "SkuId": 17255,
             "SubCollectionId": 26,
-            "Position": 68,
+            "Position": 69,
             "ProductName": "Monitor de Áudio 42W RMS 2.0 Bivolt Madeira R1280T - Edifier",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188449"
         },
@@ -548,15 +557,15 @@
             "ProductId": 17013,
             "SkuId": 17252,
             "SubCollectionId": 26,
-            "Position": 69,
+            "Position": 70,
             "ProductName": "Monitor de Áudio Bluetooth 4\" 2.0 42W RMS Bivolt Preto R1580MB - Edifier",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188434"
         },
-        {
+		  {
             "ProductId": 15563,
             "SkuId": 15743,
             "SubCollectionId": 26,
-            "Position": 70,
+            "Position": 71,
             "ProductName": "Fone de Ouvido RH5 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184196"
         },
@@ -564,7 +573,7 @@
             "ProductId": 15674,
             "SkuId": 15854,
             "SubCollectionId": 26,
-            "Position": 71,
+            "Position": 72,
             "ProductName": "Fone de Ouvido RH5 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184688"
         },
@@ -572,7 +581,7 @@
             "ProductId": 15751,
             "SkuId": 15931,
             "SubCollectionId": 26,
-            "Position": 72,
+            "Position": 73,
             "ProductName": "Receiver AV 7.2 8K/60 Hz, 4K/120 Hz RX-A4A - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184928"
         },
@@ -580,7 +589,7 @@
             "ProductId": 15752,
             "SkuId": 15932,
             "SubCollectionId": 26,
-            "Position": 73,
+            "Position": 74,
             "ProductName": "Receiver AV. 5.2 Canais 4K RXV4A - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184934"
         },
@@ -588,7 +597,7 @@
             "ProductId": 17038,
             "SkuId": 17282,
             "SubCollectionId": 26,
-            "Position": 74,
+            "Position": 75,
             "ProductName": "Receiver AV 7.2 Wi-Fi e BT. RX-V6A BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188535"
         },
@@ -596,7 +605,7 @@
             "ProductId": 15730,
             "SkuId": 15910,
             "SubCollectionId": 26,
-            "Position": 75,
+            "Position": 76,
             "ProductName": "Microfone Sem Fio Headset SRW48S BT48 HT9A - Staner",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184849"
         },
@@ -604,7 +613,7 @@
             "ProductId": 13656,
             "SkuId": 13830,
             "SubCollectionId": 26,
-            "Position": 76,
+            "Position": 77,
             "ProductName": "Microfone Sem Fio Digital de Lapela SRW-48S/BT-48 - Staner",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/177794"
         },
@@ -612,7 +621,7 @@
             "ProductId": 15696,
             "SkuId": 15876,
             "SubCollectionId": 26,
-            "Position": 77,
+            "Position": 78,
             "ProductName": "Microfone Sem Fio Digital Lapela SRW-48S/BT48 - Staner",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184758"
         },
@@ -620,7 +629,7 @@
             "ProductId": 16271,
             "SkuId": 16453,
             "SubCollectionId": 26,
-            "Position": 78,
+            "Position": 79,
             "ProductName": "Microfone Sem Fio TSI1200 UHF - Tsi",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186704"
         },
@@ -628,15 +637,15 @@
             "ProductId": 16272,
             "SkuId": 16454,
             "SubCollectionId": 26,
-            "Position": 79,
+            "Position": 80,
             "ProductName": "Microfone Sem Fio Duplo TSI1200 CLI - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186705"
         },
-        {
+		  {
             "ProductId": 16273,
             "SkuId": 16455,
             "SubCollectionId": 26,
-            "Position": 80,
+            "Position": 81,
             "ProductName": "Microfone Sem Fio UHF TSI7099 - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186706"
         },
@@ -644,7 +653,7 @@
             "ProductId": 16274,
             "SkuId": 16456,
             "SubCollectionId": 26,
-            "Position": 81,
+            "Position": 82,
             "ProductName": "Microfone Sem Fio Duplo de Mão TSI8299 - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186708"
         },
@@ -652,7 +661,7 @@
             "ProductId": 17108,
             "SkuId": 17359,
             "SubCollectionId": 26,
-            "Position": 82,
+            "Position": 83,
             "ProductName": "Microfone Soundcast USB 2.0 - Dazz",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188635"
         },
@@ -660,7 +669,7 @@
             "ProductId": 15718,
             "SkuId": 15898,
             "SubCollectionId": 26,
-            "Position": 83,
+            "Position": 84,
             "ProductName": "Microfone Sem Fio Duplo de Mão VLA42 - Vokal",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184822"
         },
@@ -668,7 +677,7 @@
             "ProductId": 17017,
             "SkuId": 17256,
             "SubCollectionId": 26,
-            "Position": 84,
+            "Position": 85,
             "ProductName": "Fone de Ouvido Bluetooth Branco W800BT PLUS - Edifier",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188454"
         },
@@ -676,7 +685,7 @@
             "ProductId": 15782,
             "SkuId": 15963,
             "SubCollectionId": 26,
-            "Position": 85,
+            "Position": 86,
             "ProductName": "Fone de Ouvido Com Microfone YHG01 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185065"
         },
@@ -684,7 +693,7 @@
             "ProductId": 15966,
             "SkuId": 16148,
             "SubCollectionId": 26,
-            "Position": 86,
+            "Position": 87,
             "ProductName": "Teclado Controlador MIDI Portátil Profissional A49 WH - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185916"
         },
@@ -692,7 +701,7 @@
             "ProductId": 15937,
             "SkuId": 16119,
             "SubCollectionId": 26,
-            "Position": 87,
+            "Position": 88,
             "ProductName": "Pedal Seletor de 2 Canais AB2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185813"
         },
@@ -700,7 +709,7 @@
             "ProductId": 15942,
             "SkuId": 16124,
             "SubCollectionId": 26,
-            "Position": 88,
+            "Position": 89,
             "ProductName": "Pedal Para Guitarra Acoustic Simulator AC3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185833"
         },
@@ -708,15 +717,15 @@
             "ProductId": 15936,
             "SkuId": 16118,
             "SubCollectionId": 26,
-            "Position": 89,
+            "Position": 90,
             "ProductName": "Pedal Para Violão AD2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185811"
         },
-        {
+		 {
             "ProductId": 15790,
             "SkuId": 15971,
             "SubCollectionId": 26,
-            "Position": 90,
+            "Position": 91,
             "ProductName": "Kit de Live Streaming AG03 MK2 B LSPK - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185079"
         },
@@ -724,7 +733,7 @@
             "ProductId": 15787,
             "SkuId": 15968,
             "SubCollectionId": 26,
-            "Position": 91,
+            "Position": 92,
             "ProductName": "Mesa De Som de Live Streaming AG03 MK2 B/Y - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185072"
         },
@@ -732,7 +741,7 @@
             "ProductId": 15789,
             "SkuId": 15970,
             "SubCollectionId": 26,
-            "Position": 92,
+            "Position": 93,
             "ProductName": "Kit de Live Streaming AG03 MK2 W LSPK - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185078"
         },
@@ -740,7 +749,7 @@
             "ProductId": 15793,
             "SkuId": 15974,
             "SubCollectionId": 26,
-            "Position": 93,
+            "Position": 94,
             "ProductName": "Mesa de Som Para Live Streaming / Gaming ao Vivo AG08 B - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185090"
         },
@@ -748,7 +757,7 @@
             "ProductId": 15791,
             "SkuId": 15972,
             "SubCollectionId": 26,
-            "Position": 94,
+            "Position": 95,
             "ProductName": "Mesa de Som Para Live Streaming / Gaming ao Vivo AG08 W - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185082"
         },
@@ -756,7 +765,7 @@
             "ProductId": 15951,
             "SkuId": 16133,
             "SubCollectionId": 26,
-            "Position": 95,
+            "Position": 96,
             "ProductName": "Pedal Para Guitarra Dinâmica Wah AW3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185862"
         },
@@ -764,7 +773,7 @@
             "ProductId": 15967,
             "SkuId": 16149,
             "SubCollectionId": 26,
-            "Position": 96,
+            "Position": 97,
             "ProductName": "Bag Para Acordeon Series FR3 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185919"
         },
@@ -772,7 +781,7 @@
             "ProductId": 15726,
             "SkuId": 15906,
             "SubCollectionId": 26,
-            "Position": 97,
+            "Position": 98,
             "ProductName": "Pedal Para Guitarra Flanger BF3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184837"
         },
@@ -780,7 +789,7 @@
             "ProductId": 15370,
             "SkuId": 15545,
             "SubCollectionId": 26,
-            "Position": 98,
+            "Position": 99,
             "ProductName": "Pedal Para Guitarra Flanger BF3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183411"
         },
@@ -788,15 +797,15 @@
             "ProductId": 17123,
             "SkuId": 17377,
             "SubCollectionId": 26,
-            "Position": 99,
+            "Position": 100,
             "ProductName": "Violão Acústico Clássico Nylon Preto C40 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188676"
         },
-        {
+		{
             "ProductId": 14244,
             "SkuId": 14420,
             "SubCollectionId": 26,
-            "Position": 100,
+            "Position": 101,
             "ProductName": "Violão Acústico Clássico WY46390 C-45M II - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/179073"
         },
@@ -804,7 +813,7 @@
             "ProductId": 15651,
             "SkuId": 15831,
             "SubCollectionId": 26,
-            "Position": 101,
+            "Position": 102,
             "ProductName": "Violão Acústico Clássico WY46390 C-45M II - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184604"
         },
@@ -812,7 +821,7 @@
             "ProductId": 16177,
             "SkuId": 16360,
             "SubCollectionId": 26,
-            "Position": 102,
+            "Position": 103,
             "ProductName": "Violão Acústico Nylon WY46400 C-70 II - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186460"
         },
@@ -820,7 +829,7 @@
             "ProductId": 16176,
             "SkuId": 16359,
             "SubCollectionId": 26,
-            "Position": 103,
+            "Position": 104,
             "ProductName": "Violão Acústico Nylon WY46290 C-80 II NA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186459"
         },
@@ -828,7 +837,7 @@
             "ProductId": 15944,
             "SkuId": 16126,
             "SubCollectionId": 26,
-            "Position": 104,
+            "Position": 105,
             "ProductName": "Pedal Chorus CE5 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185837"
         },
@@ -836,7 +845,7 @@
             "ProductId": 15801,
             "SkuId": 15982,
             "SubCollectionId": 26,
-            "Position": 105,
+            "Position": 106,
             "ProductName": "Violão Acústico Nylon CG122MS - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185105"
         },
@@ -844,7 +853,7 @@
             "ProductId": 15800,
             "SkuId": 15981,
             "SubCollectionId": 26,
-            "Position": 106,
+            "Position": 107,
             "ProductName": "Violão Clássico Natural CG142S - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185104"
         },
@@ -852,7 +861,7 @@
             "ProductId": 16923,
             "SkuId": 17156,
             "SubCollectionId": 26,
-            "Position": 107,
+            "Position": 108,
             "ProductName": "Piano Digital Clavinova CLP725B BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188181"
         },
@@ -860,7 +869,7 @@
             "ProductId": 15589,
             "SkuId": 15768,
             "SubCollectionId": 26,
-            "Position": 108,
+            "Position": 109,
             "ProductName": "Piano Digital Clavinova CLP725B BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184284"
         },
@@ -868,15 +877,15 @@
             "ProductId": 15588,
             "SkuId": 15767,
             "SubCollectionId": 26,
-            "Position": 109,
+            "Position": 110,
             "ProductName": "Piano Digital Clavinova CLP725R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184280"
         },
-        {
+		 {
             "ProductId": 16962,
             "SkuId": 17196,
             "SubCollectionId": 26,
-            "Position": 110,
+            "Position": 111,
             "ProductName": "Piano Digital Clavinova CLP725R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188267"
         },
@@ -884,7 +893,7 @@
             "ProductId": 15585,
             "SkuId": 15764,
             "SubCollectionId": 26,
-            "Position": 111,
+            "Position": 112,
             "ProductName": "Piano Digital Clavinova CLP735R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184263"
         },
@@ -892,7 +901,7 @@
             "ProductId": 16186,
             "SkuId": 16369,
             "SubCollectionId": 26,
-            "Position": 112,
+            "Position": 113,
             "ProductName": "Piano Digital Clavinova CLP735R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186486"
         },
@@ -900,7 +909,7 @@
             "ProductId": 16960,
             "SkuId": 17194,
             "SubCollectionId": 26,
-            "Position": 113,
+            "Position": 114,
             "ProductName": "Piano Digital Clavinova CLP745B BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188263"
         },
@@ -908,7 +917,7 @@
             "ProductId": 14610,
             "SkuId": 14788,
             "SubCollectionId": 26,
-            "Position": 114,
+            "Position": 115,
             "ProductName": "Piano Digital CLP745 PE BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/179643"
         },
@@ -916,7 +925,7 @@
             "ProductId": 15615,
             "SkuId": 15794,
             "SubCollectionId": 26,
-            "Position": 115,
+            "Position": 116,
             "ProductName": "Piano Digital CLP745 PE BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184447"
         },
@@ -924,7 +933,7 @@
             "ProductId": 15802,
             "SkuId": 15983,
             "SubCollectionId": 26,
-            "Position": 116,
+            "Position": 117,
             "ProductName": "Violão Eletroacústico Cutaway CPX600 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185106"
         },
@@ -932,7 +941,7 @@
             "ProductId": 15445,
             "SkuId": 15620,
             "SubCollectionId": 26,
-            "Position": 117,
+            "Position": 118,
             "ProductName": "Teclado Digital Preto CT-S1 BK C2 BT BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183696"
         },
@@ -940,7 +949,7 @@
             "ProductId": 15719,
             "SkuId": 15899,
             "SubCollectionId": 26,
-            "Position": 118,
+            "Position": 119,
             "ProductName": "Teclado Digital Preto CTS1 BK C2 BT BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184823"
         },
@@ -948,15 +957,15 @@
             "ProductId": 15451,
             "SkuId": 15626,
             "SubCollectionId": 26,
-            "Position": 119,
+            "Position": 120,
             "ProductName": "Teclado Arranjador 5 Oitavas CT-X3000 C2BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183709"
         },
-        {
+		 {
             "ProductId": 15733,
             "SkuId": 15913,
             "SubCollectionId": 26,
-            "Position": 120,
+            "Position": 121,
             "ProductName": "Teclado Digital Arranjador CTX3000 C2BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184859"
         },
@@ -964,7 +973,7 @@
             "ProductId": 15372,
             "SkuId": 15547,
             "SubCollectionId": 26,
-            "Position": 121,
+            "Position": 122,
             "ProductName": "Pedal De Efeito Dimension C Para Guitarra DC2W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183417"
         },
@@ -972,7 +981,7 @@
             "ProductId": 15684,
             "SkuId": 15864,
             "SubCollectionId": 26,
-            "Position": 122,
+            "Position": 123,
             "ProductName": "Pedal De Efeito Dimension C Para Guitarra DC2W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184724"
         },
@@ -980,7 +989,7 @@
             "ProductId": 15738,
             "SkuId": 15918,
             "SubCollectionId": 26,
-            "Position": 123,
+            "Position": 124,
             "ProductName": "Pedal Para Guitarra Delay DD3T - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184878"
         },
@@ -988,7 +997,7 @@
             "ProductId": 15392,
             "SkuId": 15567,
             "SubCollectionId": 26,
-            "Position": 124,
+            "Position": 125,
             "ProductName": "Pedal Para Guitarra Delay DD3T - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183498"
         },
@@ -996,7 +1005,7 @@
             "ProductId": 17330,
             "SkuId": 17593,
             "SubCollectionId": 26,
-            "Position": 125,
+            "Position": 126,
             "ProductName": "Mesa de Som Digital DM3 Dante - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/189090"
         },
@@ -1004,7 +1013,7 @@
             "ProductId": 16165,
             "SkuId": 16348,
             "SubCollectionId": 26,
-            "Position": 126,
+            "Position": 127,
             "ProductName": "Mesa de Som Digital DM-3 Standard - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186427"
         },
@@ -1012,7 +1021,7 @@
             "ProductId": 15931,
             "SkuId": 16113,
             "SubCollectionId": 26,
-            "Position": 127,
+            "Position": 128,
             "ProductName": "Pedal Sustain Para Teclado DP10 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185795"
         },
@@ -1020,7 +1029,7 @@
             "ProductId": 15970,
             "SkuId": 16152,
             "SubCollectionId": 26,
-            "Position": 128,
+            "Position": 129,
             "ProductName": "Pedal de Sustain DP2 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185929"
         },
@@ -1028,15 +1037,15 @@
             "ProductId": 15564,
             "SkuId": 15744,
             "SubCollectionId": 26,
-            "Position": 129,
+            "Position": 130,
             "ProductName": "Bateria Eletrônica DLX Serie ZU62310 DTX-452K - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184199"
         },
-        {
+		{
             "ProductId": 16172,
             "SkuId": 16355,
             "SubCollectionId": 26,
-            "Position": 130,
+            "Position": 131,
             "ProductName": "Bateria Eletrônica DLX Serie ZU62310 DTX-452K - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186447"
         },
@@ -1044,7 +1053,7 @@
             "ProductId": 15596,
             "SkuId": 15775,
             "SubCollectionId": 26,
-            "Position": 131,
+            "Position": 132,
             "ProductName": "Teclado Arranjador Portátil Com Fonte EX30 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184356"
         },
@@ -1052,7 +1061,7 @@
             "ProductId": 14178,
             "SkuId": 14354,
             "SubCollectionId": 26,
-            "Position": 132,
+            "Position": 133,
             "ProductName": "Teclado Arranjador Portátil Com Fonte EX30 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178902"
         },
@@ -1060,7 +1069,7 @@
             "ProductId": 15613,
             "SkuId": 15792,
             "SubCollectionId": 26,
-            "Position": 133,
+            "Position": 134,
             "ProductName": "Teclado Arranjador EX50 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184444"
         },
@@ -1068,7 +1077,7 @@
             "ProductId": 15958,
             "SkuId": 16140,
             "SubCollectionId": 26,
-            "Position": 134,
+            "Position": 135,
             "ProductName": "Pedal Footswitch FS5L - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185886"
         },
@@ -1076,7 +1085,7 @@
             "ProductId": 15956,
             "SkuId": 16138,
             "SubCollectionId": 26,
-            "Position": 135,
+            "Position": 136,
             "ProductName": "Pedal Footswitch FS5U - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185871"
         },
@@ -1084,7 +1093,7 @@
             "ProductId": 15331,
             "SkuId": 15505,
             "SubCollectionId": 26,
-            "Position": 136,
+            "Position": 137,
             "ProductName": "Violão Elétrico Mahogany GD-11MCE MGS FOSCO & TP4T - Takamine",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183236"
         },
@@ -1092,7 +1101,7 @@
             "ProductId": 16178,
             "SkuId": 16361,
             "SubCollectionId": 26,
-            "Position": 137,
+            "Position": 138,
             "ProductName": "Violão Elétrico Mahogany GD-11MCE MGS FOSCO & TP4T - Takamine",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186461"
         },
@@ -1100,7 +1109,7 @@
             "ProductId": 15251,
             "SkuId": 15425,
             "SubCollectionId": 26,
-            "Position": 138,
+            "Position": 139,
             "ProductName": "Violão Eletroacústico GD-12CE NS FOSCO & TP4T - Takamine",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183045"
         },
@@ -1108,15 +1117,15 @@
             "ProductId": 16197,
             "SkuId": 16380,
             "SubCollectionId": 26,
-            "Position": 139,
+            "Position": 140,
             "ProductName": "Violão Eletroacústico GD-12CE NS FOSCO & TP4T - Takamine",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186557"
         },
-        {
+		  {
             "ProductId": 15938,
             "SkuId": 16120,
             "SubCollectionId": 26,
-            "Position": 140,
+            "Position": 141,
             "ProductName": "Cabo Midi 13 Pinos 4,57 M GKC5 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185816"
         },
@@ -1124,7 +1133,7 @@
             "ProductId": 13930,
             "SkuId": 14107,
             "SubCollectionId": 26,
-            "Position": 141,
+            "Position": 142,
             "ProductName": "Teclado 61 Teclas GO KEYS GO61K - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178369"
         },
@@ -1132,7 +1141,7 @@
             "ProductId": 15703,
             "SkuId": 15883,
             "SubCollectionId": 26,
-            "Position": 142,
+            "Position": 143,
             "ProductName": "Teclado 61 Teclas GO KEYS GO61K - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184781"
         },
@@ -1140,7 +1149,7 @@
             "ProductId": 13931,
             "SkuId": 14108,
             "SubCollectionId": 26,
-            "Position": 143,
+            "Position": 144,
             "ProductName": "Piano Digital 61 Teclas Com Bluetooth GO61P - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178373"
         },
@@ -1148,7 +1157,7 @@
             "ProductId": 15736,
             "SkuId": 15916,
             "SubCollectionId": 26,
-            "Position": 144,
+            "Position": 145,
             "ProductName": "Piano Digital 61 Teclas Com Bluetooth GO61P - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184873"
         },
@@ -1156,7 +1165,7 @@
             "ProductId": 15482,
             "SkuId": 15657,
             "SubCollectionId": 26,
-            "Position": 145,
+            "Position": 146,
             "ProductName": "Pedaleira Multi-Efeitos Profissional GT-1 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183819"
         },
@@ -1164,7 +1173,7 @@
             "ProductId": 15750,
             "SkuId": 15930,
             "SubCollectionId": 26,
-            "Position": 146,
+            "Position": 147,
             "ProductName": "Pedaleira Multi-efeitos Para Guitarra GT1 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184927"
         },
@@ -1172,7 +1181,7 @@
             "ProductId": 15968,
             "SkuId": 16150,
             "SubCollectionId": 26,
-            "Position": 147,
+            "Position": 148,
             "ProductName": "Percussão Digital HPD20 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185921"
         },
@@ -1180,7 +1189,7 @@
             "ProductId": 16185,
             "SkuId": 16368,
             "SubCollectionId": 26,
-            "Position": 148,
+            "Position": 149,
             "ProductName": "Teclado Sintetizador 88 Teclas JUNO DS88 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186484"
         },
@@ -1188,15 +1197,15 @@
             "ProductId": 13933,
             "SkuId": 14110,
             "SubCollectionId": 26,
-            "Position": 149,
+            "Position": 150,
             "ProductName": "Teclado 61 Teclas KB330 - Revas By Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178385"
         },
-        {
+		 {
             "ProductId": 15729,
             "SkuId": 15909,
             "SubCollectionId": 26,
-            "Position": 150,
+            "Position": 151,
             "ProductName": "Teclado 61 Teclas KB330 - Revas By Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184843"
         },
@@ -1204,7 +1213,7 @@
             "ProductId": 15930,
             "SkuId": 16112,
             "SubCollectionId": 26,
-            "Position": 151,
+            "Position": 152,
             "ProductName": "Pedal Para Contrabaixo Bass Limiter Enhacer LMB3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185793"
         },
@@ -1212,7 +1221,7 @@
             "ProductId": 15683,
             "SkuId": 15863,
             "SubCollectionId": 26,
-            "Position": 152,
+            "Position": 153,
             "ProductName": "Guitarra  Les Paul LPS200 BK - Strinberg",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184720"
         },
@@ -1220,7 +1229,7 @@
             "ProductId": 17122,
             "SkuId": 17376,
             "SubCollectionId": 26,
-            "Position": 153,
+            "Position": 154,
             "ProductName": "Guitarra  Les Paul LPS230 BK - Strinberg",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/190132"
         },
@@ -1228,7 +1237,7 @@
             "ProductId": 15695,
             "SkuId": 15875,
             "SubCollectionId": 26,
-            "Position": 154,
+            "Position": 155,
             "ProductName": "Guitarra Les Paul LPS200 SB - Strinberg",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184757"
         },
@@ -1236,7 +1245,7 @@
             "ProductId": 17121,
             "SkuId": 17375,
             "SubCollectionId": 26,
-            "Position": 155,
+            "Position": 156,
             "ProductName": "Guitarra Les Paul LPS230 SB - Strinberg",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188672"
         },
@@ -1244,7 +1253,7 @@
             "ProductId": 15676,
             "SkuId": 15856,
             "SubCollectionId": 26,
-            "Position": 156,
+            "Position": 157,
             "ProductName": "Mesa de Som Digital Para Live e Studio 40 Canais M32 LIVE - MIDAS",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185959"
         },
@@ -1252,7 +1261,7 @@
             "ProductId": 15953,
             "SkuId": 16135,
             "SubCollectionId": 26,
-            "Position": 157,
+            "Position": 158,
             "ProductName": "Pedal Mega Distorção Para Guitarra MD2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185866"
         },
@@ -1260,7 +1269,7 @@
             "ProductId": 14182,
             "SkuId": 14358,
             "SubCollectionId": 26,
-            "Position": 158,
+            "Position": 159,
             "ProductName": "Mesa de Som MG06 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178919"
         },
@@ -1268,15 +1277,15 @@
             "ProductId": 15599,
             "SkuId": 15778,
             "SubCollectionId": 26,
-            "Position": 159,
+            "Position": 160,
             "ProductName": "Mesa de Som MG06 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184380"
         },
-        {
+		 {
             "ProductId": 15591,
             "SkuId": 15770,
             "SubCollectionId": 26,
-            "Position": 160,
+            "Position": 161,
             "ProductName": "Mesa de Som 10 Canais MG10 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184312"
         },
@@ -1284,7 +1293,7 @@
             "ProductId": 15657,
             "SkuId": 15837,
             "SubCollectionId": 26,
-            "Position": 161,
+            "Position": 162,
             "ProductName": "Mesa de Som 10 Entradas USB EFX MG10 XU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184631"
         },
@@ -1292,7 +1301,7 @@
             "ProductId": 15603,
             "SkuId": 15782,
             "SubCollectionId": 26,
-            "Position": 162,
+            "Position": 163,
             "ProductName": "Mesa Som de 10 Canais MG10 XUF 110V - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184405"
         },
@@ -1300,7 +1309,7 @@
             "ProductId": 14175,
             "SkuId": 14351,
             "SubCollectionId": 26,
-            "Position": 163,
+            "Position": 164,
             "ProductName": "Mesa Som de 10 Canais MG10 XUF 110V - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178897"
         },
@@ -1308,7 +1317,7 @@
             "ProductId": 14188,
             "SkuId": 14364,
             "SubCollectionId": 26,
-            "Position": 164,
+            "Position": 165,
             "ProductName": "Mesa De Som 16 Entradas USB E EFX MG16XU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178937"
         },
@@ -1316,7 +1325,7 @@
             "ProductId": 15601,
             "SkuId": 15780,
             "SubCollectionId": 26,
-            "Position": 165,
+            "Position": 166,
             "ProductName": "Mesa De Som 16 Entradas USB E EFX MG16XU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184394"
         },
@@ -1324,7 +1333,7 @@
             "ProductId": 15623,
             "SkuId": 15802,
             "SubCollectionId": 26,
-            "Position": 166,
+            "Position": 167,
             "ProductName": "Mesa de Som Com Porta USB MG20 XU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184479"
         },
@@ -1332,7 +1341,7 @@
             "ProductId": 15351,
             "SkuId": 15525,
             "SubCollectionId": 26,
-            "Position": 167,
+            "Position": 168,
             "ProductName": "Mesa de Som 24 Canais MGP24X - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183351"
         },
@@ -1340,7 +1349,7 @@
             "ProductId": 17119,
             "SkuId": 17373,
             "SubCollectionId": 26,
-            "Position": 168,
+            "Position": 169,
             "ProductName": "Mesa de Som 24 Canais MGP24X - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188668"
         },
@@ -1348,15 +1357,15 @@
             "ProductId": 15330,
             "SkuId": 15504,
             "SubCollectionId": 26,
-            "Position": 169,
+            "Position": 170,
             "ProductName": "Mesa de Som 32 Canais Com D-PRE MGP-32X -  Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183235"
         },
-        {
+		 {
             "ProductId": 17120,
             "SkuId": 17374,
             "SubCollectionId": 26,
-            "Position": 170,
+            "Position": 171,
             "ProductName": "Mesa de Som 32 Canais Com D-PRE MGP32X -  Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188671"
         },
@@ -1364,7 +1373,7 @@
             "ProductId": 15935,
             "SkuId": 16117,
             "SubCollectionId": 26,
-            "Position": 171,
+            "Position": 172,
             "ProductName": "Pedal Metal Core Para Guitarra ML2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185809"
         },
@@ -1372,7 +1381,7 @@
             "ProductId": 15260,
             "SkuId": 15434,
             "SubCollectionId": 26,
-            "Position": 172,
+            "Position": 173,
             "ProductName": "Teclado Sintetizador 61 Teclas MODX6+ - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183068"
         },
@@ -1380,7 +1389,7 @@
             "ProductId": 17117,
             "SkuId": 17371,
             "SubCollectionId": 26,
-            "Position": 173,
+            "Position": 174,
             "ProductName": "Teclado Sintetizador 61 Teclas MODX6+ - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188663"
         },
@@ -1388,7 +1397,7 @@
             "ProductId": 3768,
             "SkuId": 3768,
             "SubCollectionId": 26,
-            "Position": 174,
+            "Position": 175,
             "ProductName": "Encordoamento 0.13 Para Violão SLANPB-13 - Solez",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/159592"
         },
@@ -1396,7 +1405,7 @@
             "ProductId": 16169,
             "SkuId": 16352,
             "SubCollectionId": 26,
-            "Position": 175,
+            "Position": 176,
             "ProductName": "Sintetizador De 76 Teclas MONTAGE-7 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186438"
         },
@@ -1404,7 +1413,7 @@
             "ProductId": 15375,
             "SkuId": 15550,
             "SubCollectionId": 26,
-            "Position": 176,
+            "Position": 177,
             "ProductName": "Pedal De Guitarra Metal Zone MT2W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183426"
         },
@@ -1412,7 +1421,7 @@
             "ProductId": 15720,
             "SkuId": 15900,
             "SubCollectionId": 26,
-            "Position": 177,
+            "Position": 178,
             "ProductName": "Pedal De Guitarra Metal Zone MT2W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184826"
         },
@@ -1420,7 +1429,7 @@
             "ProductId": 15587,
             "SkuId": 15766,
             "SubCollectionId": 26,
-            "Position": 178,
+            "Position": 179,
             "ProductName": "Sintetizador Digital com 61 Teclas ZU13450 MX61 BK BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184277"
         },
@@ -1428,15 +1437,15 @@
             "ProductId": 17113,
             "SkuId": 17367,
             "SubCollectionId": 26,
-            "Position": 179,
+            "Position": 180,
             "ProductName": "Sintetizador Digital com 61 Teclas ZU13450 MX61 BK BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188656"
         },
-        {
+		 {
             "ProductId": 17022,
             "SkuId": 17261,
             "SubCollectionId": 26,
-            "Position": 180,
+            "Position": 181,
             "ProductName": "Teclado Sintetizador 61 Teclas MX61 BU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188487"
         },
@@ -1444,7 +1453,7 @@
             "ProductId": 16978,
             "SkuId": 17213,
             "SubCollectionId": 26,
-            "Position": 181,
+            "Position": 182,
             "ProductName": "Teclado Sintetizador 61 Teclas MX-61 BU - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188327"
         },
@@ -1452,7 +1461,7 @@
             "ProductId": 16205,
             "SkuId": 16389,
             "SubCollectionId": 26,
-            "Position": 182,
+            "Position": 183,
             "ProductName": "Violão Eletroacústico Nylon NCX1C NT - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186590"
         },
@@ -1460,7 +1469,7 @@
             "ProductId": 15946,
             "SkuId": 16128,
             "SubCollectionId": 26,
-            "Position": 183,
+            "Position": 184,
             "ProductName": "Pedal Para Guitarra Elimina Ruídos e Hummings NS2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185842"
         },
@@ -1468,7 +1477,7 @@
             "ProductId": 15662,
             "SkuId": 15842,
             "SubCollectionId": 26,
-            "Position": 184,
+            "Position": 185,
             "ProductName": "Violão Eletroacústico Nylon NTX1 NT - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184656"
         },
@@ -1476,7 +1485,7 @@
             "ProductId": 15663,
             "SkuId": 15843,
             "SubCollectionId": 26,
-            "Position": 185,
+            "Position": 186,
             "ProductName": "Violão Eletroacústico Nylon Natural NTX1 NT - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184657"
         },
@@ -1484,7 +1493,7 @@
             "ProductId": 16167,
             "SkuId": 16350,
             "SubCollectionId": 26,
-            "Position": 186,
+            "Position": 187,
             "ProductName": "Placa de Expansão Para Mesas TF NY64D - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186432"
         },
@@ -1492,7 +1501,7 @@
             "ProductId": 17024,
             "SkuId": 17263,
             "SubCollectionId": 26,
-            "Position": 187,
+            "Position": 188,
             "ProductName": "Piano Digital Compacto Teclado GHC P143 BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188492"
         },
@@ -1500,7 +1509,7 @@
             "ProductId": 17025,
             "SkuId": 17264,
             "SubCollectionId": 26,
-            "Position": 188,
+            "Position": 189,
             "ProductName": "Piano Digital Compacto Teclado GHC P145 BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188499"
         },
@@ -1508,15 +1517,15 @@
             "ProductId": 14872,
             "SkuId": 15047,
             "SubCollectionId": 26,
-            "Position": 189,
+            "Position": 190,
             "ProductName": "Piano Digital 88 Teclas P515  - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/180412"
         },
-        {
+		 {
             "ProductId": 15796,
             "SkuId": 15977,
             "SubCollectionId": 26,
-            "Position": 190,
+            "Position": 191,
             "ProductName": "Guitarra Vermelho Metálico Pacífica 012 RM - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185100"
         },
@@ -1524,7 +1533,7 @@
             "ProductId": 13934,
             "SkuId": 14111,
             "SubCollectionId": 26,
-            "Position": 191,
+            "Position": 192,
             "ProductName": "Bateria Eletrônica PB350 - Revas By Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178394"
         },
@@ -1532,7 +1541,7 @@
             "ProductId": 15681,
             "SkuId": 15861,
             "SubCollectionId": 26,
-            "Position": 192,
+            "Position": 193,
             "ProductName": "Bateria Eletrônica PB350 - Revas By Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184716"
         },
@@ -1540,7 +1549,7 @@
             "ProductId": 15361,
             "SkuId": 15536,
             "SubCollectionId": 26,
-            "Position": 193,
+            "Position": 194,
             "ProductName": "Pedal Para Guitarra e Baixo Phase Shifter PH3 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183390"
         },
@@ -1548,7 +1557,7 @@
             "ProductId": 14177,
             "SkuId": 14353,
             "SubCollectionId": 26,
-            "Position": 194,
+            "Position": 195,
             "ProductName": "Teclado Portátil 61 Teclas PSRE273 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178901"
         },
@@ -1556,7 +1565,7 @@
             "ProductId": 15605,
             "SkuId": 15784,
             "SubCollectionId": 26,
-            "Position": 195,
+            "Position": 196,
             "ProductName": "Teclado Portátil 61 Teclas PSRE273 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184410"
         },
@@ -1564,7 +1573,7 @@
             "ProductId": 15552,
             "SkuId": 15732,
             "SubCollectionId": 26,
-            "Position": 196,
+            "Position": 197,
             "ProductName": "Teclado Portátil PSRE360 MA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184154"
         },
@@ -1572,7 +1581,7 @@
             "ProductId": 15959,
             "SkuId": 16141,
             "SubCollectionId": 26,
-            "Position": 197,
+            "Position": 198,
             "ProductName": "Teclado Portátil PSRE360 MA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185891"
         },
@@ -1580,7 +1589,7 @@
             "ProductId": 16206,
             "SkuId": 16390,
             "SubCollectionId": 26,
-            "Position": 198,
+            "Position": 199,
             "ProductName": "Teclado PSR-E373 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186598"
         },
@@ -1588,15 +1597,15 @@
             "ProductId": 16117,
             "SkuId": 16299,
             "SubCollectionId": 26,
-            "Position": 199,
+            "Position": 200,
             "ProductName": "Teclado  Digital 61 Teclas PSR-E473 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186358"
         },
-        {
+		 {
             "ProductId": 15659,
             "SkuId": 15839,
             "SubCollectionId": 26,
-            "Position": 200,
+            "Position": 201,
             "ProductName": "Teclado Portátil 76 Teclas PSREW310 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184648"
         },
@@ -1604,7 +1613,7 @@
             "ProductId": 14192,
             "SkuId": 14368,
             "SubCollectionId": 26,
-            "Position": 201,
+            "Position": 202,
             "ProductName": "Teclado Portátil PSR-EW425 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178950"
         },
@@ -1612,7 +1621,7 @@
             "ProductId": 16118,
             "SkuId": 16300,
             "SubCollectionId": 26,
-            "Position": 202,
+            "Position": 203,
             "ProductName": "Teclado Portátil PSR-EW425 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186362"
         },
@@ -1620,7 +1629,7 @@
             "ProductId": 14662,
             "SkuId": 14840,
             "SubCollectionId": 26,
-            "Position": 203,
+            "Position": 204,
             "ProductName": "Teclado Musical PSRF52 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/179802"
         },
@@ -1628,7 +1637,7 @@
             "ProductId": 15688,
             "SkuId": 15868,
             "SubCollectionId": 26,
-            "Position": 204,
+            "Position": 205,
             "ProductName": "Piano Digital Privia 88 Teclas PXS3100 BK C2BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184738"
         },
@@ -1636,7 +1645,7 @@
             "ProductId": 15441,
             "SkuId": 15616,
             "SubCollectionId": 26,
-            "Position": 205,
+            "Position": 206,
             "ProductName": "Piano Digital 88 Teclas PX-S3100 BK C2BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183685"
         },
@@ -1644,7 +1653,7 @@
             "ProductId": 15418,
             "SkuId": 15593,
             "SubCollectionId": 26,
-            "Position": 206,
+            "Position": 207,
             "ProductName": "Piano Digital Privia 88 Teclas PXS3000 BK C2BR - Casio",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183556"
         },
@@ -1652,7 +1661,7 @@
             "ProductId": 15622,
             "SkuId": 15801,
             "SubCollectionId": 26,
-            "Position": 207,
+            "Position": 208,
             "ProductName": "Pedal Para Baixo Rec Overdub Play RC1 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184475"
         },
@@ -1660,7 +1669,7 @@
             "ProductId": 16760,
             "SkuId": 16989,
             "SubCollectionId": 26,
-            "Position": 208,
+            "Position": 209,
             "ProductName": "Stage Box I/O Rack RIO-3224 D2 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187908"
         },
@@ -1668,15 +1677,15 @@
             "ProductId": 15386,
             "SkuId": 15561,
             "SubCollectionId": 26,
-            "Position": 209,
+            "Position": 210,
             "ProductName": "Pedal Overdrive Waza Craft Edição Especial SD1W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183472"
         },
-        {
+		{
             "ProductId": 15701,
             "SkuId": 15881,
             "SubCollectionId": 26,
-            "Position": 210,
+            "Position": 211,
             "ProductName": "Pedal Overdrive Waza Craft Edição Especial SD1W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184771"
         },
@@ -1684,7 +1693,7 @@
             "ProductId": 17247,
             "SkuId": 17503,
             "SubCollectionId": 26,
-            "Position": 211,
+            "Position": 212,
             "ProductName": "Sampling Pad Percussão SPD SX - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188886"
         },
@@ -1692,7 +1701,7 @@
             "ProductId": 10283,
             "SkuId": 10492,
             "SubCollectionId": 26,
-            "Position": 212,
+            "Position": 213,
             "ProductName": "Sampling Pad Digital Edição Especial SPD-SX SE - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/177402"
         },
@@ -1700,7 +1709,7 @@
             "ProductId": 16199,
             "SkuId": 16383,
             "SubCollectionId": 26,
-            "Position": 213,
+            "Position": 214,
             "ProductName": "Sampling Pad Digital Edição Especial SPD-SX SE - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186566"
         },
@@ -1708,7 +1717,7 @@
             "ProductId": 16767,
             "SkuId": 16996,
             "SubCollectionId": 26,
-            "Position": 214,
+            "Position": 215,
             "ProductName": "Mesa de Som Digital TF-RACK - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187927"
         },
@@ -1716,7 +1725,7 @@
             "ProductId": 15811,
             "SkuId": 15992,
             "SubCollectionId": 26,
-            "Position": 215,
+            "Position": 216,
             "ProductName": "Mesa De Som Digital TF1 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185118"
         },
@@ -1724,7 +1733,7 @@
             "ProductId": 15810,
             "SkuId": 15991,
             "SubCollectionId": 26,
-            "Position": 216,
+            "Position": 217,
             "ProductName": "Mesa De Som Digital TF3 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185116"
         },
@@ -1732,7 +1741,7 @@
             "ProductId": 15481,
             "SkuId": 15656,
             "SubCollectionId": 26,
-            "Position": 217,
+            "Position": 218,
             "ProductName": "Mesa De Som Digital TF5 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183818"
         },
@@ -1740,7 +1749,7 @@
             "ProductId": 15809,
             "SkuId": 15990,
             "SubCollectionId": 26,
-            "Position": 218,
+            "Position": 219,
             "ProductName": "Mesa De Som Digital TF5 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185113"
         },
@@ -1748,15 +1757,15 @@
             "ProductId": 15950,
             "SkuId": 16132,
             "SubCollectionId": 26,
-            "Position": 219,
+            "Position": 220,
             "ProductName": "Pedal Tremolo Para Guitarra TR2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185853"
         },
-        {
+		{
             "ProductId": 14209,
             "SkuId": 14385,
             "SubCollectionId": 26,
-            "Position": 220,
+            "Position": 221,
             "ProductName": "Kit Interface De Áudio Steinberg UR22 MK STUDIO - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/179008"
         },
@@ -1764,7 +1773,7 @@
             "ProductId": 15611,
             "SkuId": 15790,
             "SubCollectionId": 26,
-            "Position": 221,
+            "Position": 222,
             "ProductName": "Kit Interface De Áudio Steinberg UR22 MK STUDIO - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184436"
         },
@@ -1772,7 +1781,7 @@
             "ProductId": 16207,
             "SkuId": 16391,
             "SubCollectionId": 26,
-            "Position": 222,
+            "Position": 223,
             "ProductName": "Interface de Áudio USB 3.0 6 x 4 UR44C - Steinberg By Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186601"
         },
@@ -1780,7 +1789,7 @@
             "ProductId": 14824,
             "SkuId": 15000,
             "SubCollectionId": 26,
-            "Position": 223,
+            "Position": 224,
             "ProductName": "Sintetizador 61 Teclas XPS10 RD - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/180216"
         },
@@ -1788,7 +1797,7 @@
             "ProductId": 15691,
             "SkuId": 15871,
             "SubCollectionId": 26,
-            "Position": 224,
+            "Position": 225,
             "ProductName": "Sintetizador 61 Teclas XPS10 RD - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184751"
         },
@@ -1796,7 +1805,7 @@
             "ProductId": 15229,
             "SkuId": 15403,
             "SubCollectionId": 26,
-            "Position": 225,
+            "Position": 226,
             "ProductName": "Teclado Sintetizador XPS10 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183000"
         },
@@ -1804,7 +1813,7 @@
             "ProductId": 15677,
             "SkuId": 15857,
             "SubCollectionId": 26,
-            "Position": 226,
+            "Position": 227,
             "ProductName": "Teclado Sintetizador XPS10 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184696"
         },
@@ -1812,7 +1821,7 @@
             "ProductId": 15550,
             "SkuId": 15730,
             "SubCollectionId": 26,
-            "Position": 227,
+            "Position": 228,
             "ProductName": "Teclado Sintetizador Expansível XPS30 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184133"
         },
@@ -1820,7 +1829,7 @@
             "ProductId": 15713,
             "SkuId": 15893,
             "SubCollectionId": 26,
-            "Position": 228,
+            "Position": 229,
             "ProductName": "Teclado Sintetizador Expansível XPS30 - Roland",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184811"
         },
@@ -1828,15 +1837,15 @@
             "ProductId": 14823,
             "SkuId": 14999,
             "SubCollectionId": 26,
-            "Position": 229,
+            "Position": 230,
             "ProductName": "Piano Digital ARIUS YDP105B - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/180211"
         },
-        {
+		 {
             "ProductId": 17118,
             "SkuId": 17372,
             "SubCollectionId": 26,
-            "Position": 230,
+            "Position": 231,
             "ProductName": "Piano Digital ARIUS YDP105B - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188666"
         },
@@ -1844,7 +1853,7 @@
             "ProductId": 13858,
             "SkuId": 14034,
             "SubCollectionId": 26,
-            "Position": 231,
+            "Position": 232,
             "ProductName": "Piano Digital ARIUS YDP-145R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178086"
         },
@@ -1852,7 +1861,7 @@
             "ProductId": 14199,
             "SkuId": 14375,
             "SubCollectionId": 26,
-            "Position": 232,
+            "Position": 233,
             "ProductName": "Piano Digital ARIUS YDP-165R - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178973"
         },
@@ -1860,7 +1869,7 @@
             "ProductId": 12530,
             "SkuId": 12738,
             "SubCollectionId": 26,
-            "Position": 233,
+            "Position": 234,
             "ProductName": "Flauta Transversal Soprano C YFL-212 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173147"
         },
@@ -1868,7 +1877,7 @@
             "ProductId": 16168,
             "SkuId": 16351,
             "SubCollectionId": 26,
-            "Position": 234,
+            "Position": 235,
             "ProductName": "Flauta Transversal Soprano YFL212 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186434"
         },
@@ -1876,7 +1885,7 @@
             "ProductId": 15792,
             "SkuId": 15973,
             "SubCollectionId": 26,
-            "Position": 235,
+            "Position": 236,
             "ProductName": "Mesa de Som Para Streaming / Gaming ao Vivo ZG01 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185087"
         },
@@ -1884,9 +1893,37 @@
             "ProductId": 11416,
             "SkuId": 11625,
             "SubCollectionId": 26,
-            "Position": 236,
+            "Position": 237,
             "ProductName": "Microfone Sem Fio UHF UD-7099 - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/171100"
+        },
+        {
+            "ProductId": 16277,
+            "SkuId": 16459,
+            "SubCollectionId": 26,
+            "Position": 238,
+            "ProductName": "Microfone Sem Fio Duplo De Mão UHF BR7000 - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186715"
+        },
+        {
+            "ProductId": 11921,
+            "SkuId": 12130,
+            "SubCollectionId": 26,
+            "Position": 239,
+            "ProductName": "Microfone Sem Fio Duplo De Mão BR-7000 UHF - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/171718"
+        },
+        {
+            "ProductId": 17867,
+            "SkuId": 18132,
+            "SubCollectionId": 26,
+            "Position": 240,
+            "ProductName": "Bateria Eletrônica DTX Série DTX6K3-X - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/190438"
         }
+		
+	
+	
+  
     ]
 }
