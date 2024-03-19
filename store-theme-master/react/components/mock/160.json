@@ -1,7 +1,8 @@
 {
     "Data": [
 	
-	  {
+	
+	 {
             "ProductId": 16762,
             "SkuId": 16991,
             "SubCollectionId": 26,
@@ -262,7 +263,7 @@
             "SkuId": 16988,
             "SubCollectionId": 26,
             "Position": 33,
-            "ProductName": "Caixa Ativa 15\" 2 Vias 1300W EON715 NA 110V - JBL",
+            "ProductName": "Caixa Ativa 15 Polegadas 1300W EON715 Bivolt - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/187907"
         },
         {
@@ -401,7 +402,7 @@
             "ProductName": "Microfone Gooseneck Com Base MSF460 B - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186702"
         },
-		{
+		 {
             "ProductId": 14611,
             "SkuId": 14789,
             "SubCollectionId": 26,
@@ -561,7 +562,7 @@
             "ProductName": "Monitor de Áudio Bluetooth 4\" 2.0 42W RMS Bivolt Preto R1580MB - Edifier",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188434"
         },
-		  {
+		 {
             "ProductId": 15563,
             "SkuId": 15743,
             "SubCollectionId": 26,
@@ -641,7 +642,7 @@
             "ProductName": "Microfone Sem Fio Duplo TSI1200 CLI - TSI",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186705"
         },
-		  {
+		{
             "ProductId": 16273,
             "SkuId": 16455,
             "SubCollectionId": 26,
@@ -801,7 +802,7 @@
             "ProductName": "Violão Acústico Clássico Nylon Preto C40 BL - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/188676"
         },
-		{
+		 {
             "ProductId": 14244,
             "SkuId": 14420,
             "SubCollectionId": 26,
@@ -1041,7 +1042,7 @@
             "ProductName": "Bateria Eletrônica DLX Serie ZU62310 DTX-452K - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184199"
         },
-		{
+		 {
             "ProductId": 16172,
             "SkuId": 16355,
             "SubCollectionId": 26,
@@ -1121,7 +1122,7 @@
             "ProductName": "Violão Eletroacústico GD-12CE NS FOSCO & TP4T - Takamine",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186557"
         },
-		  {
+		 {
             "ProductId": 15938,
             "SkuId": 16120,
             "SubCollectionId": 26,
@@ -1281,7 +1282,7 @@
             "ProductName": "Mesa de Som MG06 - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/184380"
         },
-		 {
+		{
             "ProductId": 15591,
             "SkuId": 15770,
             "SubCollectionId": 26,
@@ -1681,7 +1682,7 @@
             "ProductName": "Pedal Overdrive Waza Craft Edição Especial SD1W - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183472"
         },
-		{
+		 {
             "ProductId": 15701,
             "SkuId": 15881,
             "SubCollectionId": 26,
@@ -1761,7 +1762,7 @@
             "ProductName": "Pedal Tremolo Para Guitarra TR2 - Boss",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185853"
         },
-		{
+		 {
             "ProductId": 14209,
             "SkuId": 14385,
             "SubCollectionId": 26,
@@ -1920,10 +1921,162 @@
             "Position": 240,
             "ProductName": "Bateria Eletrônica DTX Série DTX6K3-X - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/190438"
+        },
+		 {
+            "ProductId": 16282,
+            "SkuId": 16464,
+            "SubCollectionId": 26,
+            "Position": 241,
+            "ProductName": "Kit Professor Auxiliar de Voz BC-270 - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/186722"
+        },
+        {
+            "ProductId": 7433,
+            "SkuId": 7433,
+            "SubCollectionId": 26,
+            "Position": 242,
+            "ProductName": "Pedal Para Guitarra Flanger BF-3 - Boss",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/164936"
+        },
+        {
+            "ProductId": 13647,
+            "SkuId": 13822,
+            "SubCollectionId": 26,
+            "Position": 243,
+            "ProductName": "Sistema Duplo de Microfones Sem Fio BR-7000-CLI-UHF - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/177770"
+        },
+        {
+            "ProductId": 8952,
+            "SkuId": 8952,
+            "SubCollectionId": 26,
+            "Position": 244,
+            "ProductName": "Teclado Sintetizador Expansível XPS-30 - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/167482"
+        },
+        {
+            "ProductId": 12820,
+            "SkuId": 13072,
+            "SubCollectionId": 26,
+            "Position": 245,
+            "ProductName": "Teclado Sintetizador Expansível XPS-30 RD - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173761"
+        },
+        {
+            "ProductId": 8277,
+            "SkuId": 8277,
+            "SubCollectionId": 26,
+            "Position": 246,
+            "ProductName": "Teclado Sintetizador XPS-10 - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/166321"
+        },
+        {
+            "ProductId": 6373,
+            "SkuId": 6373,
+            "SubCollectionId": 26,
+            "Position": 247,
+            "ProductName": "Microfone Sem Fio 600 Canais TSI BR-8000 UHF - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/163466"
+        },
+        {
+            "ProductId": 12832,
+            "SkuId": 13038,
+            "SubCollectionId": 26,
+            "Position": 248,
+            "ProductName": "Microfone Sem Fio Duplo UHF TSI-900-UHF - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173839"
+        },
+        {
+            "ProductId": 13937,
+            "SkuId": 14114,
+            "SubCollectionId": 26,
+            "Position": 249,
+            "ProductName": "Caixas Acústicas 150W Control 1 Pro - Jbl",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178428"
+        },
+        {
+            "ProductId": 11862,
+            "SkuId": 12071,
+            "SubCollectionId": 26,
+            "Position": 250,
+            "ProductName": "Teclado Digital Arranjador 61 Teclas E-X20A - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/171651"
+        },
+		{
+            "ProductId": 13186,
+            "SkuId": 13363,
+            "SubCollectionId": 26,
+            "Position": 251,
+            "ProductName": "Microfone Sem Fio Duplo TSI-1200-CLI - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/175876"
+        },
+        {
+            "ProductId": 12578,
+            "SkuId": 12786,
+            "SubCollectionId": 26,
+            "Position": 252,
+            "ProductName": "Violão Eletroacústico GD-12CE NS FOSCO & TP4T - Takamine",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173211"
+        },
+        {
+            "ProductId": 12967,
+            "SkuId": 13180,
+            "SubCollectionId": 26,
+            "Position": 253,
+            "ProductName": "Microfone Sem Fio 96 Canais TSI-1200 UHF - Tsi",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/175239"
+        },
+        {
+            "ProductId": 6238,
+            "SkuId": 6238,
+            "SubCollectionId": 26,
+            "Position": 254,
+            "ProductName": "Microfone Gooseneck GN-260 - TSI",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/163240"
+        },
+        {
+            "ProductId": 7764,
+            "SkuId": 7764,
+            "SubCollectionId": 26,
+            "Position": 255,
+            "ProductName": "Piano Digital 61 Teclas Com Bluetooth GO-61P - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/165503"
+        },
+        {
+            "ProductId": 5976,
+            "SkuId": 5976,
+            "SubCollectionId": 26,
+            "Position": 256,
+            "ProductName": "Mesa de Som Digital TF-5 - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/162721"
+        },
+        {
+            "ProductId": 8878,
+            "SkuId": 8878,
+            "SubCollectionId": 26,
+            "Position": 257,
+            "ProductName": "Teclado 61 Teclas KB-330 - Revas By Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/167204"
+        },
+        {
+            "ProductId": 12901,
+            "SkuId": 13107,
+            "SubCollectionId": 26,
+            "Position": 258,
+            "ProductName": "Monitor Ativo 6,5\" 95W HS-7 Branco - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173823"
+        },
+        {
+            "ProductId": 13387,
+            "SkuId": 13562,
+            "SubCollectionId": 26,
+            "Position": 259,
+            "ProductName": "Receiver AV 7.2 Canais HD RX-V6A BL - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/176277"
         }
 		
 	
 	
-  
-    ]
+	
+	  ]
 }
