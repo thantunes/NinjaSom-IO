@@ -9,7 +9,7 @@ const PriceDisc = () => {
 
     console.log('Esse aq', product, skuSelector)
     const ValCalc = (productPrice - (productPrice * 0.08)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
-    const ValCalcRoland = (productPrice - (productPrice * 0.05)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
+    const ValCalcRoland = (productPrice - (productPrice * 0.10)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
     const SellerId = product?.items[0]?.sellers[1]?.sellerId == undefined ? "" : product.items[0]?.sellers[1]?.sellerId
     console.log({productPrice, ValCalc})
     const [DomLoad, setDomLoad] = useState(true)
