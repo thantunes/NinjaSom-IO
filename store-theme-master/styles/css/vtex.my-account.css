@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;500;700&display=swap');
 
-
+@media screen and (max-width: 992px) {
+:global(.render-route-store-product)
+:global(.vtex-stack-layout-0-x-stackContainer--product .vtex-stack-layout-0-x-stackItem--first){left: calc(100% - 160px);}
+}
 
 :global(.bg-base) {    background-color: #F3F3F3;}
 :global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome)
@@ -26,6 +29,21 @@
    font-size: 12px;
    font-family: 'Montserrat',sans-serif;
    font-weight: 500;
+}
+
+
+:global(span.t-action--small.vtex-login-2-x-oauthLabel.relative.normal) {
+   font-size: 14px;
+   text-transform: math-auto;
+}
+
+
+:global(.vtex-login-2-x-button .vtex-button) {
+
+   text-transform: math-auto;
+   background-color: #010449;
+   color: #fff;
+   font-size: 14px;
 }
 
 
@@ -1132,4 +1150,12 @@ thiago
    :global(.vtex-rich-text-0-x-container--TrabalheConoscoF) {    width: auto;
       margin: 20px;}
 
+:global(.render-route-store-custom-trabalheconosco)
+      :global(.vtex-iframe-0-x-container) iframe {    max-width: 100%;}
+    
+
+}
+
+:global(.vtex-flex-layout-0-x-flexRowContent--TrabalheConoscoS) 
+:global(.vtex-iframe-0-x-container){    margin-top: 75px;
 }

@@ -9,7 +9,7 @@ const PriceDisc = () => {
     console.log({SellerID})
     console.log({price: SellerID[0].commertialOffer.Price})
     const productPrice = SellerID[0].commertialOffer.Price
-    const ValCalcRoland = (productPrice - (productPrice * 0.05)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
+    const ValCalcRoland = (productPrice - (productPrice * 0.10)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
     const ValCalc = (productPrice - (productPrice * 0.08)).toLocaleString('pt-br', { style: 'currency', currency: 'BRL' })
     console.log('Este é o produto', product)
     function CommertialRule() {

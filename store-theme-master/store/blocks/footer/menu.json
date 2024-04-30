@@ -8,6 +8,7 @@
       "rich-text#tituloinstitucionalfooter",
       "menu-item#quem-somos",
       "menu-item#nossaslojas",
+      "menu-item#trabalheconosco",
       "rich-text#tituloinstitucionalfooterpagamentos",
       "flex-layout.row#bandeiras-1-cont-desktop","flex-layout.row#bandeiras-2-cont-desktop"
     ]
@@ -48,6 +49,23 @@
         "noFollow": false,
         "tagTitle": "Nossas Lojas",
         "text": "Nossas Lojas"
+      }
+    }
+  },
+
+
+  "menu-item#trabalheconosco": {
+    "props": {
+      "id": "menu-item-nossaslojas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/trabalhe-conosco",
+        "noFollow": false,
+        "tagTitle": "Trabalhe Conosco",
+        "text": "Trabalhe Conosco"
       }
     }
   },
@@ -412,7 +430,8 @@
     },
     "children": [
       "menu-item#quem-somos",
-      "menu-item#nossaslojas"
+      "menu-item#nossaslojas",
+      "menu-item#trabalheconosco"
    
     ]
   },
