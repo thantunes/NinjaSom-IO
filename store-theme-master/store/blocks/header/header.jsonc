@@ -16,6 +16,7 @@
       "flex-layout.row#1-desktop",
       "flex-layout.row#3-desktop",
       "sticky-layout#4-desktop",
+      "EditDataLayer",
       "sticky-layout#5-desktop"
     ]
   },
@@ -130,6 +131,7 @@
   "sticky-layout#1-mobile": {
     "children": [
       "flex-layout.row#1-mobile",
+      "EditDataLayer",
       "search-bar"
     ]
   },

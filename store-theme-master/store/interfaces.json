@@ -13,5 +13,8 @@
     },
     "WWU-form-Component":{
         "component":"formwwu"
+    },
+    "EditDataLayer":{
+        "component": "datalayerEdit"
     }
 }

@@ -8,7 +8,7 @@
   "store.custom#contact-us": {
     "path": "/contact-us"
   },
-  "store.custom#quem-somos": {{
+  "store.custom#quem-somos": { "path": "/quem-somos" },
   "store.custom#about-us": {
     "path": "/about-us"
   },
@@ -66,20 +66,17 @@
   "store.custom#nossas-lojas-bh": {
     "path": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-belo-horizonte"
   },
-  "store.custom#Nossas-Lojas-New-Layout":{
-    "path":"/template/nossasLojas"
+  "store.custom#Nossas-Lojas-New-Layout": {
+    "path": "/template/nossasLojas"
   },
-  "store.custom#TemplateCadaLoja":{
-    "path":"/template/CadaLoja"
+  "store.custom#TemplateCadaLoja": {
+    "path": "/template/CadaLoja"
   },
-  "store.custom#trabalheconosco":{
-    "path":"/trabalhe-conosco"
+  "store.custom#trabalheconosco": {
+    "path": "/trabalhe-conosco"
   },
-  "store.custom#TemplateNossasLojas":{
-    "path":"/template/trabalhe-conosco"
-  }
-}
-    "path": "/quem-somos"
+  "store.custom#TemplateNossasLojas": {
+    "path": "/template/trabalhe-conosco"
   },
   "store.custom#formas-de-pagamento": {
     "path": "/formas-de-pagamento"
@@ -126,16 +123,16 @@
   "store.custom#nossas-lojas-bh": {
     "path": "/nossas-lojas/loja-de-instrumentos-musicais-e-som-em-belo-horizonte"
   },
-  "store.custom#Nossas-Lojas-New-Layout":{
-    "path":"/template/nossasLojas"
+  "store.custom#Nossas-Lojas-New-Layout": {
+    "path": "/template/nossasLojas"
   },
-  "store.custom#TemplateCadaLoja":{
-    "path":"/template/CadaLoja"
+  "store.custom#TemplateCadaLoja": {
+    "path": "/template/CadaLoja"
   },
-  "store.custom#trabalheconosco":{
-    "path":"/trabalhe-conosco"
+  "store.custom#trabalheconosco": {
+    "path": "/trabalhe-conosco"
   },
-  "store.custom#TemplateNossasLojas":{
-    "path":"/template/trabalhe-conosco"
+  "store.custom#TemplateNossasLojas": {
+    "path": "/template/trabalhe-conosco"
   }
 }
