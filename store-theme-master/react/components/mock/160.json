@@ -1,8 +1,7 @@
 {
     "Data": [
 	
-	
-		{
+        {
             "ProductId": 16762,
             "SkuId": 16991,
             "SubCollectionId": 26,
@@ -2504,7 +2503,7 @@
             "SubCollectionId": 26,
             "Position": 314,
             "ProductName": "Piano Digital Clavinova CLP-775B - Yamaha",
-            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178244"
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/192279"
         },
         {
             "ProductId": 15614,
@@ -2576,7 +2575,7 @@
             "SubCollectionId": 26,
             "Position": 323,
             "ProductName": "Violão Clássico Nylon C-45 II - Yamaha",
-            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/167804"
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/192563"
         },
         {
             "ProductId": 18691,
@@ -2727,7 +2726,7 @@
             "SkuId": 15007,
             "SubCollectionId": 26,
             "Position": 342,
-            "ProductName": "Caixa Ativa 10\" 2 Vias 1300W EON-710 - JBL",
+            "ProductName": "Caixa Ativa 10\" 2 Vias 1300W EON-710 Bivolt - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/180260"
         },
         {
@@ -2743,7 +2742,7 @@
             "SkuId": 15006,
             "SubCollectionId": 26,
             "Position": 344,
-            "ProductName": "Caixa Ativa 12\" 2 Vias 1300W EON-712 - JBL",
+            "ProductName": "Caixa Ativa 12\" 2 Vias 1300W EON-712 Bivolt - JBL",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/180253"
         },
         {
@@ -3249,7 +3248,113 @@
             "Position": 409,
             "ProductName": "Piano Digital Clavinova CLP-745R BRA - Yamaha",
             "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/175842"
+        },
+        {
+            "ProductId": 15485,
+            "SkuId": 15660,
+            "SubCollectionId": 26,
+            "Position": 410,
+            "ProductName": "Amplificador Com Bluetooth, USB/SD/FM SLIM 3200 OPTICAL G5 - Frahm",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183830"
+        },
+        {
+            "ProductId": 15985,
+            "SkuId": 16167,
+            "SubCollectionId": 26,
+            "Position": 411,
+            "ProductName": "Amplificador Com BT/SD/USB SLIM-3700 OPTICAL G5 - Frahm",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/185996"
+        },
+        {
+            "ProductId": 15430,
+            "SkuId": 15605,
+            "SubCollectionId": 26,
+            "Position": 412,
+            "ProductName": "Bateria Eletrônica V-Drums TD-17 KVX2 - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/183664"
+        },
+        {
+            "ProductId": 8900,
+            "SkuId": 8900,
+            "SubCollectionId": 26,
+            "Position": 413,
+            "ProductName": "Teclado Controlador MIDI Portátil Profissional A-49 WH - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/167292"
+        },
+        {
+            "ProductId": 2056,
+            "SkuId": 2056,
+            "SubCollectionId": 26,
+            "Position": 414,
+            "ProductName": "Caixa Acústica NS C-444 BL - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/157659"
+        },
+        {
+            "ProductId": 13888,
+            "SkuId": 14065,
+            "SubCollectionId": 26,
+            "Position": 415,
+            "ProductName": "Teclado de 76 Teclas PSR-EW425 - Yamaha",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178238"
+        },
+        {
+            "ProductId": 7794,
+            "SkuId": 7794,
+            "SubCollectionId": 26,
+            "Position": 416,
+            "ProductName": "Piano Digital FP-30 BK - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173704"
+        },
+        {
+            "ProductId": 7574,
+            "SkuId": 7574,
+            "SubCollectionId": 26,
+            "Position": 417,
+            "ProductName": "Pedaleira Multi-efeitos Para Guitarra GT-1 - Boss",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/165249"
+        },
+        {
+            "ProductId": 8029,
+            "SkuId": 8029,
+            "SubCollectionId": 26,
+            "Position": 418,
+            "ProductName": "Processador de Efeitos Para Baixo GT-1B - Boss",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/165926"
+        },
+        {
+            "ProductId": 8190,
+            "SkuId": 8190,
+            "SubCollectionId": 26,
+            "Position": 419,
+            "ProductName": "Sampling Pad Percussão SPD-SX - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/166183"
+        },
+        {
+            "ProductId": 13312,
+            "SkuId": 13488,
+            "SubCollectionId": 26,
+            "Position": 420,
+            "ProductName": "Bateria Eletrônica V-Drums TD-07 DMK - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/178059"
+        },
+        {
+            "ProductId": 12955,
+            "SkuId": 13158,
+            "SubCollectionId": 26,
+            "Position": 421,
+            "ProductName": "Bateria Eletrônica V-Drums TD-07 KV - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/175047"
+        },
+        {
+            "ProductId": 12819,
+            "SkuId": 13027,
+            "SubCollectionId": 26,
+            "Position": 422,
+            "ProductName": "Sintetizador 61 Teclas XPS-10 RD - Roland",
+            "SkuImageUrl": "https://ninjasom.vteximg.com.br/arquivos/ids/173732"
         }
+
+
 
 	
    ]
