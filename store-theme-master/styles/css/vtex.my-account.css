@@ -168,7 +168,7 @@ thiago
 :global(.vtex-flex-layout-0-x-flexCol--banner-home){    max-width: 1256px;    padding-top: 45px;}
 :global(.vtex-tab-layout-0-x-listContainer){padding-bottom: 20px;}
 :global(.vtex-slider-layout-0-x-paginationDotsContainer){    margin-bottom: -0.5rem!important;}
-:global(.vtex-sticky-layout-0-x-wrapper--stuck:not(:hover) .vtex-flex-layout-0-x-flexRowContent--main-header), 
+:global(.vtex-sticky-layout-0-x-wrapper--stuck:not(:hover) .vtex-flex-layout-0-x-flexRowContent--main-header),
 :global(.vtex-sticky-layout-0-x-wrapper--stuck:not(:hover) .vtex-flex-layout-0-x-flexRowContent--main-header-mobile) {background: transparent!important;}
 :global(.vtex-tab-layout-0-x-listContainer)
 :global(.vtex-button){border:none;    font-family: 'Montserrat',sans-serif;}
@@ -271,7 +271,8 @@ thiago
 :global(.vtex-store-newsletter-1-x-formSubmitContainer){float:left;width: 20%;}
 :global(.vtex-store-newsletter-1-x-formSubmitContainer)
 :global(.vtex-input-prefix__group){border-radius:0px ;background-color: #fff;}
-:global(.vtex-store-newsletter-1-x-newsletterForm){    padding-top: 35px;}
+:global(.vtex-store-newsletter-1-x-newsletterForm){    padding-top: 35px; display: flex; flex-wrap: wrap;}
+:global(.vtex-store-newsletter-1-x-confirmationCheckboxContainer) {margin-top: 15px;}
 :global(.vtex-store-newsletter-1-x-formSubmitContainer)
 :global(.vtex-button){background-color: transparent;border-color: #fff;border-radius: 0;}
 :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news)
@@ -441,7 +442,7 @@ thiago
  :global(.render-route-store-product)
  :global(.vtex-product-price-1-x-listPrice)
  :global(.vtex-product-price-1-x-currencyContainer){    margin-left: 5px;font-size: 15px!important;
-   margin-right: 5px;}    
+   margin-right: 5px;}
 
    :global(.render-route-store-product)
    :global(.vtex-product-price-1-x-savings){    background-color: #000;
@@ -491,7 +492,7 @@ thiago
 :global(.vtex-product-price-1-x-sellingPrice)::after {
    content:"  à vista";
    font-size: 12px;
- 
+
 }
 :global(.vtex-product-price-1-x-sellingPrice)
 
@@ -625,7 +626,7 @@ thiago
    :global(.vtex-flex-layout-0-x-flexRow--nossas-lojas-banner){background-image: url(/arquivos/banner-nossas-lojas-grupo-ninja-som.jpg);
       height: 400px;
       background-size: cover;
-     
+
   }
 
   :global(.vtex-flex-layout-0-x-flexRowContent--nossas-lojas-banner){flex-direction: column;}
@@ -643,7 +644,7 @@ thiago
 :global(.vtex-rich-text-0-x-container){text-align: center;margin: auto;display: block;color: #fff;    font-family: 'Montserrat',sans-serif;}
 
 
-:global(.vtex-flex-layout-0-x-flexRow--nossas-lojas-bloco){background-color:#fff;  
+:global(.vtex-flex-layout-0-x-flexRow--nossas-lojas-bloco){background-color:#fff;
 }
 :global(.vtex-flex-layout-0-x-flexRowContent--nossas-lojas-bloco){max-width: 1250px;margin:auto;}
 
@@ -750,7 +751,7 @@ thiago
          :global(.vtex-rich-text-0-x-strong--nossas-lojas-estacionamento-sjc){font-size: 15px;}
          :global(.vtex-rich-text-0-x-paragraph--nossas-lojas-estacionamento-sjc){font-size: 12px;}
 
-         
+
 
          :global(.vtex-store-components-3-x-subscriberContainer)
          :global(.vtex-button__label){    color: #fff;}
@@ -759,7 +760,7 @@ thiago
          @media screen and (min-width: 992px) {
             :global(.vtex-flex-layout-0-x-flexColChild--nossas-lojas-new-mobile){display:none;}
             :global(.vtex-flex-layout-0-x-flexRow--BannerLojaMobile-Container){display:none;}
- 
+
          }
 
 @media screen and (max-width: 992px) {
@@ -770,15 +771,15 @@ thiago
    :global(.pr0-ns.pb0.pb0-ns.items-stretch.vtex-flex-layout-0-x-stretchChildrenWidth.flex)
    {
       margin: auto;
-     
-      
-   
+
+
+
    }
 
    :global(.vtex-flex-layout-0-x-flexRowContent--NS-Desc .vtex-flex-layout-0-x-stretchChildrenWidth) {    padding: 10px 0px;}
 
    :global(.vtex-flex-layout-0-x-flexRowContent--NS-Desc .vtex-rich-text-0-x-container){    padding: 0px 15px;}
-   
+
    :global(.vtex-store-components-3-x-imageElement--BannerLoja){display:none;}
 
    :global(.vtex-slider-layout-0-x-sliderLayoutContainer--SliderCadaLoja){    width: 100%!important;}
@@ -792,7 +793,7 @@ thiago
    :global(.vtex-store-components-3-x-productNameContainer){    margin-top: 190px;    padding-left: 0px!important;
       padding-right: 0px!important;}
 
-   :global(.vtex-store-components-3-x-shippingContainer) 
+   :global(.vtex-store-components-3-x-shippingContainer)
    :global(.vtex-input-prefix__group) {
       width: 100%!important;
       height: 37px;
@@ -823,7 +824,7 @@ thiago
    :global(.vtex-product-price-1-x-installments--summary){text-align: center;}
    :global(.vtex-store-newsletter-1-x-nameInputContainer),
    :global(.vtex-store-newsletter-1-x-emailInputContainer){float: inherit;width: 100%; padding-right: 10px;padding-bottom: 10px;}
-  
+
    :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news)
    :global(.vtex-store-components-3-x-container){z-index: 99999;position: relative;}
    :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news){    height: 335px;}
@@ -869,7 +870,7 @@ thiago
    :global(.vtex-product-summary-2-x-spacer.flex.flex-grow-1){display:none;}
    :global(.vtex-sticky-layout-0-x-wrapper--stuck:not(:hover))
    :global(.vtex-flex-layout-0-x-flexRowContent--main-header-mobile){background-color: #010449!important;}
-   :global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome) 
+   :global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome)
    :global(.vtex-flex-layout-0-x-stretchChildrenWidth){ margin: 0px!important;}
    :global(.vtex-store-components-3-x-searchBarContainer) {padding: 0px 10px 10px 10px;background-color: #010449;}
    :global(.vtex-flex-layout-0-x-flexRowContent--main-header-mobile){padding:0px;}
@@ -980,13 +981,13 @@ thiago
          margin-top: 12px;}
          :global(.vtex-flex-layout-0-x-flexRowContent--bloco-contador-bt-comprar)
          :global(.vtex-flex-layout-0-x-stretchChildrenWidth):nth-child(2){width: 100%!important;}
-      
+
          :global(.render-route-store-product)
          :global(.vtex-flex-layout-0-x-stretchChildrenWidth) {    padding-bottom: 0px;}
 
          :global(.vtex-store-components-3-x-swiperCaretPrev) {background-image: url(/arquivos/palheta-icon.png)!important;width: 30px!important; height: 25px!important; background-repeat: no-repeat!important; margin-left: 23px; padding: 0; margin-top: 16px;background-size: contain!important;}
 
-         
+
         :global(.vtex-store-components-3-x-swiperCaretNext) { background-image: url(/arquivos/palheta-icon.png)!important;width: 30px!important; height: 25px!important;background-repeat: no-repeat!important;margin-right: 30px;transform: rotate(180deg); padding: 0; background-size: contain!important;}
 
      :global(.vtex-product-identifier-0-x-product-identifier--productReference) {
@@ -999,10 +1000,10 @@ thiago
   :global(.vtex-flex-layout-0-x-flexRowContent--faq){padding: 30px;}
 
 
-  :global(.vtex-flex-layout-0-x-flexRowContent--quem-somos-topo) 
+  :global(.vtex-flex-layout-0-x-flexRowContent--quem-somos-topo)
   :global(.vtex-flex-layout-0-x-stretchChildrenWidth):nth-child(1){width: 85%!important;}
 
-  :global(.vtex-flex-layout-0-x-flexRowContent--quem-somos-topo) 
+  :global(.vtex-flex-layout-0-x-flexRowContent--quem-somos-topo)
   :global(.vtex-flex-layout-0-x-stretchChildrenWidth):nth-child(2){width: 100%!important;}
 
   :global(.vtex-flex-layout-0-x-flexRow--prazo-de-entrega-conteudo),
@@ -1014,7 +1015,7 @@ thiago
 :global(.vtex-rich-text-0-x-paragraph--titulo-footer-pagamentos){    font-size: 16px;}
 :global(.vtex-rich-text-0-x-paragraph--titulo-footer-siga-nos){    font-size: 16px!important;}
 
-:global(#menu-item-category-home-promocoes) 
+:global(#menu-item-category-home-promocoes)
 :global(.vtex-menu-2-x-styledLinkContent::before){display:none;}
 
 :global(svg.vtex-slider-layout-0-x-caretIcon.vtex-slider-layout-0-x-caretIcon--carousel-home-categorias){display:none;}
@@ -1113,8 +1114,8 @@ thiago
 
 :global(.ninjasom-theme-5-x-NJ-Title){    font-family: 'Montserrat',sans-serif!important;}
 
-:global(.ninjasom-theme-5-x-NJ-Desc) 
-:global(.ninjasom-theme-5-x-paragraph){ 
+:global(.ninjasom-theme-5-x-NJ-Desc)
+:global(.ninjasom-theme-5-x-paragraph){
     opacity: 1!important;
    font-family: 'Montserrat',sans-serif!important;
 }
@@ -1129,7 +1130,7 @@ thiago
    :global(.ninjasom-theme-5-x-NJ-Card) {
       width: auto!important;
       margin: 10px 20px!important;
-    
+
   }
 
 
@@ -1152,10 +1153,10 @@ thiago
 
 :global(.render-route-store-custom-trabalheconosco)
       :global(.vtex-iframe-0-x-container) iframe {    max-width: 100%;}
-    
+
 
 }
 
-:global(.vtex-flex-layout-0-x-flexRowContent--TrabalheConoscoS) 
+:global(.vtex-flex-layout-0-x-flexRowContent--TrabalheConoscoS)
 :global(.vtex-iframe-0-x-container){    margin-top: 75px;
 }

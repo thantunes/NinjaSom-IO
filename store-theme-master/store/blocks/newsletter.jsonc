@@ -39,7 +39,10 @@
     "children": [
       "newsletter-input-name",
       "newsletter-input-email",
-      "newsletter-submit"
+      "newsletter-hidden-field",
+      "newsletter-submit",
+      "newsletter-checkbox-confirmation"
+
     ]
   }
 }
