@@ -273,6 +273,7 @@ thiago
 :global(.vtex-input-prefix__group){border-radius:0px ;background-color: #fff;}
 :global(.vtex-store-newsletter-1-x-newsletterForm){    padding-top: 35px; display: flex; flex-wrap: wrap;}
 :global(.vtex-store-newsletter-1-x-confirmationCheckboxContainer) {margin-top: 15px;}
+:global(.vtex-store-newsletter-1-x-confirmationCheckboxContainer .vtex-checkbox__label) {color: #fff !important}
 :global(.vtex-store-newsletter-1-x-formSubmitContainer)
 :global(.vtex-button){background-color: transparent;border-color: #fff;border-radius: 0;}
 :global(.vtex-flex-layout-0-x-flexRow--bloco-nova-news)
