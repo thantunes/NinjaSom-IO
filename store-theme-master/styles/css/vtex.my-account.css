@@ -7,6 +7,40 @@
 :global(.vtex-stack-layout-0-x-stackContainer--product .vtex-stack-layout-0-x-stackItem--first){left: calc(100% - 160px);}
 }
 
+
+:global(span.vtex-product-price-1-x-currencyCode) {
+   text-transform: uppercase!important;
+}
+
+
+:global(.vtex-product-price-1-x-installmentValue)::before{
+   content:" de ";
+
+}
+
+:global(.vtex-product-price-1-x-installments--summary){
+   text-transform: lowercase;
+}
+
+:global(span.vtex-product-price-1-x-installments.vtex-product-price-1-x-installments--summary)::before{
+   content:"Ou ";
+   text-transform: capitalize!important;
+}
+
+
+
+:global(.vtex-flex-layout-0-x-flexColChild--bloco-produtos-lado-direito)
+:global(.vtex-product-price-1-x-installments){text-transform: lowercase;}
+
+
+:global(.vtex-flex-layout-0-x-flexColChild--bloco-produtos-lado-direito)
+:global(.vtex-product-price-1-x-installments)::before{
+   content:"Ou ";
+   text-transform: capitalize!important;
+
+}
+
+
 :global(.bg-base) {    background-color: #F3F3F3;}
 :global(.vtex-flex-layout-0-x-flexRowContent--blocoinfocardhome)
 :global(.vtex-flex-layout-0-x-stretchChildrenWidth){background-color:#fff;margin: 10px; margin: 10px;}
@@ -430,15 +464,20 @@ thiago
 
 
 :global(.vtex-product-price-1-x-listPrice)::before {
-   content: "De";    margin-left: 33px;    font-size: 12px;
-   color: #525252;
+   content: "De";    margin-left: 0px;    font-size: 12px;
+   color: #525252;margin-right: 3px;
  }
  :global(.vtex-product-price-1-x-listPrice)::after {
    content: "por:";    font-size: 12px;
    color: #525252;
+   margin-left: 3px;
  }
 
+:global(.vtex-flex-layout-0-x-flexColChild--bloco-produtos-lado-direito)
+:global(.vtex-product-price-1-x-listPrice)::before {
 
+   margin-left: 33px;
+}
 
  :global(.render-route-store-product)
  :global(.vtex-product-price-1-x-listPrice)
@@ -852,7 +891,7 @@ thiago
    /* :global(.vtex-product-price-1-x-sellingPrice::after){display:none;} */
    :global(.vtex-product-price-1-x-installments--summary){font-size:0px!important;}
    :global(.vtex-product-price-1-x-installmentsNumber){font-size: 14px;}
-   :global(.vtex-product-price-1-x-installmentsNumber::after){content: "x de";font-size: 14px;}
+
    :global(.vtex-product-price-1-x-installmentValue){font-size: 14px;}
    :global(.vtex-slider-layout-0-x-sliderLeftArrow){margin-left: 5px;}
    :global(.vtex-slider-layout-0-x-sliderRightArrow){margin-right: 5px;}
