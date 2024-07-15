@@ -1,0 +1,16 @@
+.trigger--question--visible :global(.vtex-rich-text-0-x-heading--question) {
+  color: #0F3E99;
+}
+
+.trigger--question:hover :global(.vtex-rich-text-0-x-heading--question) {
+  color: #0F3E99;
+}
+
+.trigger--question--visible  {
+  color: #0F3E99;
+  transition: .2s all ease-in-out;
+}
+
+.trigger--question:hover {
+  color: #0F3E99;
+}

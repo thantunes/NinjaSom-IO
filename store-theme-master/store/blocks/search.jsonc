@@ -11,7 +11,7 @@
       }
     }
   },
-  
+
   "store.search#brand": {
     "blocks": [
       "search-result-layout"
@@ -110,6 +110,7 @@
   },
   "filter-navigator.v3": {
     "props": {
+      "filtersTitleHtmlTag": "span",
       "facetOrdering": [
         {
           "key": "brand",

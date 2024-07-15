@@ -1,14 +1,15 @@
 {
     "store.custom#nossas-lojas": {
       "blocks": [
-        "flex-layout.row#nossas-lojas-banner", 
+        "rich-text#h1-tag-seo",
+        "flex-layout.row#nossas-lojas-banner",
         "flex-layout.row#nossas-lojas-bloco",
         "flex-layout.row#nossas-lojas-bloco2",
         "flex-layout.row#nossas-lojas-bloco3",
         "flex-layout.row#nossas-lojas-bloco4",
         "flex-layout.row#nossas-lojas-bloco5",
         "flex-layout.row#nossas-lojas-bloco6"
-      
+
       ]
     },
 
@@ -62,7 +63,7 @@
     },
     "flex-layout.col#text-nossas-lojas": {
       "children": [
-        "rich-text#nossas-lojas-title", 
+        "rich-text#nossas-lojas-title",
         "rich-text#nossas-lojas-end",
         "rich-text#nossas-lojas-end-cont",
         "rich-text#nossas-lojas-end-cep",
@@ -72,7 +73,7 @@
         "rich-text#nossas-lojas-whatsapp",
         "rich-text#nossas-lojas-0-800",
         "rich-text#nossas-lojas-email"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -116,7 +117,7 @@
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-televendas-todo-brasil": {
       "props": {
         "text": "TELEVENDAS - (TODO BRASIL)",
@@ -161,7 +162,7 @@
     },
     "flex-layout.col#text-nossas-lojas2": {
       "children": [
-        "rich-text#nossas-lojas-title2", 
+        "rich-text#nossas-lojas-title2",
         "rich-text#nossas-lojas-end2",
         "rich-text#nossas-lojas-end-cont2",
         "rich-text#nossas-lojas-end-cep2",
@@ -169,7 +170,7 @@
         "rich-text#nossas-lojas-whatsapp2",
         "rich-text#nossas-lojas-0-8002",
         "rich-text#nossas-lojas-email2"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -200,7 +201,7 @@
         "blockClass": "cep"
       }
     },
- 
+
 
     "rich-text#nossas-lojas-end-como-chegar2": {
       "props": {
@@ -209,7 +210,7 @@
       }
     },
 
-    
+
     "rich-text#nossas-lojas-whatsapp2": {
       "props": {
         "text": "[(11) 3334-2444](https://whts.co/ninjasom-filial)",
@@ -256,7 +257,7 @@
     },
     "flex-layout.col#text-nossas-lojas3": {
       "children": [
-        "rich-text#nossas-lojas-title3", 
+        "rich-text#nossas-lojas-title3",
         "rich-text#nossas-lojas-end3",
         "rich-text#nossas-lojas-end-cont3",
         "rich-text#nossas-lojas-end-cep3",
@@ -264,7 +265,7 @@
         "rich-text#nossas-lojas-whatsapp3",
         "rich-text#nossas-lojas-0-8003",
         "rich-text#nossas-lojas-email3"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -295,7 +296,7 @@
         "blockClass": "cep"
       }
     },
- 
+
 
     "rich-text#nossas-lojas-end-como-chegar3": {
       "props": {
@@ -317,7 +318,7 @@
         "blockClass": "nossas-lojas-0800"
       }
     },
-  
+
     "rich-text#nossas-lojas-email3": {
       "props": {
         "text": "vendas@ninjaproaudio.com.br",
@@ -340,7 +341,7 @@
     },
     "flex-layout.col#text-nossas-lojas4": {
       "children": [
-        "rich-text#nossas-lojas-title4", 
+        "rich-text#nossas-lojas-title4",
         "rich-text#nossas-lojas-end4",
         "rich-text#nossas-lojas-end-cont4",
         "rich-text#nossas-lojas-end-cep4",
@@ -348,7 +349,7 @@
         "rich-text#nossas-lojas-whatsapp4",
         "rich-text#nossas-lojas-0-8004",
         "rich-text#nossas-lojas-email4"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -379,14 +380,14 @@
         "blockClass": "cep"
       }
     },
- 
+
     "rich-text#nossas-lojas-end-como-chegar4": {
       "props": {
         "text": "[Como Chegar](https://www.google.com/maps/dir//Ninja%20Som%20-%20Musical%20-%20R.%20Teodoro%20Sampaio,%20725%20-%20Jardim%20Paulista,%20S%C3%83%C2%A3o%20Paulo%20-%20SP,%2005405-050/@-23.5575392,-46.6794558,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x94ce5784650111d7:0xc9c92a03bacc091e!2m2!1d-46.677279!2d-23.5575276)",
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-whatsapp4": {
       "props": {
         "text": "[(11) 3550-9999](https://whts.co/ninjasom-teodoro)",
@@ -400,7 +401,7 @@
         "blockClass": "nossas-lojas-0800"
       }
     },
-    
+
     "rich-text#nossas-lojas-email4": {
       "props": {
         "text": "vendas@ninjamusical.com.br",
@@ -431,14 +432,14 @@
     },
     "flex-layout.col#text-nossas-lojas5": {
       "children": [
-        "rich-text#nossas-lojas-title5", 
+        "rich-text#nossas-lojas-title5",
         "rich-text#nossas-lojas-end5",
         "rich-text#nossas-lojas-end-cont5",
         "rich-text#nossas-lojas-end-cep5",
         "rich-text#nossas-lojas-end-como-chegar5",
         "rich-text#nossas-lojas-whatsapp5",
         "rich-text#nossas-lojas-0-8005",
-        "rich-text#nossas-lojas-email5" 
+        "rich-text#nossas-lojas-email5"
       ],
       "props": {
         "preventVerticalStretch": true
@@ -476,7 +477,7 @@
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-whatsapp5": {
       "props": {
         "text": "[(11) 4438-6166](https://whts.co/ninjasom-abc)",
@@ -505,7 +506,7 @@
         "maxHeight": "265px"
       }
     },
- 
+
     "flex-layout.row#nnossas-lojas-bloco6": {
       "children": ["image#nossas-lojas6", "flex-layout.col#text-nossas-lojas6"],
       "props":{
@@ -514,7 +515,7 @@
     },
     "flex-layout.col#text-nossas-lojas6": {
       "children": [
-        "rich-text#nossas-lojas-title6", 
+        "rich-text#nossas-lojas-title6",
         "rich-text#nossas-lojas-end6",
         "rich-text#nossas-lojas-end-cont6",
         "rich-text#nossas-lojas-end-cep6",
@@ -522,7 +523,7 @@
         "rich-text#nossas-lojas-whatsapp6",
         "rich-text#nossas-lojas-0-8006",
         "rich-text#nossas-lojas-email6"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -553,7 +554,7 @@
         "blockClass": "cep"
       }
     },
- 
+
 
     "rich-text#nossas-lojas-end-como-chegar6": {
       "props": {
@@ -561,7 +562,7 @@
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
 
     "rich-text#nossas-lojas-whatsapp6": {
       "props": {
@@ -577,7 +578,7 @@
       }
     },
 
-    
+
     "rich-text#nossas-lojas-email6": {
       "props": {
         "text": "campinas@ninjasom.com.br",
@@ -608,7 +609,7 @@
     },
     "flex-layout.col#text-nossas-lojas7": {
       "children": [
-        "rich-text#nossas-lojas-title7", 
+        "rich-text#nossas-lojas-title7",
         "rich-text#nossas-lojas-end7",
         "rich-text#nossas-lojas-end-cont7",
         "rich-text#nossas-lojas-end-cep7",
@@ -618,7 +619,7 @@
         "rich-text#nossas-lojas-email7",
         "image#logo-shopping-sjc-mobile",
         "rich-text#conveniosjc"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -660,14 +661,14 @@
         "blockClass": "cep"
       }
     },
- 
+
     "rich-text#nossas-lojas-end-como-chegar7": {
       "props": {
         "text": "[Como Chegar](https://www.google.com/maps/place/R.%20Rubi%C3%83%C2%A3o%20J%C3%83%C2%BAnior,%20279%20-%20Centro,%20S%C3%83%C2%A3o%20Jos%C3%83%C2%A9%20dos%20Campos%20-%20SP,%2012210-180/@-23.1839434,-45.8861622,17z/data=!4m6!3m5!1s0x94cc4a3d41be0803:0xa8430449fe97c836!8m2!3d-23.1836671!4d-45.883975!16s/g/11c4lxvk7p)",
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-whatsapp7": {
       "props": {
         "text": "[(12) 3513-0363](https://whts.co/ninjasom-sjc)",
@@ -730,7 +731,7 @@
     },
     "flex-layout.col#text-nossas-lojas8": {
       "children": [
-        "rich-text#nossas-lojas-title8", 
+        "rich-text#nossas-lojas-title8",
         "rich-text#nossas-lojas-end8",
         "rich-text#nossas-lojas-end-cont8",
         "rich-text#nossas-lojas-end-cep8",
@@ -738,7 +739,7 @@
         "rich-text#nossas-lojas-whatsapp8",
         "rich-text#nossas-lojas-0-8008",
         "rich-text#nossas-lojas-email8"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -769,7 +770,7 @@
         "blockClass": "cep"
       }
     },
- 
+
 
     "rich-text#nossas-lojas-end-como-chegar8": {
       "props": {
@@ -777,7 +778,7 @@
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-whatsapp8": {
       "props": {
         "text": "[(31) 3654-4276](https://whts.co/ninjasom-bh)",
@@ -791,7 +792,7 @@
         "blockClass": "nossas-lojas-0800"
       }
     },
- 
+
     "rich-text#nossas-lojas-email8": {
       "props": {
         "text": "vendasbh@ninjasom.com.br",
@@ -821,7 +822,7 @@
     },
     "flex-layout.col#text-nossas-lojas9": {
       "children": [
-        "rich-text#nossas-lojas-title9", 
+        "rich-text#nossas-lojas-title9",
         "rich-text#nossas-lojas-end9",
         "rich-text#nossas-lojas-end-cont9",
         "rich-text#nossas-lojas-end-cep9",
@@ -829,7 +830,7 @@
         "rich-text#nossas-lojas-whatsapp9",
         "rich-text#nossas-lojas-0-8009",
         "rich-text#nossas-lojas-email9"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -860,7 +861,7 @@
         "blockClass": "cep"
       }
     },
- 
+
 
     "rich-text#nossas-lojas-end-como-chegar9": {
       "props": {
@@ -883,7 +884,7 @@
       }
     },
 
-    
+
     "rich-text#nossas-lojas-email9": {
       "props": {
         "text": "vendaspoa@ninjasom.com.br",
@@ -902,7 +903,7 @@
     },
 
 
- 
+
 
     "flex-layout.row#nossas-lojas-bloco6":{
 

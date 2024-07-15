@@ -5,7 +5,7 @@
   "footer-layout.desktop": {
     "children": [
       "flex-layout.row#footer-1-desktop",
-    
+
       "flex-layout.row#footer-3-desktop"
     ]
   },
@@ -47,7 +47,7 @@
   "image#logo-footer": {
     "props": {
       "src": "/arquivos/logotipo-io.png"
-    
+
     }
   },
 
@@ -99,11 +99,11 @@
 
   "flex-layout.row#footer-2-desktop": {
     "children": [
-      
 
 
 
-  
+
+
       "flex-layout.col#blocos-footer-mobile",
 
 
@@ -146,10 +146,10 @@
   },
 
 
-  
+
   "flex-layout.row#blocos-footer-mobile-2":{
     "children": [
-     
+
       "rich-text#titulosegurancafooter",
       "flex-layout.row#seguranca-footer"
     ]
@@ -160,7 +160,7 @@
   "flex-layout.row#footer-2-desktop-pagamentos":{
 
     "children": [
-   
+
     ]
   },
 
@@ -200,33 +200,33 @@
   "image#logo-mastercard": {
     "props": {
       "src": "/arquivos/mastercard-io.png"
-    
+
     }
   },
 
   "image#logo-visa": {
     "props": {
       "src": "/arquivos/visa-io.png"
-    
+
     }
   },
   "image#logo-jcb": {
     "props": {
       "src": "/arquivos/jcb-io.png"
-    
+
     }
   },
   "image#logo-amex": {
     "props": {
       "src": "/arquivos/amex-io.png"
-    
+
     }
   },
 
   "image#logo-pix": {
     "props": {
       "src": "/arquivos/pix-io.png"
-    
+
     }
   },
 
@@ -250,34 +250,34 @@
   "image#logo-boleto": {
     "props": {
       "src": "/arquivos/boleto-io.png"
-    
+
     }
   },
   "image#logo-diners": {
     "props": {
       "src": "/arquivos/diners-io.png"
-    
+
     }
   },
 
   "image#logo-hipercard": {
     "props": {
       "src": "/arquivos/elo-io.png"
-    
+
     }
   },
 
   "image#logo-elo": {
     "props": {
       "src": "/arquivos/hipercard-io.png"
-    
+
     }
   },
 
   "image#logo-crediz": {
     "props": {
       "src": "/arquivos/crediz-io.png"
-    
+
     }
   },
 
@@ -301,7 +301,7 @@
 
   "flex-layout.col#feitopor":{
     "children": ["rich-text#footer", "image#evision", "image#vtex"
-  
+
   ]
   },
 

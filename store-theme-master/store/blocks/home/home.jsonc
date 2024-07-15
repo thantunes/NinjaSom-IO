@@ -1,6 +1,7 @@
 {
   "store.home": {
     "blocks": [
+      "rich-text#h1-tag-seo",
       "list-context.image-list#demo",
       /* You can make references to blocks defined in other files.
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
@@ -30,7 +31,12 @@
     ]
   },
 
-
+  "rich-text#h1-tag-seo": {
+    "props": {
+      "blockClass": ["h1-tag-seo"],
+      "text": "# Ninja Som | Loja de Equipamentos de Áudio e Instrumentos Musicais"
+    }
+  },
 
   "list-context.image-list#demo": {
     "children": ["slider-layout#demo-images"],
@@ -104,7 +110,7 @@
       "blockClass": "infocardhomelink"
     }
   },
-  
+
   "rich-text#infocards-guitarras-acusticas": {
     "props": {
       "text": "[Semi-acústicas](/cordas/guitarras/semi-acustica)",
@@ -165,7 +171,7 @@
       "blockClass": "infocardhomelink"
     }
   },
- 
+
   "rich-text#infocards-bateria-pratos": {
     "props": {
       "text": "[Pratos](/percussao/acessorios/prato)",
@@ -173,7 +179,7 @@
     }
   },
 
-  
+
   "rich-text#infocards-bateria-bateria": {
     "props": {
       "text": "[Acústica](/percussao/baterias/acustica)",
@@ -223,7 +229,7 @@
     }
   },
 
-  
+
   "rich-text#infocards-teclado-teclados": {
     "props": {
       "text": "[Teclados](/teclas/teclado-musical)",
@@ -238,9 +244,9 @@
       "blockClass": "infocardhomelink"
     }
   },
-  
 
-  
+
+
 
   "rich-text#infocards-teclado-controladores-midi": {
     "props": {
@@ -248,7 +254,7 @@
       "blockClass": "infocardhomelink"
     }
   },
-  
+
 
   "rich-text#infocards-teclado-amplificadores": {
     "props": {
@@ -351,7 +357,7 @@
   },
 
 
-  
+
   "rich-text#infocards-mesas-de-som-amplificada": {
     "props": {
       "text": "[Mesa Amplificada](/audio-profissional/mesas-de-som/mesa-amplificada)",
@@ -359,7 +365,7 @@
     }
   },
 
-  
+
 
   "rich-text#infocards-mesas-de-som-digital": {
     "props": {
@@ -378,16 +384,16 @@
   },
 
 
-  
+
   "rich-text#infocards-mesas-de-som-acessorios": {
     "props": {
       "text": "[Acessórios](/audio-profissional/mesas-de-som/acessorios)",
       "blockClass": "infocardhomelink"
     }
   },
-  
 
-  
+
+
 
   "rich-text#infocards-mesas-de-som-smartphones": {
     "props": {
@@ -432,7 +438,7 @@
   },
 
 
-  
+
   "rich-text#infocards-violao-canhoto": {
     "props": {
       "text": "[Canhoto](https://devninja--ninjasom.myvtex.com/cordas/violoes/canhoto?initialMap=c,c&initialQuery=cordas/violoes&map=category-1,category-2,category-3)",
@@ -441,7 +447,7 @@
   },
 
 
-  
+
   "rich-text#infocards-violao-classico": {
     "props": {
       "text": "[Classico](/cordas/violoes/classico)",
@@ -451,7 +457,7 @@
 
 
 
- 
+
   "rich-text#infocards-violao-cutway": {
     "props": {
       "text": "[Cutway](/cordas/violoes/cutway?initialMap=c,c&initialQuery=cordas/violoes&map=category-1,category-2,category-3)",
@@ -459,7 +465,7 @@
     }
   },
 
-  
+
   "rich-text#infocards-violao-eletrico": {
     "props": {
       "text": "[Elétrico](/cordas/violoes/eletrico-nylon?initialMap=c,c&initialQuery=cordas/violoes&map=category-1,category-2,category-3)",
@@ -467,7 +473,7 @@
     }
   },
 
-  
+
   "rich-text#infocards-violao-flat": {
     "props": {
       "text": "[Flat](/cordas/violoes/flat)",
@@ -475,14 +481,14 @@
     }
   },
 
-  
+
   "rich-text#infocards-violao-folk": {
     "props": {
       "text": "[Folk](/cordas/violoes/folk)",
       "blockClass": "infocardhomelink"
     }
   },
- 
+
   "rich-text#infocards-violao-infantil": {
     "props": {
       "text": "[Infantil](/cordas/violoes/infantil)",
@@ -490,9 +496,9 @@
     }
   },
 
-  
 
-  
+
+
   "rich-text#infocards-violao-jumbo": {
     "props": {
       "text": "[Jumbo](/cordas/violoes/jumbo)",
@@ -509,7 +515,7 @@
 
   "slider-layout#mobileinfocards-home-categorias": {
     "props": {
-      
+
 //"centerMode":"to-the-left",
 //"centerModeSlidesGap":"50px",
       "itemsPerPage": {
@@ -619,7 +625,7 @@
     "children": [
     "flex-layout.col#banners-home-01",
     "flex-layout.col#banners-home-02"
-  
+
   ],
   "props": {
     "blockClass": "banners-home"
@@ -711,7 +717,7 @@
     }
   },
 
-  
+
   "tab-list.item#4": {
     "props": {
       "tabId": "Teclas",
@@ -759,7 +765,7 @@
   "flex-layout.row#banner-home":{
     "children": [
     "flex-layout.col#banner-home"
-  
+
   ]
 
   },

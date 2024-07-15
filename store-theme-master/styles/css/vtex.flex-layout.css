@@ -4,7 +4,6 @@
 }
 
 @media screen and (min-width: 40em) {
-
   .flexRowContent--menu-link,
   .flexRowContent--main-header {
     padding: 0 1rem;
@@ -12,13 +11,12 @@
 }
 
 @media screen and (min-width: 1025px) {
-  .flexRow--product-AVA{
-    margin-bottom:420px ;
+  .flexRow--product-AVA {
+    margin-bottom: 420px;
   }
 }
 
 @media screen and (min-width: 80rem) {
-
   .flexRowContent--menu-link,
   .flexRowContent--main-header {
     padding: 0 0.25rem;
@@ -51,7 +49,7 @@
 }
 
 .flexRow--deals {
-  background-color: #0F3E99;
+  background-color: #0f3e99;
   padding: 14px 0px;
 }
 
@@ -104,46 +102,46 @@
 .flexRow--addToCartRow {
   padding-bottom: 1rem;
 }
-.flexRowContent--TrabalheConoscoF{
-  max-width:1044px;
+.flexRowContent--TrabalheConoscoF {
+  max-width: 1044px;
   margin: 40px auto;
   background-color: #fff;
 }
-.flexRowContent--TrabalheConoscoF .stretchChildrenWidth:first-child{
+.flexRowContent--TrabalheConoscoF .stretchChildrenWidth:first-child {
   width: fit-content !important;
   margin-right: 45px;
 }
-.flexRowContent--TrabalheConoscoS{
-  max-width:1044px;
+.flexRowContent--TrabalheConoscoS {
+  max-width: 1044px;
   margin: 40px auto;
   margin-top: 0px;
   background-color: #fff;
 }
-.flexRowContent--TrabalheConoscoS .stretchChildrenWidth:first-child{
+.flexRowContent--TrabalheConoscoS .stretchChildrenWidth:first-child {
   width: fit-content !important;
   margin-right: 45px;
 }
-.flexRowContent--BannerLoja-Container{
+.flexRowContent--BannerLoja-Container {
   max-width: 1044px;
   width: 100%;
   position: relative;
   align-items: center;
   justify-content: center;
 }
-.flexRowContent--BannerLoja-Container .stretchChildrenWidth{
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth {
   width: 100% !important;
 }
-.flexRowContent--BannerLoja-Container .stretchChildrenWidth:first-child{
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth:first-child {
   position: absolute;
   z-index: 99999999 !important;
 }
-.flexRowContent--BannerLoja-Container .stretchChildrenWidth:last-child{
+.flexRowContent--BannerLoja-Container .stretchChildrenWidth:last-child {
   z-index: 9 !important;
 }
-.flexRow--NS-ImageContainer{
+.flexRow--NS-ImageContainer {
   width: 1044px;
 }
-.flexRow--NS-ImageContainer .stretchChildrenWidth{
+.flexRow--NS-ImageContainer .stretchChildrenWidth {
   position: relative !important;
 }
 .flexRow--BannerLoja-Container :global(.vtex-store-components-3-x-container) {
@@ -157,8 +155,17 @@
 .flexRowContent--NS-TitleContainer .stretchChildrenWidth {
   position: relative !important;
 }
-@media(min-width:768px){
-  .flexColChild--bloco-produtos-lado-direito:last-child{
+.flexCol--seguranca-footer-1 {
+  flex-direction: row;
+}
+.flexRowContent--formas-de-pagamento-conteudo
+  :global(.vtex-rich-text-0-x-strong),
+.flexRowContent--politica-de-privacidade-conteudo
+  :global(.vtex-rich-text-0-x-strong) {
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  .flexColChild--bloco-produtos-lado-direito:last-child {
     margin-top: 150px;
   }
 }

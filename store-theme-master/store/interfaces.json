@@ -16,5 +16,8 @@
     },
     "EditDataLayer":{
         "component": "datalayerEdit"
+    },
+    "RASeal":{
+        "component": "RASeal"
     }
 }

@@ -1,8 +1,9 @@
 {
     "store.custom#nossas-lojas-matriz": {
       "blocks": [
-        "flex-layout.row#nossas-lojas-matriz-banner", 
-        "flex-layout.row#nossas-lojas-matriz-bloco",   
+        "rich-text#h1-tag-seo",
+        "flex-layout.row#nossas-lojas-matriz-banner",
+        "flex-layout.row#nossas-lojas-matriz-bloco",
         "flex-layout.row#nossas-lojas-matriz-bloco6"
       ]
     },
@@ -57,7 +58,7 @@
     },
     "flex-layout.col#text-nossas-matriz-lojas": {
       "children": [
-        "rich-text#nossas-lojas-matriz-title", 
+        "rich-text#nossas-lojas-matriz-title",
         "rich-text#nossas-lojas-matriz-end",
         "rich-text#nossas-lojas-matriz-end-cont",
         "rich-text#nossas-lojas-matriz-end-cep",
@@ -67,7 +68,7 @@
         "rich-text#nossas-lojas-matriz-whatsapp",
         "rich-text#nossas-lojas-matriz-0-800",
         "rich-text#nossas-lojas-matriz-email"
-      
+
       ],
       "props": {
         "preventVerticalStretch": true
@@ -111,7 +112,7 @@
         "blockClass": "como-chegar-loja"
       }
     },
-   
+
     "rich-text#nossas-lojas-matriz-televendas-todo-brasil": {
       "props": {
         "text": "TELEVENDAS - (TODO BRASIL)",
@@ -154,24 +155,24 @@
         "blockClass": "nossas-lojas-topo"
       }
     },
-   
+
 
     "rich-text#textomatriz": {
         "props": {
-      
+
           "text": "Esta unidade é a primeira Ninja Som e também nossa loja matriz. \n \n  Com mais de 350m² de loja, aqui você encontra todas nossas linhas de produtos no centro de São Paulo e vendedores especializados em diversos instrumentos musicais e áudio",
-        
+
           "blockClass": "fonte-nossas-lojas-internas"
         }
       },
-    
-
-
-    
 
 
 
-    
+
+
+
+
+
     "flex-layout.row#nossas-lojas-matriz-bloco6":{
 
       "children": [ "flex-layout.col#lojas-bloco6"],

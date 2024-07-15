@@ -18,7 +18,6 @@ const NossasLojas = ({ list, pageTitle }) => {
     const hc = handlesCC.handles
     return (
         <section className={hc['NJ-Section']}>
-            <h1>{pageTitle}</h1>
             <div className={hc["NJ-Container"]}>
                 {newList.length && newList.map((item, index) => {
                     return (
@@ -28,7 +27,7 @@ const NossasLojas = ({ list, pageTitle }) => {
                             <div className={hc["NJ-Card"]} key={index}>
                                 <img className={hc["NJ-Image"]} src={item.imgURL} alt={item.title} />
                                 <div className={hc["NJ-Desc"]}>
-                                    <h3 className={hc["NJ-Title"]} >{item.title}</h3>
+                                    <h2 className={hc["NJ-Title"]} >{item.title}</h2>
                                     <RichText className={hc['NJ-Desc']} text={item.description}/>
                                 </div>
                             </div>

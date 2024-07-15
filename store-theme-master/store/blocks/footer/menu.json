@@ -2,7 +2,7 @@
   "vtex.menu@2.x:menu#Products": {
     "props": {
       "orientation": "vertical"
-     
+
     },
     "children": [
       "rich-text#tituloinstitucionalfooter",
@@ -112,8 +112,8 @@
       "flex-layout.row#redes-sociais-footer",
       "rich-text#titulosegurancafooter",
       "flex-layout.row#seguranca-footer"
-      
-    
+
+
     ]
   },
 
@@ -149,7 +149,7 @@
 
 
 
-  
+
   "flex-layout.col#redes-sociais-footer-2":{
     "props": {
       "blockClass": "redes-sociais-footer-2"
@@ -203,7 +203,8 @@
       "blockClass": "seguranca-footer-1"
     },
     "children": [
-      "image#pci"
+      "image#pci",
+      "RASeal"
     ]
 
   },
@@ -257,7 +258,7 @@
     }
   },
 
- 
+
 
 
   "menu-item#smartphones": {
@@ -378,7 +379,7 @@
       "menu-item#tank-tops",
       "menu-item#shirts",
       "menu-item#sweatshirt"
-    
+
     ]
   },
 
@@ -432,7 +433,7 @@
       "menu-item#quem-somos",
       "menu-item#nossaslojas",
       "menu-item#trabalheconosco"
-   
+
     ]
   },
 

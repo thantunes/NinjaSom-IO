@@ -9,11 +9,6 @@
   font-weight: bold;
 }
 
-.trigger--question:focus,
-.trigger--question:focus :global(.vtex-rich-text-0-x-paragraph) {
-  color: #0F3E99;
-}
-
 .trigger :global(.vtex-store-icons-0-x-caretIcon) {
   margin-right: 1rem;
 }
