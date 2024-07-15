@@ -76,6 +76,7 @@
       "flex-layout.row#banner-one",
       "flex-layout.row#banner-two-three",
       "flex-layout.row#result",
+      "__fold__",
       "flex-layout.row#banner-four"
     ],
     "props": {
