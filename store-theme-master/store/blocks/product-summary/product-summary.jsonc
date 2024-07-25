@@ -40,7 +40,8 @@
     "props": {
       "showBadge": false,
       "aspectRatio": "1:1",
-      "maxHeight": 300
+      "maxHeight": 300,
+      "fetchpriority": "byPosition"
     }
   },
 
