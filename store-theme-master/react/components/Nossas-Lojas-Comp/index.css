@@ -7,6 +7,9 @@
     max-width: 1230px;
     margin: 0 auto;
 }
+.wrapper {
+  padding-left: 20px;
+}
 .NJ-Container a {
     text-decoration: none;
 
@@ -24,7 +27,7 @@
 .NJ-Card {
     width: 320px;
     margin: 30px 45px;
-    height: 377px;
+    height: fit-content;
     background: white;
 }
 
