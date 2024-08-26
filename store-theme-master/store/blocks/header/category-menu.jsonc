@@ -32,7 +32,7 @@
   "vtex.menu@2.x:submenu#category-audio-profissional": {
     "props": {
       "width": "100%"
-    
+
     },
     "children": [
       "vtex.menu@2.x:menu#category-audio-profissional"
@@ -44,7 +44,7 @@
       "blockClass": "bloco-compre-por-departamento-audio-megamenu"
     },
     "children": [
-      
+
       "flex-layout.col#menu-audio-profissional-1",
       "flex-layout.col#menu-audio-profissional-2",
       "flex-layout.col#menu-audio-profissional-3",
@@ -78,7 +78,7 @@
       "orientation": "vertical"
     },
     "children": [
-   
+
       "menu-item#category-audio",
       "menu-item#category-audio-acessorios",
       "menu-item#category-audio-alto-falantes",
@@ -97,7 +97,7 @@
   },
 
 
-  
+
   "flex-layout.col#category-menu-estudio": {
     "children": [
      "vtex.menu@2.x:menu#category-menu-estudio"
@@ -499,7 +499,7 @@
   },
 
 
-  
+
   "menu-item#category-audio-directbox": {
     "props": {
       "id": "menu-item-category-audio-directbox",
@@ -706,7 +706,7 @@
       "menu-item#category-principal-som-ambiente-seletores",
       "menu-item#category-principal-som-ambiente-suportes",
       "menu-item#category-principal-som-transformadores"
-      
+
 
     ]
   },
@@ -991,7 +991,7 @@
 
 
 
-  
+
 
 
 
@@ -1019,7 +1019,7 @@
     },
 
     "children": [
-     
+
       "vtex.menu@2.x:menu#category-instrumentos-profissional"
     ]
   },
@@ -1064,7 +1064,7 @@
   "flex-layout.col#category-instrumentos-2-cont" :{
     "children": [
       "vtex.menu@2.x:menu#category-instrumentos-2"
-    
+
      ]
 
   },
@@ -1078,7 +1078,7 @@
       "orientation": "vertical"
     },
     "children": [
-   
+
       "menu-item#category-instrumentos-cordas",
       "menu-item#category-instrumentos-cordas-acessorios",
       "menu-item#category-instrumentos-cordas-amplificadores",
@@ -1500,7 +1500,7 @@
       }
     }
   },
- 
+
 
 
   "menu-item#category-instrumentos-percussao-agogo": {
@@ -1585,7 +1585,7 @@
       }
     }
   },
- 
+
 
   "menu-item#category-instrumentos-percussao-bongo": {
     "props": {
@@ -1786,7 +1786,7 @@
   "flex-layout.col#category-instrumentos-3-cont" :{
     "children": [
       "vtex.menu@2.x:menu#category-instrumentos-3"
-    
+
      ]
 
   },
@@ -1927,7 +1927,7 @@
   },
 
 
-  
+
   "menu-item#category-instrumentos-percussao-repinique": {
     "props": {
       "id": "menu-item-category-percussao-repinique",
@@ -1946,7 +1946,7 @@
 
 
 
-    
+
   "menu-item#category-instrumentos-percussao-repique": {
     "props": {
       "id": "menu-item-category-percussao-repique",
@@ -1983,7 +1983,7 @@
 
 
 
-  
+
   "menu-item#category-instrumentos-percussao-tamborim": {
     "props": {
       "id": "menu-item-category-percussao-tamborim",
@@ -2037,7 +2037,7 @@
 
 
 
-  
+
   "menu-item#category-instrumentos-percussao-timba": {
     "props": {
       "id": "menu-item-category-percussao-timba",
@@ -2343,7 +2343,7 @@
   },
 
 
-  
+
   "menu-item#category-estudio-monitores": {
     "props": {
       "id": "menu-item-category-estudio-monitores",
@@ -2487,7 +2487,7 @@
 
 
 
-  
+
   "flex-layout.col#category-instrumentos-4": {
     "children": [
       "flex-layout.col#category-instrumentos-4-cont"
@@ -2499,7 +2499,7 @@
   "flex-layout.col#category-instrumentos-4-cont" :{
     "children": [
       "vtex.menu@2.x:menu#category-instrumentos-4"
-    
+
      ]
 
   },
@@ -2578,7 +2578,7 @@
       }
     }
   },
- 
+
 
   "menu-item#category-instrumentos-sopro-clarinetas": {
     "props": {
@@ -2630,7 +2630,7 @@
   },
 
 
-  
+
   "menu-item#category-instrumentos-sopro-gaitas": {
     "props": {
       "id": "menu-item-category-sopro-gaitas",
@@ -2718,7 +2718,7 @@
 
 
 
- 
+
 "flex-layout.col#category-instrumentos-5": {
   "children": [
     "flex-layout.col#category-instrumentos-5-cont"
@@ -2730,7 +2730,7 @@
 "flex-layout.col#category-instrumentos-5-cont" :{
   "children": [
     "vtex.menu@2.x:menu#category-instrumentos-5"
-  
+
    ]
 
 },
@@ -2931,7 +2931,7 @@
   "vtex.menu@2.x:submenu#lojas": {
     "children": [
       "vtex.menu@2.x:menu#submenulojas"
-      
+
     ]
   },
   "vtex.menu@2.x:menu#submenulojas": {
@@ -2950,7 +2950,8 @@
       "menu-item#nossas-lojas-sj",
       "menu-item#nossas-lojas-bh",
       "menu-item#nossas-lojas-nssom",
-      "menu-item#nossas-lojas-santos"
+      "menu-item#nossas-lojas-santos",
+      "menu-item#nossas-lojas-ribeirao-preto"
     ]
   },
 
@@ -2984,7 +2985,7 @@
   },
   "flex-layout.row#menu-compre-por-departamento": {
     "children": [
-      "flex-layout.col#category-audio",   
+      "flex-layout.col#category-audio",
       "flex-layout.col#category-instrumentos-1",
       "flex-layout.col#category-menu-estudio",
       "flex-layout.col#category-menu-home-theater",
@@ -3102,7 +3103,7 @@
     "props": {
       "src": "/arquivos/banner-audio-profissional.png",
       "link": "/audio-profissional"
-     
+
     }
   },
 
@@ -3111,7 +3112,7 @@
     "props": {
       "src": "/arquivos/banner-som-ambiente.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3120,7 +3121,7 @@
     "props": {
       "src": "/arquivos/banner-home-theater.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3129,7 +3130,7 @@
     "props": {
       "src": "/arquivos/banner-estudio.png",
       "link": "/audio-profissional"
-     
+
     }
   },
 
@@ -3137,7 +3138,7 @@
     "props": {
       "src": "/arquivos/banner-linha-akg.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3145,7 +3146,7 @@
     "props": {
       "src": "/arquivos/banner-linha-akg.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3156,7 +3157,7 @@
     "props": {
       "src": "/arquivos/megamenu-io-cordas.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3164,14 +3165,14 @@
     "props": {
       "src": "/arquivos/megamenu-io-percussao.png",
       "link": "/audio-profissional"
-    
+
     }
   },
   "image#sopro-megamennu": {
     "props": {
       "src": "/arquivos/megamenu-io-sopro.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3179,7 +3180,7 @@
     "props": {
       "src": "/arquivos/megamenu-io-teclas.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3187,7 +3188,7 @@
     "props": {
       "src": "/arquivos/vtex-io-genos-yamaha.png",
       "link": "/audio-profissional"
-    
+
     }
   },
 
@@ -3371,7 +3372,7 @@
   },
 
 
-  
+
   "menu-item#category-geral-home-video": {
     "props": {
       "id": "menu-item-category-geral-video",
@@ -3441,7 +3442,7 @@
   },
 
 
-  
+
   "menu-item#cordasvertodosmobile": {
     "props": {
       "id": "menu-item-category-cordas-ver-todos",
@@ -3537,6 +3538,22 @@
         "noFollow": false,
         "tagTitle": "Matriz - SP",
         "text": "Matriz - SP"
+      }
+    }
+  },
+
+  "menu-item#nossas-lojas-ribeirao-preto": {
+    "props": {
+      "id": "menu-item-category-audio-alto-falantes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/nossas-lojas/loja-de-som-e-instrumentos-em-ribeirao-preto ",
+        "noFollow": false,
+        "tagTitle": "Ribeirão Preto - SP",
+        "text": "Ribeirão Preto - SP"
       }
     }
   },
