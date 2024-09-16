@@ -424,18 +424,27 @@
   "flex-layout.row#banner-one": {
     "children": [
       "search-banner#one"
-    ]
+    ],
+    "props": {
+      "blockClass": "Banner-area-1"
+    }
   },
   "flex-layout.row#banner-two-three": {
     "children": [
       "flex-layout.col#banner-two",
       "flex-layout.col#banner-three"
-    ]
+    ],
+    "props": {
+      "blockClass": "Banner-area-2-3"
+    }
   },
   "flex-layout.col#banner-two": {
     "children": [
       "search-banner#two"
-    ]
+    ],
+    "props": {
+      "blockClass": "Banner-area-2"
+    }
   },
   "search-banner#two": {
     "props": {
