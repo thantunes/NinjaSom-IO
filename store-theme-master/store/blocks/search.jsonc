@@ -252,6 +252,7 @@
   "search-result-layout.mobile": {
     "children": [
       "search-title.v2",
+      "flex-layout.row#banner-two-three",
       "flex-layout.row#searchinfomobile",
       "flex-layout.row#searchbread",
       "flex-layout.row#productCountMobile",

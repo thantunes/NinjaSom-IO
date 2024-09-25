@@ -79,3 +79,8 @@
 :global(.vtex-search-2-x-biggy-autocomplete-wrapper) {
   width: 24vw;
 }
+@media screen and (max-width: 768px) {
+  :global(.vtex-store-components-3-x-searchBarContainer) {
+    width: 100%;
+  }
+}
