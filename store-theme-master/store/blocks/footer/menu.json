@@ -143,7 +143,10 @@
   "image#instagram": {
     "props": {
       "src": "/arquivos/instagram-io.png",
-      "maxHeight": 23
+      "maxHeight": 23,
+      "link": {
+        "url": "https://www.instagram.com/ninjasom"
+      }
     }
   },
 
@@ -163,7 +166,10 @@
   "image#facebook": {
     "props": {
       "src": "/arquivos/facebook-io.png",
-      "maxHeight": 23
+      "maxHeight": 23,
+      "link": {
+        "url": "https://www.facebook.com/ninjasomoficial"
+      }
     }
   },
 
@@ -183,7 +189,10 @@
   "image#twitter": {
     "props": {
       "src": "/arquivos/twitter-io.png",
-      "maxHeight": 23
+      "maxHeight": 23,
+      "link": {
+        "url": "https://twitter.com/ninjasom"
+      }
     }
   },
 
