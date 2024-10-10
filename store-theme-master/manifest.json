@@ -1,7 +1,7 @@
 {
   "vendor": "ninjasom",
   "name": "theme",
-  "version": "6.0.8",
+  "version": "6.0.10",
   "builders": {
     "styles": "2.x",
     "store": "0.x",

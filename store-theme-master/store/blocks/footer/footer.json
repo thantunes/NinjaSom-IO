@@ -27,10 +27,18 @@
     "children": [
       "image#logo-footer",
       "rich-text#logo-footer",
+      "image#dealer-logo-footer",
       "flex-layout.col#whatsappflutuante"
     ],
     "props": {
       "blockClass": "logo-footer"
+    }
+  },
+
+  "image#dealer-logo-footer": {
+    "props": {
+      "src": "/arquivos/ninja-dealer-logo.svg",
+      "blockClass": "logo-dealer-footer"
     }
   },
 
