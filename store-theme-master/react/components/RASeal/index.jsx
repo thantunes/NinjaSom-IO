@@ -10,13 +10,6 @@ const RASeal = () => {
     script.setAttribute("data-target", "ra-verified-seal");
     script.setAttribute("data-model", "1");
 
-    const RDScript = document.createElement('script')
-    RDScript.type = 'text/javascript'
-    RDScript.async = true
-    RDScript.src =
-      'https://d335luupugsy2.cloudfront.net/js/loader-scripts/561ffdb4-d4a4-488f-ac0d-90249101ca25-loader.js'
-    document.head.appendChild(RDScript)
-
     // Append the script to the document body or head
     document.body.appendChild(script);
 
