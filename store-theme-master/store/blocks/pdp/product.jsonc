@@ -3,7 +3,7 @@
     "children": [
       "flex-layout.row#product-breadcrumb",
       "condition-layout.product#availability",
-      "__fold__",
+      // "__fold__",
       "flex-layout.row#description",
       "flex-layout.row#specifications-title",
       "product-specification-group#table",
