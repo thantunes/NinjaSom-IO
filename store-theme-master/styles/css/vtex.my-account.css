@@ -2469,7 +2469,28 @@
   opacity: 1 !important;
   font-family: Montserrat, sans-serif !important;
 }
+
+:global(.vtex-flex-layout-0-x-flexRow--main-header)
+:global(.vtex-login-2-x-container)
+:global(.hover-bg-action-secondary:hover) {
+  background-color: #044fbf!important;
+}
+
+:global(.vtex-minicart-2-x-openIconContainer)
+:global(.hover-bg-action-secondary:hover) {
+  background-color: #044fbf!important;
+}
+
 @media screen and (max-width: 992px) {
+
+
+  :global(.vtex-search-2-x-biggy-autocomplete-wrapper) {
+    width: 95vw!important;
+    max-width: 350px;
+}
+
+
+
   :global(.ninjasom-theme-5-x-NJ-Card) {
     width: auto !important;
     margin: 10px 20px !important;
@@ -2504,3 +2525,12 @@
   :global(.vtex-iframe-0-x-container) {
   margin-top: 75px;
 }
+
+
+
+:global(#bricks-component-MOhu9V27ecRvOpAJ3A1YcA-wrapper) {
+  position: fixed;
+  z-index: 9999999999!important;
+}
+:global(.vtex-flex-layout-0-x-flexRowContent--bloco-nova-news)
+:global(.vtex-checkbox__label){color:#fff!important;}
