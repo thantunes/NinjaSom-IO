@@ -2534,3 +2534,59 @@
 }
 :global(.vtex-flex-layout-0-x-flexRowContent--bloco-nova-news)
 :global(.vtex-checkbox__label){color:#fff!important;}
+
+
+:global(.vtex-flex-layout-0-x-flexRow--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationsTableHead){display:none;}
+
+:global(.vtex-flex-layout-0-x-flexRow--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationsTitle){display:none;}
+
+:global(.vtex-flex-layout-0-x-flexRow--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationItemProperty){display:none;}
+
+:global(.vtex-flex-layout-0-x-flexRow--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationsTableRow) {
+
+  font-family: Montserrat, sans-serif;
+
+}
+:global(.vtex-flex-layout-0-x-flexRow--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationsTableContainer){
+
+  padding-left: 0;
+}
+
+:global(.vtex-availability-notify-1-x-notiferContainer) {
+  background-color: #034fbf;
+  padding: 20px 20px;
+}
+
+:global(.vtex-availability-notify-1-x-title) {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+:global(.vtex-availability-notify-1-x-notifyLabel) {
+  color: #fff;
+}
+
+:global(.vtex-flex-layout-0-x-flexCol--info-availability){
+  background-color: #fff;
+
+}
+
+:global(.vtex-flex-layout-0-x-flexRowContent--descricao-curta-pdp)
+:global(.vtex-store-components-3-x-specificationsTable){    background-color: #fff;}
+
+
+:global(.vtex-availability-notify-1-x-submit)
+:global(.vtex-button__label) {
+  color: #fff;
+  background-color: #034fbf;
+}
+
+:global(.vtex-availability-notify-1-x-submit)
+:global(.vtex-button) {
+  background-color: #034fbf;
+}
