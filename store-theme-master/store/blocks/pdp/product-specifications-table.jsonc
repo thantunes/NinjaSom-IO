@@ -7,16 +7,18 @@
   "flex-layout.row#spec-group": {
     "props": {
       "blockClass": "productSpecificationGroup"
+     
     },
     "children": [
       "flex-layout.col#spec-group"
     ]
+ 
   },
   "flex-layout.col#spec-group": {
     "children": [
       "flex-layout.row#spec-group-name",
       "product-specification"
-    ]
+    ] 
   },
   "flex-layout.row#spec-group-name": {
     "props": {
